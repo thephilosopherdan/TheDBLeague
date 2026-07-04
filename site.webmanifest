@@ -1,0 +1,12 @@
+{
+    "name": "The D.B. League",
+    "short_name": "DB League",
+    "description": "The League of Avoiding Losses to Lifelong Drinking Buddies — est. 2014.",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#14100B",
+    "theme_color": "#14100B",
+    "icons": [
+        { "src": "logos/league.png", "sizes": "512x512", "type": "image/png" }
+    ]
+}

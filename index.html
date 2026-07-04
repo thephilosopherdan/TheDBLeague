@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The D.B. League | Official Portal</title>
+    <meta name="description" content="The League of Avoiding Losses to Lifelong Drinking Buddies — est. 2014. Standings, dynasty rankings, The Briggs, and more.">
+    <link rel="icon" type="image/png" href="logos/league.png">
+    <link rel="apple-touch-icon" href="logos/league.png">
+    <link rel="manifest" href="site.webmanifest">
+    <meta name="theme-color" content="#14100B">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="The D.B. League">
+    <meta property="og:title" content="The D.B. League | Official Portal">
+    <meta property="og:description" content="The League of Avoiding Losses to Lifelong Drinking Buddies — live standings, dynasty rankings, The Briggs hall of shame, trade lab & more.">
+    <meta property="og:image" content="logos/league.png">
+    <meta name="twitter:card" content="summary">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,500;0,700;0,900;1,900&family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@400;700&display=swap');
+
+        :root {
+            --amber: #F5A623;
+            --amber-deep: #C47D0E;
+            --foam: #FFF3DC;
+            --bg: #14100B;
+            --panel: #1D1811;
+            --line: rgba(255,243,220,0.08);
+        }
+
+        html { scroll-behavior: smooth; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg);
+            color: #E8E0D0;
+            overflow-x: hidden;
+        }
+        body.modal-open { overflow: hidden; }
+
+        /* barroom backdrop: warm glow + hop-vine contours */
+        body::before {
+            content: '';
+            position: fixed; inset: 0; z-index: -2;
+            background:
+                radial-gradient(ellipse 80% 50% at 70% -10%, rgba(245,166,35,0.07), transparent 60%),
+                radial-gradient(ellipse 60% 40% at 10% 110%, rgba(196,125,14,0.06), transparent 60%),
+                var(--bg);
+        }
+        body::after {
+            content: '';
+            position: fixed; inset: 0; z-index: -1; opacity: 0.045; pointer-events: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120' viewBox='0 0 120 120'%3E%3Cg fill='none' stroke='%23F5A623' stroke-width='1'%3E%3Ccircle cx='60' cy='60' r='22'/%3E%3Cpath d='M60 38 l4 -6 M60 38 l-4 -6 M82 60 l6 4 M82 60 l6 -4 M60 82 l4 6 M60 82 l-4 6 M38 60 l-6 4 M38 60 l-6 -4'/%3E%3C/g%3E%3C/svg%3E");
+            background-size: 120px;
+        }
+
+        .display { font-family: 'Archivo', sans-serif; font-weight: 900; font-style: italic; letter-spacing: -0.02em; }
+        .mono { font-family: 'JetBrains Mono', monospace; }
+
+        .grad-gold {
+            background: linear-gradient(100deg, #FFD07A 0%, var(--amber) 45%, var(--amber-deep) 100%);
+            -webkit-background-clip: text; background-clip: text; color: transparent;
+        }
+
+        .panel {
+            background: linear-gradient(170deg, rgba(255,243,220,0.03), rgba(255,243,220,0.005));
+            background-color: var(--panel);
+            border: 1px solid var(--line);
+        }
+        .panel-gold {
+            background: linear-gradient(150deg, rgba(245,166,35,0.10) 0%, var(--panel) 55%);
+            border: 1px solid rgba(245,166,35,0.3);
+            box-shadow: 0 0 35px rgba(245,166,35,0.07);
+        }
+
+        .glass { background: rgba(20,16,11,0.85); backdrop-filter: blur(14px); }
+        [data-nav] {
+            font-family: 'Archivo', sans-serif; font-weight: 700;
+            font-size: 11px; letter-spacing: 0.11em; text-transform: uppercase;
+            color: #9A8F7A; padding: 8px 2px; position: relative;
+            transition: color 0.2s; white-space: nowrap;
+        }
+        [data-nav]:hover { color: #fff; }
+        [data-nav].nav-active { color: #fff; }
+        [data-nav].nav-active::after {
+            content: ''; position: absolute; left: 0; right: 0; bottom: -1px; height: 2px;
+            background: linear-gradient(90deg, var(--amber), transparent);
+        }
+
+        #mobile-nav { display: none; }
+        @media (max-width: 768px) {
+            #desktop-nav { display: none; }
+            #mobile-nav {
+                display: flex; position: fixed; bottom: 0; left: 0; right: 0; z-index: 60;
+                border-top: 1px solid var(--line);
+            }
+            #mobile-nav [data-nav] { flex: 1; text-align: center; padding: 10px 0 max(10px, env(safe-area-inset-bottom)); font-size: 8px; letter-spacing: 0.08em; }
+            #mobile-nav [data-nav] i { display: block; font-size: 15px; margin-bottom: 3px; }
+            #mobile-nav [data-nav].nav-active { color: var(--amber); }
+            #mobile-nav [data-nav].nav-active::after { display: none; }
+            body { padding-bottom: 72px; }
+        }
+
+        .pill {
+            font-family: 'JetBrains Mono', monospace; font-size: 10px; text-transform: uppercase; letter-spacing: 0.12em;
+            padding: 7px 14px; border-radius: 999px; border: 1px solid var(--line);
+            color: #A89B84; background: rgba(255,243,220,0.02); transition: all 0.2s; cursor: pointer;
+            display: inline-flex; align-items: center; gap: 4px;
+        }
+        .pill:hover { border-color: rgba(255,243,220,0.25); color: #fff; }
+        .pill-active { border-color: var(--amber); color: var(--amber); background: rgba(245,166,35,0.08); }
+
+        .input-dark {
+            background: rgba(255,243,220,0.04); border: 1px solid var(--line); border-radius: 10px;
+            padding: 9px 13px; font-size: 13px; color: #F0E8D8; outline: none;
+            font-family: 'JetBrains Mono', monospace;
+        }
+        .input-dark:focus { border-color: rgba(245,166,35,0.5); }
+        select.input-dark option { background: #1D1811; }
+
+        .badge {
+            width: 22px; height: 22px; border-radius: 50%; font-size: 10px;
+            display: inline-flex; align-items: center; justify-content: center;
+            border: 1px solid var(--line); cursor: help; transition: transform 0.15s;
+        }
+        .badge:hover { transform: translateY(-2px); }
+
+        .stat-label { display:block; font-family:'JetBrains Mono',monospace; font-size: 8.5px; text-transform: uppercase; letter-spacing: 0.18em; color: #766A55; }
+        .stat-num { font-family: 'Archivo', sans-serif; font-weight: 900; font-style: italic; font-size: 17px; }
+
+        .tx-tag {
+            font-family:'JetBrains Mono',monospace; font-size: 8.5px; letter-spacing: 0.12em;
+            padding: 2.5px 7px; border-radius: 5px; display: inline-flex; align-items: center;
+        }
+
+        .champ-banner {
+            background: linear-gradient(160deg, #2A1F06 0%, #4A3608 100%);
+            border-left: 10px solid var(--amber);
+            position: relative; overflow: hidden;
+            box-shadow: 0 12px 30px rgba(0,0,0,0.5);
+        }
+        .champ-banner::after {
+            content: 'CHAMPION'; position: absolute; right: -8px; bottom: -8px;
+            font-family: 'Archivo'; font-weight: 900; font-style: italic; font-size: 52px;
+            opacity: 0.07; transform: rotate(-8deg);
+        }
+
+        .timeline-seg::before {
+            content: ''; position: absolute; left: 6px; top: 18px; bottom: 0; width: 1.5px;
+            background: linear-gradient(to bottom, var(--amber), rgba(245,166,35,0.15));
+        }
+
+        .const-body { max-height: 0; overflow: hidden; transition: max-height 0.4s ease; }
+        .const-body.open { max-height: 2200px; }
+
+        #scroll-rope {
+            position: fixed; left: 0; top: 0; width: 2.5px; height: 0%; z-index: 90;
+            background: linear-gradient(to bottom, var(--amber), var(--amber-deep));
+            transition: height 0.1s linear;
+        }
+        #back-to-top {
+            position: fixed; bottom: 88px; right: 18px; z-index: 70;
+            width: 44px; height: 44px; border-radius: 50%; cursor: pointer;
+            background: linear-gradient(135deg, var(--amber), var(--amber-deep));
+            display: flex; align-items: center; justify-content: center;
+            opacity: 0; visibility: hidden; transition: all 0.3s;
+            box-shadow: 0 6px 18px rgba(245,166,35,0.3);
+        }
+        @media (min-width: 769px) { #back-to-top { bottom: 24px; right: 24px; } }
+        #back-to-top.show { opacity: 1; visibility: visible; }
+        #back-to-top:hover { transform: translateY(-3px); }
+        #back-to-top i { color: #14100B; font-size: 17px; }
+
+        .modal-overlay {
+            position: fixed; inset: 0; z-index: 100;
+            background: rgba(8,6,3,0.88); backdrop-filter: blur(10px);
+            display: flex; align-items: center; justify-content: center; padding: 1rem;
+        }
+        .modal-overlay.hidden { display: none; }
+
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: #3A3226; border-radius: 8px; }
+    </style>
+</head>
+<body class="min-h-screen">
+
+    <div id="scroll-rope"></div>
+    <div id="back-to-top" onclick="window.scrollTo({top:0,behavior:'smooth'})"><i class="fa-solid fa-chevron-up"></i></div>
+
+    <nav class="glass sticky top-0 z-50 border-b border-white/5">
+        <div class="max-w-7xl mx-auto px-4 py-3 flex flex-wrap items-center justify-between gap-x-4 gap-y-1">
+            <button onclick="go('hq')" class="flex items-center gap-3 flex-shrink-0 text-left">
+                <img src="logos/league.png" class="w-10 h-10 rounded-lg object-cover">
+                <div class="hidden sm:block">
+                    <h1 class="display text-lg uppercase leading-none"><span class="text-white">The D.B.</span> <span class="grad-gold">League</span></h1>
+                    <p class="mono text-[7px] uppercase tracking-[0.22em] text-stone-600 mt-1">Avoiding Losses to Lifelong Drinking Buddies · Est. 2014</p>
+                </div>
+            </button>
+            <div id="desktop-nav" class="flex items-center flex-wrap gap-x-4 lg:gap-x-6 gap-y-0">
+                <button data-nav="hq" onclick="go('hq')">HQ</button>
+                <button data-nav="league" onclick="go('league')">League</button>
+                <button data-nav="recap" onclick="go('recap')">Recap</button>
+                <button data-nav="dynasty" onclick="go('dynasty')">Dynasty</button>
+                <button data-nav="wire" onclick="go('wire')">The Wire</button>
+                <button data-nav="analytics" onclick="go('analytics')">Analytics</button>
+                <button data-nav="lab" onclick="go('lab')">Trade Lab</button>
+                <button data-nav="arcade" onclick="go('arcade')">Arcade</button>
+                <button data-nav="legacy" onclick="go('legacy')">Legacy</button>
+            </div>
+        </div>
+    </nav>
+
+    <div id="mobile-nav" class="glass">
+        <button data-nav="hq" onclick="go('hq')"><i class="fa-solid fa-beer-mug-empty"></i>HQ</button>
+        <button data-nav="league" onclick="go('league')"><i class="fa-solid fa-football"></i>League</button>
+        <button data-nav="recap" onclick="go('recap')"><i class="fa-solid fa-newspaper"></i>Recap</button>
+        <button data-nav="dynasty" onclick="go('dynasty')"><i class="fa-solid fa-crown"></i>Dynasty</button>
+        <button data-nav="wire" onclick="go('wire')"><i class="fa-solid fa-tower-broadcast"></i>Wire</button>
+        <button data-nav="analytics" onclick="go('analytics')"><i class="fa-solid fa-chart-line"></i>Stats</button>
+        <button data-nav="lab" onclick="go('lab')"><i class="fa-solid fa-flask"></i>Lab</button>
+        <button data-nav="arcade" onclick="go('arcade')"><i class="fa-solid fa-gamepad"></i>Arcade</button>
+        <button data-nav="legacy" onclick="go('legacy')"><i class="fa-solid fa-book"></i>Legacy</button>
+    </div>
+
+    <main id="view" class="max-w-7xl mx-auto px-4 py-8 sm:py-10"></main>
+
+    <footer class="max-w-7xl mx-auto px-4 pb-10 pt-4">
+        <div class="border-t border-white/5 pt-5 flex flex-col sm:flex-row justify-between gap-2">
+            <p class="mono text-[9px] uppercase tracking-[0.25em] text-stone-700">The D.B. League · Est. 2014 · 2nd Dynasty</p>
+            <p class="mono text-[9px] uppercase tracking-[0.25em] text-stone-700">Live data: Sleeper API · FantasyCalc</p>
+        </div>
+    </footer>
+
+    <div id="modal" class="modal-overlay hidden">
+        <div class="panel w-full max-w-4xl max-h-[90vh] overflow-y-auto rounded-2xl relative">
+            <button onclick="closeModal()" class="absolute top-4 right-4 text-slate-500 hover:text-white transition-colors z-10 w-9 h-9 rounded-full bg-white/5 flex items-center justify-center">
+                <i class="fa-solid fa-xmark text-lg"></i>
+            </button>
+            <div id="modal-body" class="p-5 sm:p-8"></div>
+        </div>
+    </div>
+
+    <script src="js/constants.js?v=1"></script>
+    <script src="js/api.js?v=1"></script>
+    <script src="js/dscore.js?v=1"></script>
+    <script src="js/recap.js?v=1"></script>
+    <script src="js/app.js?v=1"></script>
+</body>
+</html>
