@@ -1,5 +1,5 @@
 // ═════════════════════════════════════════════════════════════════════════
-//  IT'S THE CLIMB — ARCADE: ENDZONE RUN (top-down, Tecmo-style)
+//  THE D.B. LEAGUE — ARCADE: ENDZONE RUN (top-down, Tecmo-style)
 //  Madden-style kick meter: tap = lock the sweeping arrow, tap = lock power.
 //  RB: 30yd max, breaks 2 tackles · TE: 40yd, breaks 1 · WR: 60yd, breaks 0.
 //  Ball advances to the spot of each tackle. KO'd defenders stay down.
@@ -107,6 +107,7 @@ const ARCADE = (() => {
         const ANIMATED = ['run_rb', 'run_wr', 'run_te', 'def_stand', 'def_elite', 'teddy', 'ref', 'cheer'];
         im.onload = () => { if (ANIMATED.includes(k) && im.naturalWidth > im.naturalHeight * 1.55) im.frames = 2; };
     });
+    { const im = new Image(); im.src = 'assets/league_logo.png'; IMG.leaguelogo = im; }
     ['cones', 'cooler', 'tire'].forEach(k => {
         const im = new Image(); im.src = 'assets/' + k + '.png'; IMG[k] = im;
     });
@@ -709,16 +710,26 @@ const ARCADE = (() => {
         }
         const midX = X0 + 50 * PXYD;
         if (midX > cam - 90 && midX < cam + W + 90) {
-            cx.fillStyle = 'rgba(232,197,71,0.85)';
-            cx.beginPath(); cx.arc(midX, (FT + FB) / 2, 44, 0, Math.PI * 2); cx.fill();
-            cx.strokeStyle = 'rgba(11,14,20,0.6)'; cx.lineWidth = 3; cx.stroke();
-            cx.fillStyle = '#0B0E14'; cx.font = 'italic 900 26px Archivo'; cx.textAlign = 'center';
-            cx.fillText('ITC', midX, (FT + FB) / 2 + 9); cx.textAlign = 'left';
+            const midY = (FT + FB) / 2, mr = 46;
+            if (IMG.leaguelogo && IMG.leaguelogo.complete && IMG.leaguelogo.naturalWidth) {
+                cx.save();
+                cx.globalAlpha = 0.9;
+                cx.beginPath(); cx.arc(midX, midY, mr, 0, Math.PI * 2); cx.clip();
+                cx.drawImage(IMG.leaguelogo, midX - mr, midY - mr, mr * 2, mr * 2);
+                cx.restore();
+                cx.strokeStyle = 'rgba(11,14,20,0.55)'; cx.lineWidth = 3;
+                cx.beginPath(); cx.arc(midX, midY, mr, 0, Math.PI * 2); cx.stroke();
+            } else {
+                cx.fillStyle = 'rgba(245,166,35,0.85)';
+                cx.beginPath(); cx.arc(midX, midY, 44, 0, Math.PI * 2); cx.fill();
+                cx.fillStyle = '#14100B'; cx.font = 'italic 900 26px Archivo'; cx.textAlign = 'center';
+                cx.fillText('DB', midX, midY + 9); cx.textAlign = 'left';
+            }
         }
         cx.fillStyle = 'rgba(232,197,71,0.8)'; cx.fillRect(X0 - 110, FT, 110, FB - FT);
         cx.save(); cx.translate(X0 - 55, (FT + FB) / 2); cx.rotate(-Math.PI / 2);
-        cx.fillStyle = '#0B0E14'; cx.font = 'italic 900 30px Archivo'; cx.textAlign = 'center';
-        cx.fillText('THE CLIMB', 0, 10); cx.restore();
+        cx.fillStyle = '#0B0E14'; cx.font = 'italic 900 24px Archivo'; cx.textAlign = 'center';
+        cx.fillText('THE DB LEAGUE', 0, 8); cx.restore();
         const tCol2 = level != null ? TEAMS[level].color2 : '#1a2230';
         cx.fillStyle = tCol; cx.fillRect(EZX, FT, 130, FB - FT);
         cx.save(); cx.beginPath(); cx.rect(EZX, FT, 130, FB - FT); cx.clip();
