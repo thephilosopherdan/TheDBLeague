@@ -1,8 +1,145 @@
 {
- "generated_at": "2026-09-07T11:46:32.812Z",
+ "generated_at": "2026-09-07T12:08:53.042Z",
  "location": "Hanover, MA",
+ "weather": {
+  "date": "2026-09-07",
+  "high_f": 79,
+  "low_f": 52,
+  "precip_chance_pct": 0,
+  "summary": "Clear",
+  "afternoon": [
+   {
+    "hour": "08:00",
+    "temp_f": 59,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "09:00",
+    "temp_f": 63,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "10:00",
+    "temp_f": 67,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "11:00",
+    "temp_f": 70,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "12:00",
+    "temp_f": 73,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "16:00",
+    "temp_f": 79,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "17:00",
+    "temp_f": 79,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "18:00",
+    "temp_f": 77,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "19:00",
+    "temp_f": 72,
+    "precip_chance_pct": 0
+   }
+  ]
+ },
  "boston": {
-  "last_night": [],
-  "today": []
+  "last_night": [
+   {
+    "league": "MLB",
+    "line": "BOS 3, BAL 1 (F)"
+   }
+  ],
+  "today": [
+   {
+    "league": "MLB",
+    "line": "LAA at BOS, 1:35 PM"
+   }
+  ]
+ },
+ "fantasy": {
+  "week": 1,
+  "season_type": "regular",
+  "db_league": [
+   {
+    "owner": "Dan",
+    "team": "South Shore Dirty Dawgs",
+    "record": "0-0",
+    "opponent_owner": "jmccolgan",
+    "opponent_team": "Windy City Wankers",
+    "opponent_record": "0-0",
+    "opponent_projected": 99.5,
+    "projected": 162.8
+   },
+   {
+    "owner": "Melissa",
+    "team": "Belgian Tripel Mama",
+    "record": "0-0",
+    "opponent_owner": "velezjv",
+    "opponent_team": "Papa Bear Down Chi-Town",
+    "opponent_record": "0-0",
+    "opponent_projected": 143.3,
+    "projected": 127.1
+   },
+   {
+    "owner": "Theo",
+    "team": "The Peeps of America",
+    "record": "0-0",
+    "opponent_owner": "Tutes1173",
+    "opponent_team": "North End Cannolis ",
+    "opponent_record": "0-0",
+    "opponent_projected": 154.4,
+    "projected": 132.2
+   }
+  ],
+  "lineup_alarm": [
+   {
+    "owner": "Dan",
+    "league": "DB",
+    "player": "Tyler Warren",
+    "position": "TE",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "DB",
+    "player": "Zay Flowers",
+    "position": "WR",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Jeremiyah Love",
+    "position": "RB",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Zay Flowers",
+    "position": "WR",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Patrick Mahomes",
+    "position": "QB",
+    "status": "Questionable"
+   }
+  ]
  }
 }
