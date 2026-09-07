@@ -37,3 +37,16 @@ offline via `arcade/sw.js`, save key `endzone_run_db_v1`). All 10 defenses use t
 from Dan's pixel sheet; the ladder is the DB dynasty rankings; the top of the ladder is
 defended by the Dirty Dawgs, and, well… commissioner's privilege carried over. Deploy the
 whole `arcade/` folder with the site. Bump the CACHE string in `arcade/sw.js` when updating.
+
+## brief.json feed (morning-page data)
+
+`scripts/build-brief.mjs` + `.github/workflows/brief.yml` publish `data/brief.json`
+(weather for Hanover, Boston scores, family fantasy matchups + Dan's lineup alarm)
+every 3 hours via GitHub Actions. Deploy: commit `scripts/`, `.github/`, and `data/`
+along with the site. After the first push, run the workflow once manually
+(Actions → "Build brief.json" → Run workflow), then the feed lives at
+`https://<user>.github.io/<repo>/data/brief.json`. Requires Actions enabled and
+default workflow permissions set to Read+Write (Settings → Actions → General),
+and Pages set to Deploy-from-branch so the bot's commits publish automatically.
+The script never writes stale values — failed sections are omitted; consumers
+should check `generated_at`.
