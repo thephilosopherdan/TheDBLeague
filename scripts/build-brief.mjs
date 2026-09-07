@@ -79,8 +79,10 @@ function eventLine(ev) {
 async function boston() {
   const last_night = [], today = [];
   const now = Date.now(), dayMs = 864e5;
+  let anyOk = false;
   for (const [league, path] of TEAMS) {
     const d = await tryGet(() => j(`https://site.api.espn.com/apis/site/v2/sports/${path}/schedule`));
+    if (d) anyOk = true;
     const events = d?.events; if (!Array.isArray(events) || !events.length) continue;
     const past = events.filter((e) => new Date(e.date) < now && e.competitions?.[0]?.status?.type?.completed);
     const next = events.find((e) => new Date(e.date) >= now - 3 * 36e5 && !e.competitions?.[0]?.status?.type?.completed);
@@ -92,6 +94,7 @@ async function boston() {
       const line = eventLine(next); if (line) today.push({ league, line });
     }
   }
+  if (!anyOk) throw new Error('all ESPN fetches failed');
   return { last_night, today };
 }
 
@@ -100,7 +103,11 @@ const S = 'https://api.sleeper.app/v1';
 
 async function fantasy() {
   const state = await j(`${S}/state/nfl`);
-  const week = state.week, season = state.season, seasonType = state.season_type;
+  const season = state.season;
+  let week = state.week, seasonType = state.season_type;
+  // Opening-week edge: Sleeper reports 'pre' until kickoff, but week-1 matchups,
+  // projections and schedule already exist — treat 'pre' as regular week 1.
+  if (seasonType === 'pre') { seasonType = 'regular'; week = Math.max(week || 1, 1); }
   const out = { week, season_type: seasonType };
   if (seasonType !== 'regular' && seasonType !== 'post') return out;
 
