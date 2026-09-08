@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T23:12:24.692Z",
+ "generated_at": "2026-09-08T02:19:11.022Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-07",
@@ -50,7 +50,7 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 72,
+    "temp_f": 73,
     "precip_chance_pct": 0
    }
   ]
@@ -101,7 +101,7 @@
     "opponent_team": "North End Cannolis ",
     "opponent_record": "0-0",
     "opponent_projected": 154.4,
-    "projected": 132.3
+    "projected": 132.2
    }
   ],
   "lineup_alarm": [
