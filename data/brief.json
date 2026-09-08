@@ -1,57 +1,57 @@
 {
- "generated_at": "2026-09-08T02:19:11.022Z",
+ "generated_at": "2026-09-08T07:37:20.990Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-09-07",
-  "high_f": 79,
-  "low_f": 52,
-  "precip_chance_pct": 0,
-  "summary": "Mostly sunny",
+  "date": "2026-09-08",
+  "high_f": 77,
+  "low_f": 57,
+  "precip_chance_pct": 1,
+  "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 59,
+    "temp_f": 63,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 64,
-    "precip_chance_pct": 0
+    "temp_f": 67,
+    "precip_chance_pct": 1
    },
    {
     "hour": "10:00",
-    "temp_f": 69,
-    "precip_chance_pct": 0
+    "temp_f": 72,
+    "precip_chance_pct": 1
    },
    {
     "hour": "11:00",
-    "temp_f": 72,
-    "precip_chance_pct": 0
+    "temp_f": 75,
+    "precip_chance_pct": 1
    },
    {
     "hour": "12:00",
     "temp_f": 75,
-    "precip_chance_pct": 0
+    "precip_chance_pct": 1
    },
    {
     "hour": "16:00",
-    "temp_f": 79,
-    "precip_chance_pct": 0
+    "temp_f": 74,
+    "precip_chance_pct": 1
    },
    {
     "hour": "17:00",
-    "temp_f": 78,
-    "precip_chance_pct": 0
+    "temp_f": 72,
+    "precip_chance_pct": 1
    },
    {
     "hour": "18:00",
-    "temp_f": 77,
-    "precip_chance_pct": 0
+    "temp_f": 70,
+    "precip_chance_pct": 1
    },
    {
     "hour": "19:00",
-    "temp_f": 73,
-    "precip_chance_pct": 0
+    "temp_f": 67,
+    "precip_chance_pct": 1
    }
   ]
  },
@@ -100,7 +100,7 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "0-0",
-    "opponent_projected": 154.4,
+    "opponent_projected": 154.5,
     "projected": 132.2
    }
   ],
