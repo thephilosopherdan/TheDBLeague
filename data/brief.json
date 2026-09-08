@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-08T18:12:44.970Z",
+ "generated_at": "2026-09-08T23:05:17.040Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-08",
-  "high_f": 80,
+  "high_f": 79,
   "low_f": 56,
   "precip_chance_pct": 4,
   "summary": "Cloudy",
@@ -35,22 +35,22 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 79,
+    "temp_f": 76,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 75,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "18:00",
     "temp_f": 73,
     "precip_chance_pct": 0
    },
    {
+    "hour": "18:00",
+    "temp_f": 71,
+    "precip_chance_pct": 0
+   },
+   {
     "hour": "19:00",
-    "temp_f": 70,
+    "temp_f": 68,
     "precip_chance_pct": 0
    }
   ]
@@ -80,8 +80,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "0-0",
-    "opponent_projected": 99.5,
-    "projected": 162.6
+    "opponent_projected": 118.6,
+    "projected": 158.2
    },
    {
     "owner": "Melissa",
@@ -90,8 +90,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "0-0",
-    "opponent_projected": 143.3,
-    "projected": 127.2
+    "opponent_projected": 140.7,
+    "projected": 113.8
    },
    {
     "owner": "Theo",
@@ -100,8 +100,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "0-0",
-    "opponent_projected": 154.4,
-    "projected": 132.2
+    "opponent_projected": 150.3,
+    "projected": 131.3
    }
   ],
   "lineup_alarm": [
