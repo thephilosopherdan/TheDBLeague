@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-09T18:12:46.504Z",
+ "generated_at": "2026-09-09T22:51:10.318Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-09",
-  "high_f": 80,
+  "high_f": 79,
   "low_f": 56,
-  "precip_chance_pct": 13,
+  "precip_chance_pct": 27,
   "summary": "Cloudy",
   "afternoon": [
    {
@@ -35,23 +35,23 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 79,
+    "temp_f": 76,
     "precip_chance_pct": 1
    },
    {
     "hour": "17:00",
-    "temp_f": 77,
-    "precip_chance_pct": 3
+    "temp_f": 75,
+    "precip_chance_pct": 2
    },
    {
     "hour": "18:00",
-    "temp_f": 75,
-    "precip_chance_pct": 6
+    "temp_f": 72,
+    "precip_chance_pct": 10
    },
    {
     "hour": "19:00",
-    "temp_f": 72,
-    "precip_chance_pct": 10
+    "temp_f": 71,
+    "precip_chance_pct": 24
    }
   ]
  },
@@ -84,7 +84,7 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "0-0",
-    "opponent_projected": 120.9,
+    "opponent_projected": 121.9,
     "projected": 158.9
    },
    {
@@ -109,13 +109,6 @@
    }
   ],
   "lineup_alarm": [
-   {
-    "owner": "Dan",
-    "league": "DB",
-    "player": "Tyler Warren",
-    "position": "TE",
-    "status": "Questionable"
-   },
    {
     "owner": "Dan",
     "league": "DB",
