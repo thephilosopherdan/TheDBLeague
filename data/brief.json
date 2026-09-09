@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-09T13:17:04.871Z",
+ "generated_at": "2026-09-09T18:12:46.504Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-09",
-  "high_f": 81,
+  "high_f": 80,
   "low_f": 56,
-  "precip_chance_pct": 18,
+  "precip_chance_pct": 13,
   "summary": "Cloudy",
   "afternoon": [
    {
@@ -15,22 +15,22 @@
    },
    {
     "hour": "09:00",
-    "temp_f": 66,
+    "temp_f": 65,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 69,
-    "precip_chance_pct": 1
+    "temp_f": 68,
+    "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 73,
+    "temp_f": 70,
     "precip_chance_pct": 1
    },
    {
     "hour": "12:00",
-    "temp_f": 78,
+    "temp_f": 75,
     "precip_chance_pct": 1
    },
    {
@@ -41,17 +41,17 @@
    {
     "hour": "17:00",
     "temp_f": 77,
-    "precip_chance_pct": 1
+    "precip_chance_pct": 3
    },
    {
     "hour": "18:00",
     "temp_f": 75,
-    "precip_chance_pct": 4
+    "precip_chance_pct": 6
    },
    {
     "hour": "19:00",
-    "temp_f": 73,
-    "precip_chance_pct": 7
+    "temp_f": 72,
+    "precip_chance_pct": 10
    }
   ]
  },
@@ -105,7 +105,7 @@
     "opponent_team": "North End Cannolis ",
     "opponent_record": "0-0",
     "opponent_projected": 151.3,
-    "projected": 132.5
+    "projected": 132.3
    }
   ],
   "lineup_alarm": [
