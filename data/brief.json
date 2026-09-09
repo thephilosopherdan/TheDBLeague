@@ -1,57 +1,57 @@
 {
- "generated_at": "2026-09-09T02:22:13.634Z",
+ "generated_at": "2026-09-09T07:42:58.569Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "high_f": 79,
   "low_f": 56,
-  "precip_chance_pct": 4,
-  "summary": "Cloudy",
+  "precip_chance_pct": 13,
+  "summary": "Drizzle",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 61,
-    "precip_chance_pct": 4
+    "temp_f": 60,
+    "precip_chance_pct": 1
    },
    {
     "hour": "09:00",
-    "temp_f": 67,
-    "precip_chance_pct": 0
+    "temp_f": 65,
+    "precip_chance_pct": 1
    },
    {
     "hour": "10:00",
-    "temp_f": 73,
-    "precip_chance_pct": 0
+    "temp_f": 68,
+    "precip_chance_pct": 1
    },
    {
     "hour": "11:00",
-    "temp_f": 77,
-    "precip_chance_pct": 0
+    "temp_f": 73,
+    "precip_chance_pct": 1
    },
    {
     "hour": "12:00",
     "temp_f": 77,
-    "precip_chance_pct": 1
+    "precip_chance_pct": 2
    },
    {
     "hour": "16:00",
-    "temp_f": 76,
-    "precip_chance_pct": 0
+    "temp_f": 79,
+    "precip_chance_pct": 2
    },
    {
     "hour": "17:00",
-    "temp_f": 73,
-    "precip_chance_pct": 0
+    "temp_f": 77,
+    "precip_chance_pct": 1
    },
    {
     "hour": "18:00",
-    "temp_f": 71,
-    "precip_chance_pct": 0
+    "temp_f": 75,
+    "precip_chance_pct": 3
    },
    {
     "hour": "19:00",
-    "temp_f": 68,
-    "precip_chance_pct": 0
+    "temp_f": 72,
+    "precip_chance_pct": 5
    }
   ]
  },
@@ -85,7 +85,7 @@
     "opponent_team": "Windy City Wankers",
     "opponent_record": "0-0",
     "opponent_projected": 120.9,
-    "projected": 158.2
+    "projected": 158.9
    },
    {
     "owner": "Melissa",
@@ -105,7 +105,7 @@
     "opponent_team": "North End Cannolis ",
     "opponent_record": "0-0",
     "opponent_projected": 151.3,
-    "projected": 131.3
+    "projected": 132.5
    }
   ],
   "lineup_alarm": [
