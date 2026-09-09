@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T23:05:17.040Z",
+ "generated_at": "2026-09-09T02:22:13.634Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-08",
@@ -59,13 +59,17 @@
   "last_night": [
    {
     "league": "MLB",
-    "line": "BOS 5, LAA 2 (F)"
+    "line": "LAA 6, BOS 1 (F)"
    }
   ],
   "today": [
    {
     "league": "MLB",
     "line": "LAA at BOS, 6:45 PM"
+   },
+   {
+    "league": "NFL",
+    "line": "NE at SEA, 8:20 PM"
    }
   ]
  },
@@ -80,7 +84,7 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "0-0",
-    "opponent_projected": 118.6,
+    "opponent_projected": 120.9,
     "projected": 158.2
    },
    {
@@ -91,7 +95,7 @@
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "0-0",
     "opponent_projected": 140.7,
-    "projected": 113.8
+    "projected": 123.7
    },
    {
     "owner": "Theo",
@@ -100,7 +104,7 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "0-0",
-    "opponent_projected": 150.3,
+    "opponent_projected": 151.3,
     "projected": 131.3
    }
   ],
