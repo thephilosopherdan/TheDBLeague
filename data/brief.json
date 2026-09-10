@@ -1,56 +1,56 @@
 {
- "generated_at": "2026-09-10T13:14:26.158Z",
+ "generated_at": "2026-09-10T17:58:41.026Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-10",
-  "high_f": 87,
-  "low_f": 70,
+  "high_f": 86,
+  "low_f": 68,
   "precip_chance_pct": 30,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 74,
+    "temp_f": 73,
     "precip_chance_pct": 26
    },
    {
     "hour": "09:00",
-    "temp_f": 76,
+    "temp_f": 74,
     "precip_chance_pct": 1
    },
    {
     "hour": "10:00",
-    "temp_f": 80,
+    "temp_f": 78,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 83,
+    "temp_f": 81,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 85,
+    "temp_f": 82,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 87,
+    "temp_f": 85,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 87,
+    "temp_f": 84,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 83,
+    "temp_f": 81,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 79,
+    "temp_f": 76,
     "precip_chance_pct": 0
    }
   ]
@@ -79,7 +79,7 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "0-0",
-    "opponent_projected": 125.1,
+    "opponent_projected": 124.5,
     "projected": 155.3
    },
    {
@@ -99,7 +99,7 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "0-0",
-    "opponent_projected": 145.9,
+    "opponent_projected": 146,
     "projected": 131.8
    }
   ],
