@@ -1,57 +1,57 @@
 {
- "generated_at": "2026-09-10T02:21:22.634Z",
+ "generated_at": "2026-09-10T07:41:46.494Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-09-09",
-  "high_f": 79,
-  "low_f": 56,
-  "precip_chance_pct": 40,
+  "date": "2026-09-10",
+  "high_f": 87,
+  "low_f": 70,
+  "precip_chance_pct": 26,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 62,
-    "precip_chance_pct": 0
+    "temp_f": 72,
+    "precip_chance_pct": 11
    },
    {
     "hour": "09:00",
-    "temp_f": 65,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "10:00",
-    "temp_f": 68,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "11:00",
-    "temp_f": 70,
-    "precip_chance_pct": 1
-   },
-   {
-    "hour": "12:00",
-    "temp_f": 75,
-    "precip_chance_pct": 1
-   },
-   {
-    "hour": "16:00",
     "temp_f": 76,
-    "precip_chance_pct": 1
-   },
-   {
-    "hour": "17:00",
-    "temp_f": 75,
     "precip_chance_pct": 2
    },
    {
+    "hour": "10:00",
+    "temp_f": 80,
+    "precip_chance_pct": 1
+   },
+   {
+    "hour": "11:00",
+    "temp_f": 82,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "12:00",
+    "temp_f": 85,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "16:00",
+    "temp_f": 86,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "17:00",
+    "temp_f": 85,
+    "precip_chance_pct": 0
+   },
+   {
     "hour": "18:00",
-    "temp_f": 73,
-    "precip_chance_pct": 10
+    "temp_f": 82,
+    "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 72,
-    "precip_chance_pct": 26
+    "temp_f": 78,
+    "precip_chance_pct": 0
    }
   ]
  },
@@ -60,14 +60,13 @@
    {
     "league": "MLB",
     "line": "LAA 6, BOS 4 (F)"
-   }
-  ],
-  "today": [
+   },
    {
     "league": "NFL",
-    "line": "NE at SEA, 8:20 PM"
+    "line": "SEA 13, NE 10 (F)"
    }
-  ]
+  ],
+  "today": []
  },
  "fantasy": {
   "week": 1,
@@ -100,7 +99,7 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "0-0",
-    "opponent_projected": 145.9,
+    "opponent_projected": 146,
     "projected": 131.8
    }
   ],
@@ -118,6 +117,13 @@
     "player": "Jeremiyah Love",
     "position": "RB",
     "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "A.J. Brown",
+    "position": "WR",
+    "status": "Out"
    },
    {
     "owner": "Dan",
