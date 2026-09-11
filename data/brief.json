@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-10T22:52:04.950Z",
+ "generated_at": "2026-09-11T02:16:44.914Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-10",
   "high_f": 85,
-  "low_f": 69,
+  "low_f": 71,
   "precip_chance_pct": 30,
   "summary": "Cloudy",
   "afternoon": [
@@ -50,7 +50,7 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 78,
+    "temp_f": 79,
     "precip_chance_pct": 0
    }
   ]
@@ -66,7 +66,12 @@
     "line": "SEA 13, NE 10 (F)"
    }
   ],
-  "today": []
+  "today": [
+   {
+    "league": "MLB",
+    "line": "KC at BOS, 7:10 PM"
+   }
+  ]
  },
  "fantasy": {
   "week": 1,
@@ -79,8 +84,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "0-0",
-    "opponent_projected": 123.3,
-    "projected": 155.1
+    "opponent_projected": 124.1,
+    "projected": 154.8
    },
    {
     "owner": "Melissa",
@@ -89,8 +94,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "0-0",
-    "opponent_projected": 140.4,
-    "projected": 122.1
+    "opponent_projected": 140.2,
+    "projected": 121.3
    },
    {
     "owner": "Theo",
@@ -99,8 +104,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "0-0",
-    "opponent_projected": 147.2,
-    "projected": 131.8
+    "opponent_projected": 146.5,
+    "projected": 132.5
    }
   ],
   "lineup_alarm": [
