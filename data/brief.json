@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T18:02:40.279Z",
+ "generated_at": "2026-09-11T22:55:02.389Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-11",
@@ -40,12 +40,12 @@
    },
    {
     "hour": "17:00",
-    "temp_f": 77,
+    "temp_f": 76,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 76,
+    "temp_f": 75,
     "precip_chance_pct": 0
    },
    {
@@ -75,7 +75,7 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "0-0",
-    "opponent_projected": 125,
+    "opponent_projected": 124.7,
     "projected": 154.4
    },
    {
