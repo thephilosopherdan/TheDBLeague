@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T22:55:02.389Z",
+ "generated_at": "2026-09-12T02:23:45.721Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-11",
@@ -45,22 +45,27 @@
    },
    {
     "hour": "18:00",
-    "temp_f": 75,
+    "temp_f": 74,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 71,
+    "temp_f": 72,
     "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
-  "last_night": [],
+  "last_night": [
+   {
+    "league": "MLB",
+    "line": "KC 3, BOS 2 (F)"
+   }
+  ],
   "today": [
    {
     "league": "MLB",
-    "line": "KC at BOS, 7:10 PM"
+    "line": "KC at BOS, 4:10 PM"
    }
   ]
  },
