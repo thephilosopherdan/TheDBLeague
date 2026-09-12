@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-12T17:34:21.016Z",
+ "generated_at": "2026-09-12T19:55:59.250Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-12",
-  "high_f": 79,
+  "high_f": 78,
   "low_f": 49,
   "precip_chance_pct": 0,
   "summary": "Cloudy",
@@ -30,7 +30,7 @@
    },
    {
     "hour": "12:00",
-    "temp_f": 73,
+    "temp_f": 75,
     "precip_chance_pct": 0
    },
    {
