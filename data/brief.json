@@ -1,60 +1,6 @@
 {
- "generated_at": "2026-09-13T20:03:12.530Z",
+ "generated_at": "2026-09-13T22:44:38.495Z",
  "location": "Hanover, MA",
- "weather": {
-  "date": "2026-09-13",
-  "high_f": 71,
-  "low_f": 57,
-  "precip_chance_pct": 100,
-  "summary": "Heavy rain",
-  "afternoon": [
-   {
-    "hour": "08:00",
-    "temp_f": 67,
-    "precip_chance_pct": 3
-   },
-   {
-    "hour": "09:00",
-    "temp_f": 68,
-    "precip_chance_pct": 6
-   },
-   {
-    "hour": "10:00",
-    "temp_f": 71,
-    "precip_chance_pct": 24
-   },
-   {
-    "hour": "11:00",
-    "temp_f": 69,
-    "precip_chance_pct": 57
-   },
-   {
-    "hour": "12:00",
-    "temp_f": 67,
-    "precip_chance_pct": 96
-   },
-   {
-    "hour": "16:00",
-    "temp_f": 65,
-    "precip_chance_pct": 90
-   },
-   {
-    "hour": "17:00",
-    "temp_f": 65,
-    "precip_chance_pct": 50
-   },
-   {
-    "hour": "18:00",
-    "temp_f": 65,
-    "precip_chance_pct": 13
-   },
-   {
-    "hour": "19:00",
-    "temp_f": 66,
-    "precip_chance_pct": 7
-   }
-  ]
- },
  "boston": {
   "last_night": [
    {
@@ -62,12 +8,7 @@
     "line": "BOS 5, KC 1 (F)"
    }
   ],
-  "today": [
-   {
-    "league": "MLB",
-    "line": "KC at BOS, 3:05 PM"
-   }
-  ]
+  "today": []
  },
  "fantasy": {
   "week": 1,
