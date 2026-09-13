@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-13T17:48:32.003Z",
+ "generated_at": "2026-09-13T20:03:12.530Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-13",
@@ -35,23 +35,23 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 66,
-    "precip_chance_pct": 80
+    "temp_f": 65,
+    "precip_chance_pct": 90
    },
    {
     "hour": "17:00",
-    "temp_f": 66,
-    "precip_chance_pct": 41
+    "temp_f": 65,
+    "precip_chance_pct": 50
    },
    {
     "hour": "18:00",
-    "temp_f": 66,
+    "temp_f": 65,
     "precip_chance_pct": 13
    },
    {
     "hour": "19:00",
     "temp_f": 66,
-    "precip_chance_pct": 6
+    "precip_chance_pct": 7
    }
   ]
  },
@@ -107,10 +107,10 @@
   "lineup_alarm": [
    {
     "owner": "Dan",
-    "league": "ITC",
-    "player": "Jeremiyah Love",
-    "position": "RB",
-    "status": "Questionable"
+    "league": "DB",
+    "player": "Zay Flowers",
+    "position": "WR",
+    "status": "Out"
    },
    {
     "owner": "Dan",
@@ -118,6 +118,13 @@
     "player": "A.J. Brown",
     "position": "WR",
     "status": "IR"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Zay Flowers",
+    "position": "WR",
+    "status": "Out"
    }
   ]
  }
