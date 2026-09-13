@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T22:44:00.654Z",
+ "generated_at": "2026-09-13T02:21:46.744Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-12",
@@ -50,7 +50,7 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 69,
+    "temp_f": 70,
     "precip_chance_pct": 0
    }
   ]
