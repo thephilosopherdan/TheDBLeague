@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-13T13:33:29.455Z",
+ "generated_at": "2026-09-13T17:48:32.003Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-13",
   "high_f": 71,
   "low_f": 57,
-  "precip_chance_pct": 93,
-  "summary": "Rain",
+  "precip_chance_pct": 100,
+  "summary": "Heavy rain",
   "afternoon": [
    {
     "hour": "08:00",
@@ -15,43 +15,43 @@
    },
    {
     "hour": "09:00",
-    "temp_f": 66,
+    "temp_f": 68,
     "precip_chance_pct": 6
    },
    {
     "hour": "10:00",
-    "temp_f": 66,
-    "precip_chance_pct": 19
+    "temp_f": 71,
+    "precip_chance_pct": 24
    },
    {
     "hour": "11:00",
-    "temp_f": 67,
-    "precip_chance_pct": 58
+    "temp_f": 69,
+    "precip_chance_pct": 57
    },
    {
     "hour": "12:00",
-    "temp_f": 71,
-    "precip_chance_pct": 79
+    "temp_f": 67,
+    "precip_chance_pct": 96
    },
    {
     "hour": "16:00",
-    "temp_f": 69,
-    "precip_chance_pct": 77
+    "temp_f": 66,
+    "precip_chance_pct": 80
    },
    {
     "hour": "17:00",
-    "temp_f": 69,
-    "precip_chance_pct": 38
+    "temp_f": 66,
+    "precip_chance_pct": 41
    },
    {
     "hour": "18:00",
-    "temp_f": 69,
-    "precip_chance_pct": 11
+    "temp_f": 66,
+    "precip_chance_pct": 13
    },
    {
     "hour": "19:00",
-    "temp_f": 69,
-    "precip_chance_pct": 7
+    "temp_f": 66,
+    "precip_chance_pct": 6
    }
   ]
  },
@@ -80,8 +80,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "0-0",
-    "opponent_projected": 124.3,
-    "projected": 154.4
+    "opponent_projected": 124.8,
+    "projected": 154
    },
    {
     "owner": "Melissa",
@@ -90,8 +90,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "0-0",
-    "opponent_projected": 140.2,
-    "projected": 121
+    "opponent_projected": 139.8,
+    "projected": 123.2
    },
    {
     "owner": "Theo",
@@ -100,8 +100,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "0-0",
-    "opponent_projected": 146.1,
-    "projected": 133.1
+    "opponent_projected": 145.3,
+    "projected": 132.4
    }
   ],
   "lineup_alarm": [
