@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T21:13:39.185Z",
+ "generated_at": "2026-09-15T02:42:36.961Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-14",
@@ -35,22 +35,22 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 70,
+    "temp_f": 71,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 68,
+    "temp_f": 69,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 65,
+    "temp_f": 66,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 61,
+    "temp_f": 63,
     "precip_chance_pct": 0
    }
   ]
@@ -62,7 +62,12 @@
     "line": "BOS 4, KC 1 (F)"
    }
   ],
-  "today": []
+  "today": [
+   {
+    "league": "MLB",
+    "line": "BOS at TEX, 8:05 PM"
+   }
+  ]
  },
  "fantasy": {
   "week": 1,
