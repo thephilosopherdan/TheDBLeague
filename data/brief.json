@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-15T08:14:38.392Z",
+ "generated_at": "2026-09-15T14:02:35.923Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-15",
-  "high_f": 66,
+  "high_f": 65,
   "low_f": 50,
   "precip_chance_pct": 0,
   "summary": "Cloudy",
@@ -25,27 +25,27 @@
    },
    {
     "hour": "11:00",
-    "temp_f": 63,
+    "temp_f": 62,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 65,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "16:00",
-    "temp_f": 65,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "17:00",
     "temp_f": 64,
     "precip_chance_pct": 0
    },
    {
+    "hour": "16:00",
+    "temp_f": 64,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "17:00",
+    "temp_f": 63,
+    "precip_chance_pct": 0
+   },
+   {
     "hour": "18:00",
-    "temp_f": 62,
+    "temp_f": 61,
     "precip_chance_pct": 0
    },
    {
@@ -75,8 +75,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-1",
-    "opponent_projected": 125.5,
-    "projected": 157
+    "opponent_projected": 123.3,
+    "projected": 155.1
    },
    {
     "owner": "Melissa",
@@ -85,8 +85,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "1-0",
-    "opponent_projected": 111.6,
-    "projected": 125.8
+    "opponent_projected": 111.3,
+    "projected": 124.7
    },
    {
     "owner": "Theo",
@@ -95,8 +95,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-0",
-    "opponent_projected": 127.1,
-    "projected": 130.1
+    "opponent_projected": 126.5,
+    "projected": 128.2
    }
   ],
   "lineup_alarm": [
