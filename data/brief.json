@@ -1,62 +1,67 @@
 {
- "generated_at": "2026-09-16T02:37:05.442Z",
+ "generated_at": "2026-09-16T08:08:00.582Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-09-15",
-  "high_f": 67,
-  "low_f": 50,
-  "precip_chance_pct": 0,
-  "summary": "Mostly sunny",
+  "date": "2026-09-16",
+  "high_f": 73,
+  "low_f": 48,
+  "precip_chance_pct": 2,
+  "summary": "Fog",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 56,
-    "precip_chance_pct": 0
+    "temp_f": 54,
+    "precip_chance_pct": 2
    },
    {
     "hour": "09:00",
-    "temp_f": 61,
-    "precip_chance_pct": 0
+    "temp_f": 57,
+    "precip_chance_pct": 2
    },
    {
     "hour": "10:00",
     "temp_f": 62,
-    "precip_chance_pct": 0
+    "precip_chance_pct": 2
    },
    {
     "hour": "11:00",
-    "temp_f": 65,
-    "precip_chance_pct": 0
+    "temp_f": 66,
+    "precip_chance_pct": 2
    },
    {
     "hour": "12:00",
-    "temp_f": 65,
-    "precip_chance_pct": 0
+    "temp_f": 69,
+    "precip_chance_pct": 2
    },
    {
     "hour": "16:00",
-    "temp_f": 66,
-    "precip_chance_pct": 0
+    "temp_f": 73,
+    "precip_chance_pct": 1
    },
    {
     "hour": "17:00",
-    "temp_f": 65,
-    "precip_chance_pct": 0
+    "temp_f": 73,
+    "precip_chance_pct": 2
    },
    {
     "hour": "18:00",
-    "temp_f": 63,
-    "precip_chance_pct": 0
+    "temp_f": 70,
+    "precip_chance_pct": 2
    },
    {
     "hour": "19:00",
-    "temp_f": 59,
-    "precip_chance_pct": 0
+    "temp_f": 67,
+    "precip_chance_pct": 2
    }
   ]
  },
  "boston": {
-  "last_night": [],
+  "last_night": [
+   {
+    "league": "MLB",
+    "line": "TEX 4, BOS 2 (F)"
+   }
+  ],
   "today": [
    {
     "league": "MLB",
@@ -85,8 +90,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "1-0",
-    "opponent_projected": 112.3,
-    "projected": 126.4
+    "opponent_projected": 113,
+    "projected": 126.7
    },
    {
     "owner": "Theo",
@@ -95,8 +100,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-0",
-    "opponent_projected": 125.7,
-    "projected": 111.7
+    "opponent_projected": 125.4,
+    "projected": 111.5
    }
   ],
   "lineup_alarm": [
@@ -105,7 +110,7 @@
     "league": "DB",
     "player": "Zay Flowers",
     "position": "WR",
-    "status": "Out"
+    "status": "Questionable"
    },
    {
     "owner": "Dan",
@@ -119,7 +124,7 @@
     "league": "ITC",
     "player": "Zay Flowers",
     "position": "WR",
-    "status": "Out"
+    "status": "Questionable"
    }
   ]
  }
