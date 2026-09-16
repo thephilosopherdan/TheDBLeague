@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T23:19:59.533Z",
+ "generated_at": "2026-09-16T02:37:05.442Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-15",
@@ -45,7 +45,7 @@
    },
    {
     "hour": "18:00",
-    "temp_f": 62,
+    "temp_f": 63,
     "precip_chance_pct": 0
    },
    {
@@ -85,8 +85,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "1-0",
-    "opponent_projected": 112.2,
-    "projected": 126.6
+    "opponent_projected": 112.3,
+    "projected": 126.4
    },
    {
     "owner": "Theo",
@@ -96,7 +96,7 @@
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-0",
     "opponent_projected": 125.7,
-    "projected": 128.5
+    "projected": 111.7
    }
   ],
   "lineup_alarm": [
