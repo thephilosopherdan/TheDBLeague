@@ -1,57 +1,57 @@
 {
- "generated_at": "2026-09-17T08:14:27.453Z",
+ "generated_at": "2026-09-17T13:59:57.697Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-17",
-  "high_f": 78,
-  "low_f": 62,
-  "precip_chance_pct": 14,
-  "summary": "Rain",
+  "high_f": 79,
+  "low_f": 63,
+  "precip_chance_pct": 29,
+  "summary": "Drizzle",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 66,
+    "temp_f": 65,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 68,
-    "precip_chance_pct": 1
+    "temp_f": 69,
+    "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 71,
-    "precip_chance_pct": 1
+    "temp_f": 72,
+    "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 73,
+    "temp_f": 75,
     "precip_chance_pct": 1
    },
    {
     "hour": "12:00",
-    "temp_f": 76,
-    "precip_chance_pct": 2
+    "temp_f": 77,
+    "precip_chance_pct": 1
    },
    {
     "hour": "16:00",
-    "temp_f": 77,
-    "precip_chance_pct": 6
+    "temp_f": 78,
+    "precip_chance_pct": 2
    },
    {
     "hour": "17:00",
     "temp_f": 77,
-    "precip_chance_pct": 10
+    "precip_chance_pct": 4
    },
    {
     "hour": "18:00",
-    "temp_f": 74,
-    "precip_chance_pct": 11
+    "temp_f": 75,
+    "precip_chance_pct": 5
    },
    {
     "hour": "19:00",
-    "temp_f": 71,
-    "precip_chance_pct": 12
+    "temp_f": 72,
+    "precip_chance_pct": 8
    }
   ]
  },
@@ -91,7 +91,7 @@
     "opponent_team": "Windy City Wankers",
     "opponent_record": "1-0",
     "opponent_projected": 113.2,
-    "projected": 126.8
+    "projected": 126.7
    },
    {
     "owner": "Theo",
@@ -115,15 +115,15 @@
    {
     "owner": "Dan",
     "league": "ITC",
-    "player": "A.J. Brown",
+    "player": "Zay Flowers",
     "position": "WR",
-    "status": "IR"
+    "status": "Questionable"
    },
    {
     "owner": "Dan",
     "league": "ITC",
-    "player": "Zay Flowers",
-    "position": "WR",
+    "player": "Brock Bowers",
+    "position": "TE",
     "status": "Questionable"
    }
   ]
