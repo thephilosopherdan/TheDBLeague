@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T17:58:28.533Z",
+ "generated_at": "2026-09-18T20:31:58.879Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-18",
@@ -30,7 +30,7 @@
    },
    {
     "hour": "12:00",
-    "temp_f": 76,
+    "temp_f": 77,
     "precip_chance_pct": 0
    },
    {
@@ -45,7 +45,7 @@
    },
    {
     "hour": "18:00",
-    "temp_f": 74,
+    "temp_f": 75,
     "precip_chance_pct": 0
    },
    {
@@ -80,8 +80,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-1",
-    "opponent_projected": 120.8,
-    "projected": 156.5
+    "opponent_projected": 109.4,
+    "projected": 145.2
    },
    {
     "owner": "Melissa",
@@ -90,7 +90,7 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "1-0",
-    "opponent_projected": 113.2,
+    "opponent_projected": 113.8,
     "projected": 126
    },
    {
@@ -100,8 +100,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-0",
-    "opponent_projected": 128.9,
-    "projected": 112.2
+    "opponent_projected": 129.2,
+    "projected": 112.7
    }
   ],
   "lineup_alarm": [
@@ -110,21 +110,21 @@
     "league": "DB",
     "player": "Zay Flowers",
     "position": "WR",
-    "status": "Questionable"
+    "status": "Doubtful"
    },
    {
     "owner": "Dan",
     "league": "ITC",
     "player": "Zay Flowers",
     "position": "WR",
-    "status": "Questionable"
+    "status": "Doubtful"
    },
    {
     "owner": "Dan",
     "league": "ITC",
     "player": "Brock Bowers",
     "position": "TE",
-    "status": "Questionable"
+    "status": "Doubtful"
    }
   ]
  }
