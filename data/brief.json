@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-09-19T07:41:34.263Z",
+ "generated_at": "2026-09-19T12:47:38.676Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-19",
-  "high_f": 64,
-  "low_f": 51,
+  "high_f": 63,
+  "low_f": 52,
   "precip_chance_pct": 0,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 57,
+    "temp_f": 58,
     "precip_chance_pct": 0
    },
    {
@@ -20,7 +20,7 @@
    },
    {
     "hour": "10:00",
-    "temp_f": 61,
+    "temp_f": 60,
     "precip_chance_pct": 0
    },
    {
@@ -40,17 +40,17 @@
    },
    {
     "hour": "17:00",
-    "temp_f": 61,
+    "temp_f": 62,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 59,
+    "temp_f": 60,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 56,
+    "temp_f": 57,
     "precip_chance_pct": 0
    }
   ]
@@ -100,8 +100,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-0",
-    "opponent_projected": 129.4,
-    "projected": 132.9
+    "opponent_projected": 129.9,
+    "projected": 133
    }
   ],
   "lineup_alarm": [
