@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-19T19:49:23.646Z",
+ "generated_at": "2026-09-19T22:35:40.449Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-19",
   "high_f": 64,
-  "low_f": 53,
+  "low_f": 52,
   "precip_chance_pct": 0,
   "summary": "Cloudy",
   "afternoon": [
@@ -45,12 +45,12 @@
    },
    {
     "hour": "18:00",
-    "temp_f": 60,
+    "temp_f": 59,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 58,
+    "temp_f": 57,
     "precip_chance_pct": 0
    }
   ]
@@ -70,6 +70,10 @@
    {
     "league": "NFL",
     "line": "PIT at NE, 1:00 PM"
+   },
+   {
+    "league": "NHL",
+    "line": "WSH at BOS, 5:00 PM"
    }
   ]
  },
@@ -84,7 +88,7 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-1",
-    "opponent_projected": 109.4,
+    "opponent_projected": 109.3,
     "projected": 145.2
    },
    {
@@ -105,7 +109,7 @@
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-0",
     "opponent_projected": 129.9,
-    "projected": 133
+    "projected": 134.5
    }
   ],
   "lineup_alarm": [
@@ -114,7 +118,7 @@
     "league": "DB",
     "player": "Zay Flowers",
     "position": "WR",
-    "status": "Doubtful"
+    "status": "Out"
    }
   ]
  }
