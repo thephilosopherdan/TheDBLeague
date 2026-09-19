@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T22:55:55.213Z",
+ "generated_at": "2026-09-19T02:27:46.472Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-18",
@@ -40,17 +40,17 @@
    },
    {
     "hour": "17:00",
-    "temp_f": 77,
+    "temp_f": 78,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 75,
+    "temp_f": 74,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 71,
+    "temp_f": 70,
     "precip_chance_pct": 0
    }
   ]
@@ -59,13 +59,13 @@
   "last_night": [
    {
     "league": "MLB",
-    "line": "BOS 4, TEX 3 (F)"
+    "line": "BOS 4, TB 2 (F)"
    }
   ],
   "today": [
    {
     "league": "MLB",
-    "line": "BOS at TB, 7:10 PM"
+    "line": "BOS at TB, 4:10 PM"
    }
   ]
  },
