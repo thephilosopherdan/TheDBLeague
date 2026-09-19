@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-09-19T12:47:38.676Z",
+ "generated_at": "2026-09-19T17:37:26.028Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-19",
-  "high_f": 63,
-  "low_f": 52,
+  "high_f": 64,
+  "low_f": 53,
   "precip_chance_pct": 0,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 58,
+    "temp_f": 59,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 60,
+    "temp_f": 61,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 60,
+    "temp_f": 61,
     "precip_chance_pct": 0
    },
    {
@@ -35,7 +35,7 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 62,
+    "temp_f": 64,
     "precip_chance_pct": 0
    },
    {
@@ -50,7 +50,7 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 57,
+    "temp_f": 58,
     "precip_chance_pct": 0
    }
   ]
@@ -66,6 +66,10 @@
    {
     "league": "MLB",
     "line": "BOS at TB, 4:10 PM"
+   },
+   {
+    "league": "NFL",
+    "line": "PIT at NE, 1:00 PM"
    }
   ]
  },
@@ -90,7 +94,7 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "1-0",
-    "opponent_projected": 114.5,
+    "opponent_projected": 105.1,
     "projected": 126
    },
    {
@@ -110,20 +114,6 @@
     "league": "DB",
     "player": "Zay Flowers",
     "position": "WR",
-    "status": "Doubtful"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Zay Flowers",
-    "position": "WR",
-    "status": "Doubtful"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Brock Bowers",
-    "position": "TE",
     "status": "Doubtful"
    }
   ]
