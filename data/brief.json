@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T20:03:20.912Z",
+ "generated_at": "2026-09-20T22:49:40.140Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-20",
@@ -36,22 +36,22 @@
    {
     "hour": "16:00",
     "temp_f": 61,
-    "precip_chance_pct": 44
+    "precip_chance_pct": 51
    },
    {
     "hour": "17:00",
     "temp_f": 60,
-    "precip_chance_pct": 51
+    "precip_chance_pct": 39
    },
    {
     "hour": "18:00",
-    "temp_f": 59,
-    "precip_chance_pct": 25
+    "temp_f": 60,
+    "precip_chance_pct": 30
    },
    {
     "hour": "19:00",
-    "temp_f": 59,
-    "precip_chance_pct": 21
+    "temp_f": 60,
+    "precip_chance_pct": 30
    }
   ]
  },
@@ -59,7 +59,7 @@
   "last_night": [
    {
     "league": "MLB",
-    "line": "TB 2, BOS 1 (F)"
+    "line": "TB 5, BOS 1 (F)"
    },
    {
     "league": "NFL",
@@ -67,10 +67,6 @@
    }
   ],
   "today": [
-   {
-    "league": "MLB",
-    "line": "BOS at TB, 1:40 PM"
-   },
    {
     "league": "NHL",
     "line": "WSH at BOS, 5:00 PM"
