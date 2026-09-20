@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-20T17:49:27.897Z",
+ "generated_at": "2026-09-20T20:03:20.912Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-20",
-  "high_f": 62,
+  "high_f": 65,
   "low_f": 49,
-  "precip_chance_pct": 63,
-  "summary": "Drizzle",
+  "precip_chance_pct": 51,
+  "summary": "Light rain",
   "afternoon": [
    {
     "hour": "08:00",
@@ -35,23 +35,23 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 59,
-    "precip_chance_pct": 47
+    "temp_f": 61,
+    "precip_chance_pct": 44
    },
    {
     "hour": "17:00",
-    "temp_f": 59,
-    "precip_chance_pct": 47
+    "temp_f": 60,
+    "precip_chance_pct": 51
    },
    {
     "hour": "18:00",
     "temp_f": 59,
-    "precip_chance_pct": 33
+    "precip_chance_pct": 25
    },
    {
     "hour": "19:00",
     "temp_f": 59,
-    "precip_chance_pct": 25
+    "precip_chance_pct": 21
    }
   ]
  },
@@ -60,16 +60,16 @@
    {
     "league": "MLB",
     "line": "TB 2, BOS 1 (F)"
+   },
+   {
+    "league": "NFL",
+    "line": "NE 20, PIT 3 (F)"
    }
   ],
   "today": [
    {
     "league": "MLB",
     "line": "BOS at TB, 1:40 PM"
-   },
-   {
-    "league": "NFL",
-    "line": "PIT at NE, 1:00 PM"
    },
    {
     "league": "NHL",
@@ -89,7 +89,7 @@
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-1",
     "opponent_projected": 109.4,
-    "projected": 153.3
+    "projected": 153.9
    },
    {
     "owner": "Melissa",
@@ -99,7 +99,7 @@
     "opponent_team": "Windy City Wankers",
     "opponent_record": "1-0",
     "opponent_projected": 113.4,
-    "projected": 128.5
+    "projected": 128.6
    },
    {
     "owner": "Theo",
@@ -112,14 +112,6 @@
     "projected": 134.6
    }
   ],
-  "lineup_alarm": [
-   {
-    "owner": "Dan",
-    "league": "DB",
-    "player": "Ladd McConkey",
-    "position": "WR",
-    "status": "Questionable"
-   }
-  ]
+  "lineup_alarm": []
  }
 }
