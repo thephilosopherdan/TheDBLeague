@@ -1,57 +1,57 @@
 {
- "generated_at": "2026-09-20T02:38:49.973Z",
+ "generated_at": "2026-09-20T08:08:25.374Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-09-19",
-  "high_f": 64,
-  "low_f": 51,
-  "precip_chance_pct": 0,
-  "summary": "Cloudy",
+  "date": "2026-09-20",
+  "high_f": 63,
+  "low_f": 49,
+  "precip_chance_pct": 69,
+  "summary": "Rain",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 59,
-    "precip_chance_pct": 0
+    "temp_f": 54,
+    "precip_chance_pct": 3
    },
    {
     "hour": "09:00",
-    "temp_f": 61,
-    "precip_chance_pct": 0
+    "temp_f": 55,
+    "precip_chance_pct": 8
    },
    {
     "hour": "10:00",
-    "temp_f": 61,
-    "precip_chance_pct": 0
+    "temp_f": 59,
+    "precip_chance_pct": 4
    },
    {
     "hour": "11:00",
-    "temp_f": 62,
-    "precip_chance_pct": 0
+    "temp_f": 61,
+    "precip_chance_pct": 3
    },
    {
     "hour": "12:00",
-    "temp_f": 63,
-    "precip_chance_pct": 0
+    "temp_f": 62,
+    "precip_chance_pct": 10
    },
    {
     "hour": "16:00",
-    "temp_f": 64,
-    "precip_chance_pct": 0
+    "temp_f": 61,
+    "precip_chance_pct": 65
    },
    {
     "hour": "17:00",
     "temp_f": 61,
-    "precip_chance_pct": 0
+    "precip_chance_pct": 59
    },
    {
     "hour": "18:00",
-    "temp_f": 59,
-    "precip_chance_pct": 0
+    "temp_f": 60,
+    "precip_chance_pct": 62
    },
    {
     "hour": "19:00",
-    "temp_f": 56,
-    "precip_chance_pct": 0
+    "temp_f": 61,
+    "precip_chance_pct": 38
    }
   ]
  },
@@ -89,7 +89,7 @@
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-1",
     "opponent_projected": 109.3,
-    "projected": 145.2
+    "projected": 145.3
    },
    {
     "owner": "Melissa",
@@ -108,8 +108,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-0",
-    "opponent_projected": 129.9,
-    "projected": 134.5
+    "opponent_projected": 143.7,
+    "projected": 134.7
    }
   ],
   "lineup_alarm": [
