@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-20T22:49:40.140Z",
+ "generated_at": "2026-09-21T02:35:48.887Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-20",
@@ -51,7 +51,7 @@
    {
     "hour": "19:00",
     "temp_f": 60,
-    "precip_chance_pct": 30
+    "precip_chance_pct": 16
    }
   ]
  },
@@ -64,14 +64,13 @@
    {
     "league": "NFL",
     "line": "NE 20, PIT 3 (F)"
-   }
-  ],
-  "today": [
+   },
    {
     "league": "NHL",
-    "line": "WSH at BOS, 5:00 PM"
+    "line": "BOS 3, WSH 2 (F)"
    }
-  ]
+  ],
+  "today": []
  },
  "fantasy": {
   "week": 2,
