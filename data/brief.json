@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T13:48:08.235Z",
+ "generated_at": "2026-09-22T18:26:10.330Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-22",
@@ -20,7 +20,7 @@
    },
    {
     "hour": "10:00",
-    "temp_f": 61,
+    "temp_f": 59,
     "precip_chance_pct": 1
    },
    {
@@ -35,12 +35,12 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 61,
+    "temp_f": 60,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 60,
+    "temp_f": 59,
     "precip_chance_pct": 0
    },
    {
@@ -50,7 +50,7 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 56,
+    "temp_f": 55,
     "precip_chance_pct": 0
    }
   ]
@@ -79,8 +79,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-1",
-    "opponent_projected": 131.8,
-    "projected": 160.3
+    "opponent_projected": 132.9,
+    "projected": 160.1
    },
    {
     "owner": "Melissa",
@@ -90,7 +90,7 @@
     "opponent_team": "North End Cannolis ",
     "opponent_record": "2-0",
     "opponent_projected": 154.1,
-    "projected": 130.3
+    "projected": 130.5
    },
    {
     "owner": "Theo",
@@ -99,8 +99,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "1-1",
-    "opponent_projected": 124.8,
-    "projected": 109.6
+    "opponent_projected": 125.1,
+    "projected": 109.8
    }
   ],
   "lineup_alarm": [
@@ -109,6 +109,20 @@
     "league": "DB",
     "player": "Jaxson Dart",
     "position": "QB",
+    "status": "Out"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Zay Flowers",
+    "position": "WR",
+    "status": "Out"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Brock Bowers",
+    "position": "TE",
     "status": "Out"
    }
   ]
