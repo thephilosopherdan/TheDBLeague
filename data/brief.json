@@ -1,36 +1,36 @@
 {
- "generated_at": "2026-09-22T08:06:14.090Z",
+ "generated_at": "2026-09-22T13:48:08.235Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-22",
-  "high_f": 61,
-  "low_f": 51,
-  "precip_chance_pct": 6,
+  "high_f": 62,
+  "low_f": 52,
+  "precip_chance_pct": 7,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
+    "temp_f": 58,
+    "precip_chance_pct": 7
+   },
+   {
+    "hour": "09:00",
     "temp_f": 59,
     "precip_chance_pct": 4
    },
    {
-    "hour": "09:00",
-    "temp_f": 58,
-    "precip_chance_pct": 5
-   },
-   {
     "hour": "10:00",
-    "temp_f": 59,
-    "precip_chance_pct": 6
+    "temp_f": 61,
+    "precip_chance_pct": 1
    },
    {
     "hour": "11:00",
     "temp_f": 60,
-    "precip_chance_pct": 3
+    "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 60,
+    "temp_f": 62,
     "precip_chance_pct": 0
    },
    {
@@ -40,7 +40,7 @@
    },
    {
     "hour": "17:00",
-    "temp_f": 59,
+    "temp_f": 60,
     "precip_chance_pct": 0
    },
    {
@@ -50,18 +50,13 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 55,
+    "temp_f": 56,
     "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
-  "last_night": [
-   {
-    "league": "NHL",
-    "line": "BOS 3, WSH 2 (F)"
-   }
-  ],
+  "last_night": [],
   "today": [
    {
     "league": "MLB",
@@ -84,7 +79,7 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-1",
-    "opponent_projected": 124.9,
+    "opponent_projected": 131.8,
     "projected": 160.3
    },
    {
@@ -104,7 +99,7 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "1-1",
-    "opponent_projected": 108.5,
+    "opponent_projected": 124.8,
     "projected": 109.6
    }
   ],
