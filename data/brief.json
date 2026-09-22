@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-09-21T21:29:06.721Z",
+ "generated_at": "2026-09-22T02:38:40.072Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-21",
   "high_f": 64,
-  "low_f": 53,
+  "low_f": 52,
   "precip_chance_pct": 45,
   "summary": "Light rain",
   "afternoon": [
@@ -70,7 +70,16 @@
     "line": "BOS 3, WSH 2 (F)"
    }
   ],
-  "today": []
+  "today": [
+   {
+    "league": "MLB",
+    "line": "CLE at BOS, 6:45 PM"
+   },
+   {
+    "league": "NHL",
+    "line": "PHI at BOS, 7:00 PM"
+   }
+  ]
  },
  "fantasy": {
   "week": 2,
@@ -93,8 +102,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "1-0",
-    "opponent_projected": 113.6,
-    "projected": 129
+    "opponent_projected": 112.7,
+    "projected": 131.3
    },
    {
     "owner": "Theo",
@@ -103,10 +112,18 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-0",
-    "opponent_projected": 145.3,
-    "projected": 135.7
+    "opponent_projected": 128.3,
+    "projected": 136
    }
   ],
-  "lineup_alarm": []
+  "lineup_alarm": [
+   {
+    "owner": "Dan",
+    "league": "DB",
+    "player": "Jaxson Dart",
+    "position": "QB",
+    "status": "Out"
+   }
+  ]
  }
 }
