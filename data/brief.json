@@ -1,70 +1,62 @@
 {
- "generated_at": "2026-09-22T02:38:40.072Z",
+ "generated_at": "2026-09-22T08:06:14.090Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-09-21",
-  "high_f": 64,
-  "low_f": 52,
-  "precip_chance_pct": 45,
-  "summary": "Light rain",
+  "date": "2026-09-22",
+  "high_f": 61,
+  "low_f": 51,
+  "precip_chance_pct": 6,
+  "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 57,
-    "precip_chance_pct": 2
+    "temp_f": 59,
+    "precip_chance_pct": 4
    },
    {
     "hour": "09:00",
-    "temp_f": 57,
-    "precip_chance_pct": 0
+    "temp_f": 58,
+    "precip_chance_pct": 5
    },
    {
     "hour": "10:00",
-    "temp_f": 58,
-    "precip_chance_pct": 0
+    "temp_f": 59,
+    "precip_chance_pct": 6
    },
    {
     "hour": "11:00",
     "temp_f": 60,
-    "precip_chance_pct": 0
+    "precip_chance_pct": 3
    },
    {
     "hour": "12:00",
-    "temp_f": 61,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "16:00",
-    "temp_f": 63,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "17:00",
-    "temp_f": 62,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "18:00",
     "temp_f": 60,
     "precip_chance_pct": 0
    },
    {
+    "hour": "16:00",
+    "temp_f": 61,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "17:00",
+    "temp_f": 59,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "18:00",
+    "temp_f": 58,
+    "precip_chance_pct": 0
+   },
+   {
     "hour": "19:00",
-    "temp_f": 57,
+    "temp_f": 55,
     "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
   "last_night": [
-   {
-    "league": "MLB",
-    "line": "TB 5, BOS 1 (F)"
-   },
-   {
-    "league": "NFL",
-    "line": "NE 20, PIT 3 (F)"
-   },
    {
     "league": "NHL",
     "line": "BOS 3, WSH 2 (F)"
@@ -82,38 +74,38 @@
   ]
  },
  "fantasy": {
-  "week": 2,
+  "week": 3,
   "season_type": "regular",
   "db_league": [
    {
     "owner": "Dan",
     "team": "South Shore Dirty Dawgs",
-    "record": "0-1",
-    "opponent_owner": "MattMcColgan",
-    "opponent_team": "Brotherly Love Broskis",
-    "opponent_record": "0-1",
-    "opponent_projected": 110.7,
-    "projected": 156.4
+    "record": "1-1",
+    "opponent_owner": "velezjv",
+    "opponent_team": "Papa Bear Down Chi-Town",
+    "opponent_record": "1-1",
+    "opponent_projected": 124.9,
+    "projected": 160.3
    },
    {
     "owner": "Melissa",
     "team": "Belgian Tripel Mama",
-    "record": "0-1",
-    "opponent_owner": "jmccolgan",
-    "opponent_team": "Windy City Wankers",
-    "opponent_record": "1-0",
-    "opponent_projected": 112.7,
-    "projected": 131.3
+    "record": "1-1",
+    "opponent_owner": "Tutes1173",
+    "opponent_team": "North End Cannolis ",
+    "opponent_record": "2-0",
+    "opponent_projected": 154.1,
+    "projected": 130.3
    },
    {
     "owner": "Theo",
     "team": "The Peeps of America",
-    "record": "0-1",
-    "opponent_owner": "velezjv",
-    "opponent_team": "Papa Bear Down Chi-Town",
-    "opponent_record": "1-0",
-    "opponent_projected": 128.3,
-    "projected": 136
+    "record": "1-1",
+    "opponent_owner": "ryguy5188",
+    "opponent_team": "Reno Deputies",
+    "opponent_record": "1-1",
+    "opponent_projected": 108.5,
+    "projected": 109.6
    }
   ],
   "lineup_alarm": [
