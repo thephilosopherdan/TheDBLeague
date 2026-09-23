@@ -1,51 +1,51 @@
 {
- "generated_at": "2026-09-23T08:08:45.992Z",
+ "generated_at": "2026-09-23T13:59:27.221Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-23",
-  "high_f": 61,
+  "high_f": 62,
   "low_f": 51,
   "precip_chance_pct": 0,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 57,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "09:00",
-    "temp_f": 60,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "10:00",
-    "temp_f": 59,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "11:00",
-    "temp_f": 59,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "12:00",
-    "temp_f": 61,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "16:00",
-    "temp_f": 60,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "17:00",
     "temp_f": 58,
     "precip_chance_pct": 0
    },
    {
+    "hour": "09:00",
+    "temp_f": 61,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "10:00",
+    "temp_f": 61,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "11:00",
+    "temp_f": 62,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "12:00",
+    "temp_f": 62,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "16:00",
+    "temp_f": 61,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "17:00",
+    "temp_f": 59,
+    "precip_chance_pct": 0
+   },
+   {
     "hour": "18:00",
-    "temp_f": 57,
+    "temp_f": 58,
     "precip_chance_pct": 0
    },
    {
@@ -84,8 +84,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-1",
-    "opponent_projected": 133.9,
-    "projected": 156.3
+    "opponent_projected": 134,
+    "projected": 155.9
    },
    {
     "owner": "Melissa",
@@ -95,7 +95,7 @@
     "opponent_team": "North End Cannolis ",
     "opponent_record": "2-0",
     "opponent_projected": 155.3,
-    "projected": 133.8
+    "projected": 133.7
    },
    {
     "owner": "Theo",
@@ -104,8 +104,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "1-1",
-    "opponent_projected": 125.8,
-    "projected": 107.6
+    "opponent_projected": 127.2,
+    "projected": 107.2
    }
   ],
   "lineup_alarm": [
