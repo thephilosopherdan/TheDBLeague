@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-23T13:59:27.221Z",
+ "generated_at": "2026-09-23T18:45:04.746Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-23",
-  "high_f": 62,
+  "high_f": 64,
   "low_f": 51,
   "precip_chance_pct": 0,
   "summary": "Cloudy",
@@ -20,17 +20,17 @@
    },
    {
     "hour": "10:00",
-    "temp_f": 61,
+    "temp_f": 62,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 62,
+    "temp_f": 64,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 62,
+    "temp_f": 64,
     "precip_chance_pct": 0
    },
    {
@@ -40,7 +40,7 @@
    },
    {
     "hour": "17:00",
-    "temp_f": 59,
+    "temp_f": 60,
     "precip_chance_pct": 0
    },
    {
@@ -50,7 +50,7 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 55,
+    "temp_f": 56,
     "precip_chance_pct": 0
    }
   ]
@@ -84,7 +84,7 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-1",
-    "opponent_projected": 134,
+    "opponent_projected": 132.8,
     "projected": 155.9
    },
    {
@@ -94,8 +94,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "2-0",
-    "opponent_projected": 155.3,
-    "projected": 133.7
+    "opponent_projected": 155.6,
+    "projected": 133.4
    },
    {
     "owner": "Theo",
@@ -104,7 +104,7 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "1-1",
-    "opponent_projected": 127.2,
+    "opponent_projected": 126.9,
     "projected": 107.2
    }
   ],
@@ -114,7 +114,7 @@
     "league": "DB",
     "player": "Jaxson Dart",
     "position": "QB",
-    "status": "Doubtful"
+    "status": "Out"
    },
    {
     "owner": "Dan",
