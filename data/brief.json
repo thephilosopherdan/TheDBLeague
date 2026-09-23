@@ -1,51 +1,51 @@
 {
- "generated_at": "2026-09-23T02:38:09.510Z",
+ "generated_at": "2026-09-23T08:08:45.992Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-09-22",
-  "high_f": 62,
-  "low_f": 52,
-  "precip_chance_pct": 7,
+  "date": "2026-09-23",
+  "high_f": 61,
+  "low_f": 51,
+  "precip_chance_pct": 0,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 58,
-    "precip_chance_pct": 7
+    "temp_f": 57,
+    "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 59,
-    "precip_chance_pct": 4
+    "temp_f": 60,
+    "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
     "temp_f": 59,
-    "precip_chance_pct": 1
+    "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 60,
+    "temp_f": 59,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 62,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "16:00",
     "temp_f": 61,
     "precip_chance_pct": 0
    },
    {
-    "hour": "17:00",
+    "hour": "16:00",
     "temp_f": 60,
     "precip_chance_pct": 0
    },
    {
-    "hour": "18:00",
+    "hour": "17:00",
     "temp_f": 58,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "18:00",
+    "temp_f": 57,
     "precip_chance_pct": 0
    },
    {
@@ -57,6 +57,10 @@
  },
  "boston": {
   "last_night": [
+   {
+    "league": "MLB",
+    "line": "CLE 3, BOS 2 (F)"
+   },
    {
     "league": "NHL",
     "line": "BOS 5, PHI 1 (F)"
@@ -80,8 +84,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-1",
-    "opponent_projected": 133.8,
-    "projected": 155.9
+    "opponent_projected": 133.9,
+    "projected": 156.3
    },
    {
     "owner": "Melissa",
@@ -90,7 +94,7 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "2-0",
-    "opponent_projected": 155.2,
+    "opponent_projected": 155.3,
     "projected": 133.8
    },
    {
@@ -100,8 +104,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "1-1",
-    "opponent_projected": 125.5,
-    "projected": 107.4
+    "opponent_projected": 125.8,
+    "projected": 107.6
    }
   ],
   "lineup_alarm": [
@@ -110,21 +114,21 @@
     "league": "DB",
     "player": "Jaxson Dart",
     "position": "QB",
-    "status": "Out"
+    "status": "Doubtful"
    },
    {
     "owner": "Dan",
     "league": "ITC",
     "player": "Zay Flowers",
     "position": "WR",
-    "status": "Out"
+    "status": "Questionable"
    },
    {
     "owner": "Dan",
     "league": "ITC",
     "player": "Brock Bowers",
     "position": "TE",
-    "status": "Out"
+    "status": "Questionable"
    }
   ]
  }
