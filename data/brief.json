@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-09-24T07:59:56.521Z",
+ "generated_at": "2026-09-24T13:55:57.196Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-24",
-  "high_f": 60,
+  "high_f": 61,
   "low_f": 51,
   "precip_chance_pct": 0,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 55,
+    "temp_f": 56,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 57,
+    "temp_f": 58,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 58,
+    "temp_f": 59,
     "precip_chance_pct": 0
    },
    {
@@ -30,27 +30,27 @@
    },
    {
     "hour": "12:00",
-    "temp_f": 58,
+    "temp_f": 60,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 58,
+    "temp_f": 59,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 57,
+    "temp_f": 58,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 56,
+    "temp_f": 57,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 55,
+    "temp_f": 54,
     "precip_chance_pct": 0
    }
   ]
@@ -60,10 +60,6 @@
    {
     "league": "MLB",
     "line": "BOS 1, CLE 0 (F)"
-   },
-   {
-    "league": "NHL",
-    "line": "BOS 5, PHI 1 (F)"
    }
   ],
   "today": [
@@ -88,8 +84,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-1",
-    "opponent_projected": 133.3,
-    "projected": 155.3
+    "opponent_projected": 133.8,
+    "projected": 155.4
    },
    {
     "owner": "Melissa",
@@ -99,7 +95,7 @@
     "opponent_team": "North End Cannolis ",
     "opponent_record": "2-0",
     "opponent_projected": 155.2,
-    "projected": 132.3
+    "projected": 132.2
    },
    {
     "owner": "Theo",
@@ -108,7 +104,7 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "1-1",
-    "opponent_projected": 127.7,
+    "opponent_projected": 127.6,
     "projected": 107.2
    }
   ],
@@ -116,9 +112,9 @@
    {
     "owner": "Dan",
     "league": "DB",
-    "player": "Jaxson Dart",
-    "position": "QB",
-    "status": "Out"
+    "player": "Zay Flowers",
+    "position": "WR",
+    "status": "Questionable"
    },
    {
     "owner": "Dan",
