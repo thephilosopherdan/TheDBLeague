@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-25T19:03:22.938Z",
+ "generated_at": "2026-09-25T23:43:54.346Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-25",
   "high_f": 61,
   "low_f": 51,
-  "precip_chance_pct": 41,
-  "summary": "Drizzle",
+  "precip_chance_pct": 49,
+  "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
@@ -35,23 +35,23 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 61,
-    "precip_chance_pct": 10
+    "temp_f": 60,
+    "precip_chance_pct": 9
    },
    {
     "hour": "17:00",
-    "temp_f": 61,
-    "precip_chance_pct": 20
+    "temp_f": 60,
+    "precip_chance_pct": 16
    },
    {
     "hour": "18:00",
     "temp_f": 59,
-    "precip_chance_pct": 32
+    "precip_chance_pct": 25
    },
    {
     "hour": "19:00",
     "temp_f": 59,
-    "precip_chance_pct": 41
+    "precip_chance_pct": 33
    }
   ]
  },
@@ -59,7 +59,7 @@
   "last_night": [
    {
     "league": "MLB",
-    "line": "CLE 1, BOS 0 (F)"
+    "line": "BOS 4, CHC 3 (F)"
    },
    {
     "league": "NHL",
@@ -69,7 +69,7 @@
   "today": [
    {
     "league": "MLB",
-    "line": "CHC at BOS, 1:05 PM"
+    "line": "CHC at BOS, 5:30 PM"
    },
    {
     "league": "NHL",
@@ -88,8 +88,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-1",
-    "opponent_projected": 134.2,
-    "projected": 156.9
+    "opponent_projected": 133.8,
+    "projected": 156.5
    },
    {
     "owner": "Melissa",
@@ -98,8 +98,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "2-0",
-    "opponent_projected": 154.5,
-    "projected": 132.2
+    "opponent_projected": 154.3,
+    "projected": 133.6
    },
    {
     "owner": "Theo",
@@ -108,8 +108,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "1-1",
-    "opponent_projected": 130,
-    "projected": 108.1
+    "opponent_projected": 128.8,
+    "projected": 108.2
    }
   ],
   "lineup_alarm": [
