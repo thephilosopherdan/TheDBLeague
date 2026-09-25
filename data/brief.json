@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T23:41:45.342Z",
+ "generated_at": "2026-09-25T02:44:40.783Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-24",
@@ -50,7 +50,7 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 56,
+    "temp_f": 55,
     "precip_chance_pct": 0
    }
   ]
@@ -59,17 +59,21 @@
   "last_night": [
    {
     "league": "MLB",
-    "line": "BOS 1, CLE 0 (F)"
+    "line": "CLE 1, BOS 0 (F)"
+   },
+   {
+    "league": "NHL",
+    "line": "PHI 2, BOS 0 (F)"
    }
   ],
   "today": [
    {
     "league": "MLB",
-    "line": "CLE at BOS, 6:45 PM"
+    "line": "CHC at BOS, 1:05 PM"
    },
    {
     "league": "NHL",
-    "line": "BOS at PHI, 7:00 PM"
+    "line": "BOS at WSH, 7:00 PM"
    }
   ]
  },
@@ -84,8 +88,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-1",
-    "opponent_projected": 116.6,
-    "projected": 156.3
+    "opponent_projected": 116.8,
+    "projected": 156.7
    },
    {
     "owner": "Melissa",
@@ -94,8 +98,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "2-0",
-    "opponent_projected": 154.7,
-    "projected": 131.9
+    "opponent_projected": 154.8,
+    "projected": 132.4
    },
    {
     "owner": "Theo",
@@ -104,8 +108,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "1-1",
-    "opponent_projected": 126.7,
-    "projected": 107.9
+    "opponent_projected": 125.4,
+    "projected": 107.6
    }
   ],
   "lineup_alarm": [
