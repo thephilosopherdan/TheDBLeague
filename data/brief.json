@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-25T23:43:54.346Z",
+ "generated_at": "2026-09-26T02:47:15.053Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-25",
   "high_f": 61,
   "low_f": 51,
-  "precip_chance_pct": 49,
+  "precip_chance_pct": 51,
   "summary": "Cloudy",
   "afternoon": [
    {
@@ -59,23 +59,14 @@
   "last_night": [
    {
     "league": "MLB",
-    "line": "BOS 4, CHC 3 (F)"
+    "line": "BOS 2, CHC 0 (F)"
    },
    {
     "league": "NHL",
-    "line": "PHI 2, BOS 0 (F)"
+    "line": "WSH 3, BOS 2 (F)"
    }
   ],
-  "today": [
-   {
-    "league": "MLB",
-    "line": "CHC at BOS, 5:30 PM"
-   },
-   {
-    "league": "NHL",
-    "line": "BOS at WSH, 7:00 PM"
-   }
-  ]
+  "today": []
  },
  "fantasy": {
   "week": 3,
@@ -98,7 +89,7 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "2-0",
-    "opponent_projected": 154.3,
+    "opponent_projected": 154.4,
     "projected": 133.6
    },
    {
@@ -109,7 +100,7 @@
     "opponent_team": "Reno Deputies",
     "opponent_record": "1-1",
     "opponent_projected": 128.8,
-    "projected": 108.2
+    "projected": 108.3
    }
   ],
   "lineup_alarm": [
