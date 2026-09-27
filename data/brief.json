@@ -1,57 +1,57 @@
 {
- "generated_at": "2026-09-27T02:48:18.257Z",
+ "generated_at": "2026-09-27T08:47:08.751Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-09-26",
-  "high_f": 60,
-  "low_f": 55,
-  "precip_chance_pct": 98,
+  "date": "2026-09-27",
+  "high_f": 64,
+  "low_f": 59,
+  "precip_chance_pct": 81,
   "summary": "Heavy rain",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 56,
-    "precip_chance_pct": 42
+    "temp_f": 62,
+    "precip_chance_pct": 67
    },
    {
     "hour": "09:00",
-    "temp_f": 57,
-    "precip_chance_pct": 36
+    "temp_f": 62,
+    "precip_chance_pct": 67
    },
    {
     "hour": "10:00",
-    "temp_f": 57,
-    "precip_chance_pct": 54
+    "temp_f": 63,
+    "precip_chance_pct": 66
    },
    {
     "hour": "11:00",
-    "temp_f": 57,
-    "precip_chance_pct": 53
-   },
-   {
-    "hour": "12:00",
-    "temp_f": 55,
+    "temp_f": 64,
     "precip_chance_pct": 52
    },
    {
+    "hour": "12:00",
+    "temp_f": 63,
+    "precip_chance_pct": 49
+   },
+   {
     "hour": "16:00",
-    "temp_f": 57,
-    "precip_chance_pct": 59
+    "temp_f": 63,
+    "precip_chance_pct": 33
    },
    {
     "hour": "17:00",
-    "temp_f": 56,
-    "precip_chance_pct": 91
+    "temp_f": 62,
+    "precip_chance_pct": 28
    },
    {
     "hour": "18:00",
-    "temp_f": 57,
-    "precip_chance_pct": 98
+    "temp_f": 62,
+    "precip_chance_pct": 34
    },
    {
     "hour": "19:00",
-    "temp_f": 57,
-    "precip_chance_pct": 91
+    "temp_f": 62,
+    "precip_chance_pct": 29
    }
   ]
  },
@@ -88,8 +88,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-1",
-    "opponent_projected": 133.8,
-    "projected": 156.5
+    "opponent_projected": 134.4,
+    "projected": 156.7
    },
    {
     "owner": "Melissa",
@@ -98,8 +98,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "2-0",
-    "opponent_projected": 154.4,
-    "projected": 133.4
+    "opponent_projected": 154.5,
+    "projected": 133.6
    },
    {
     "owner": "Theo",
@@ -108,8 +108,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "1-1",
-    "opponent_projected": 127.5,
-    "projected": 107.9
+    "opponent_projected": 129,
+    "projected": 107.8
    }
   ],
   "lineup_alarm": [
