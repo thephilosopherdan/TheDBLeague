@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-27T18:48:19.206Z",
+ "generated_at": "2026-09-27T23:31:17.603Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-27",
-  "high_f": 62,
+  "high_f": 61,
   "low_f": 59,
   "precip_chance_pct": 97,
   "summary": "Rain",
@@ -35,38 +35,38 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 62,
-    "precip_chance_pct": 22
+    "temp_f": 61,
+    "precip_chance_pct": 21
    },
    {
     "hour": "17:00",
-    "temp_f": 62,
-    "precip_chance_pct": 15
+    "temp_f": 61,
+    "precip_chance_pct": 21
    },
    {
     "hour": "18:00",
-    "temp_f": 62,
-    "precip_chance_pct": 20
+    "temp_f": 61,
+    "precip_chance_pct": 32
    },
    {
     "hour": "19:00",
-    "temp_f": 62,
-    "precip_chance_pct": 20
+    "temp_f": 61,
+    "precip_chance_pct": 25
    }
   ]
  },
  "boston": {
-  "last_night": [],
-  "today": [
+  "last_night": [
    {
     "league": "MLB",
-    "line": "CHC at BOS, 3:05 PM"
+    "line": "CHC 6, BOS 2 (F)"
    },
    {
     "league": "NFL",
-    "line": "NE at JAX, 1:00 PM"
+    "line": "JAX 35, NE 6 (F)"
    }
-  ]
+  ],
+  "today": []
  },
  "fantasy": {
   "week": 3,
@@ -90,7 +90,7 @@
     "opponent_team": "North End Cannolis ",
     "opponent_record": "2-0",
     "opponent_projected": 154.3,
-    "projected": 137.3
+    "projected": 137.4
    },
    {
     "owner": "Theo",
@@ -100,30 +100,16 @@
     "opponent_team": "Reno Deputies",
     "opponent_record": "1-1",
     "opponent_projected": 129.2,
-    "projected": 125.1
+    "projected": 125
    }
   ],
   "lineup_alarm": [
    {
     "owner": "Dan",
-    "league": "DB",
-    "player": "Zay Flowers",
-    "position": "WR",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
     "league": "ITC",
-    "player": "Zay Flowers",
+    "player": "Justin Jefferson",
     "position": "WR",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Brock Bowers",
-    "position": "TE",
-    "status": "Questionable"
+    "status": "Out"
    }
   ]
  }
