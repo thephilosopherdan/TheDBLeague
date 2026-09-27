@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-26T23:16:41.212Z",
+ "generated_at": "2026-09-27T02:48:18.257Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-26",
   "high_f": 60,
   "low_f": 55,
   "precip_chance_pct": 98,
-  "summary": "Rain",
+  "summary": "Heavy rain",
   "afternoon": [
    {
     "hour": "08:00",
@@ -50,7 +50,7 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 55,
+    "temp_f": 57,
     "precip_chance_pct": 91
    }
   ]
@@ -88,8 +88,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-1",
-    "opponent_projected": 133.9,
-    "projected": 156.6
+    "opponent_projected": 133.8,
+    "projected": 156.5
    },
    {
     "owner": "Melissa",
@@ -99,7 +99,7 @@
     "opponent_team": "North End Cannolis ",
     "opponent_record": "2-0",
     "opponent_projected": 154.4,
-    "projected": 133.5
+    "projected": 133.4
    },
    {
     "owner": "Theo",
