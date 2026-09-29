@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T19:01:17.551Z",
+ "generated_at": "2026-09-29T00:45:26.292Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-28",
@@ -35,23 +35,23 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 58,
-    "precip_chance_pct": 21
+    "temp_f": 59,
+    "precip_chance_pct": 35
    },
    {
     "hour": "17:00",
-    "temp_f": 58,
-    "precip_chance_pct": 32
+    "temp_f": 59,
+    "precip_chance_pct": 50
    },
    {
     "hour": "18:00",
     "temp_f": 59,
-    "precip_chance_pct": 40
+    "precip_chance_pct": 54
    },
    {
     "hour": "19:00",
-    "temp_f": 59,
-    "precip_chance_pct": 47
+    "temp_f": 58,
+    "precip_chance_pct": 43
    }
   ]
  },
@@ -66,7 +66,12 @@
     "line": "JAX 35, NE 6 (F)"
    }
   ],
-  "today": []
+  "today": [
+   {
+    "league": "NHL",
+    "line": "NYR at BOS, 8:00 PM"
+   }
+  ]
  },
  "fantasy": {
   "week": 3,
@@ -79,7 +84,7 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "1-1",
-    "opponent_projected": 134.1,
+    "opponent_projected": 134.6,
     "projected": 157.3
    },
    {
@@ -89,7 +94,7 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "2-0",
-    "opponent_projected": 154.3,
+    "opponent_projected": 154.4,
     "projected": 137.3
    },
    {
@@ -99,8 +104,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "1-1",
-    "opponent_projected": 129.2,
-    "projected": 126
+    "opponent_projected": 129.3,
+    "projected": 125.6
    }
   ],
   "lineup_alarm": [
