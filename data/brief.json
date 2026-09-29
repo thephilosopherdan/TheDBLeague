@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-29T09:20:14.895Z",
+ "generated_at": "2026-09-29T17:22:22.215Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-29",
-  "high_f": 63,
+  "high_f": 64,
   "low_f": 55,
   "precip_chance_pct": 13,
   "summary": "Fog",
@@ -11,36 +11,36 @@
    {
     "hour": "08:00",
     "temp_f": 57,
-    "precip_chance_pct": 1
+    "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
     "temp_f": 58,
-    "precip_chance_pct": 1
+    "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 60,
-    "precip_chance_pct": 1
+    "temp_f": 58,
+    "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 61,
+    "temp_f": 59,
     "precip_chance_pct": 1
    },
    {
     "hour": "12:00",
-    "temp_f": 61,
+    "temp_f": 60,
     "precip_chance_pct": 1
    },
    {
     "hour": "16:00",
-    "temp_f": 63,
+    "temp_f": 64,
     "precip_chance_pct": 1
    },
    {
     "hour": "17:00",
-    "temp_f": 62,
+    "temp_f": 63,
     "precip_chance_pct": 2
    },
    {
@@ -50,7 +50,7 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 61,
+    "temp_f": 62,
     "precip_chance_pct": 2
    }
   ]
@@ -79,8 +79,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "2-1",
-    "opponent_projected": 132.9,
-    "projected": 154
+    "opponent_projected": 131.8,
+    "projected": 158.6
    },
    {
     "owner": "Melissa",
@@ -89,8 +89,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-3",
-    "opponent_projected": 124.2,
-    "projected": 134.6
+    "opponent_projected": 124.4,
+    "projected": 131.2
    },
    {
     "owner": "Theo",
@@ -99,18 +99,10 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "1-2",
-    "opponent_projected": 137.6,
-    "projected": 129.9
+    "opponent_projected": 153,
+    "projected": 130.9
    }
   ],
-  "lineup_alarm": [
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Justin Jefferson",
-    "position": "WR",
-    "status": "Out"
-   }
-  ]
+  "lineup_alarm": []
  }
 }
