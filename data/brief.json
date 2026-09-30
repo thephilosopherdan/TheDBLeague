@@ -1,62 +1,66 @@
 {
- "generated_at": "2026-09-30T03:14:59.809Z",
+ "generated_at": "2026-09-30T11:39:50.079Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-09-29",
-  "high_f": 64,
-  "low_f": 55,
-  "precip_chance_pct": 13,
-  "summary": "Fog",
+  "date": "2026-09-30",
+  "high_f": 67,
+  "low_f": 59,
+  "precip_chance_pct": 5,
+  "summary": "Drizzle",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 57,
+    "temp_f": 61,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 58,
+    "temp_f": 63,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 58,
+    "temp_f": 64,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 59,
-    "precip_chance_pct": 1
+    "temp_f": 65,
+    "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 60,
-    "precip_chance_pct": 1
+    "temp_f": 66,
+    "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 63,
+    "temp_f": 67,
     "precip_chance_pct": 1
    },
    {
     "hour": "17:00",
-    "temp_f": 63,
+    "temp_f": 66,
     "precip_chance_pct": 1
    },
    {
     "hour": "18:00",
-    "temp_f": 63,
-    "precip_chance_pct": 1
+    "temp_f": 65,
+    "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 62,
-    "precip_chance_pct": 1
+    "temp_f": 65,
+    "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
   "last_night": [
+   {
+    "league": "MLB",
+    "line": "NYY 9, BOS 0 (F)"
+   },
    {
     "league": "NHL",
     "line": "BOS 3, NYR 0 (F)"
@@ -80,8 +84,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "2-1",
-    "opponent_projected": 135,
-    "projected": 154.8
+    "opponent_projected": 135.2,
+    "projected": 154.9
    },
    {
     "owner": "Melissa",
@@ -90,8 +94,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-3",
-    "opponent_projected": 125.7,
-    "projected": 134.9
+    "opponent_projected": 125.9,
+    "projected": 134.7
    },
    {
     "owner": "Theo",
@@ -100,8 +104,8 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "1-2",
-    "opponent_projected": 152.2,
-    "projected": 129.6
+    "opponent_projected": 152.6,
+    "projected": 129.8
    }
   ],
   "lineup_alarm": []
