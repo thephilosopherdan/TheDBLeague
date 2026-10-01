@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T21:42:53.671Z",
+ "generated_at": "2026-10-01T03:21:39.984Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-09-30",
@@ -35,7 +35,7 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 68,
+    "temp_f": 67,
     "precip_chance_pct": 0
    },
    {
@@ -46,12 +46,12 @@
    {
     "hour": "18:00",
     "temp_f": 66,
-    "precip_chance_pct": 0
+    "precip_chance_pct": 3
    },
    {
     "hour": "19:00",
-    "temp_f": 64,
-    "precip_chance_pct": 0
+    "temp_f": 65,
+    "precip_chance_pct": 1
    }
   ]
  },
@@ -84,8 +84,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "2-1",
-    "opponent_projected": 135.2,
-    "projected": 155.3
+    "opponent_projected": 135.1,
+    "projected": 157.7
    },
    {
     "owner": "Melissa",
@@ -104,7 +104,7 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "1-2",
-    "opponent_projected": 152.2,
+    "opponent_projected": 152,
     "projected": 130
    }
   ],
@@ -118,8 +118,22 @@
    },
    {
     "owner": "Dan",
+    "league": "DB",
+    "player": "Ladd McConkey",
+    "position": "WR",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
     "league": "ITC",
     "player": "Zay Flowers",
+    "position": "WR",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "DeVonta Smith",
     "position": "WR",
     "status": "Questionable"
    }
