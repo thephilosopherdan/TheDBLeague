@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-01T12:08:44.853Z",
+ "generated_at": "2026-10-01T20:00:18.383Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-01",
-  "high_f": 71,
+  "high_f": 73,
   "low_f": 57,
-  "precip_chance_pct": 10,
+  "precip_chance_pct": 8,
   "summary": "Cloudy",
   "afternoon": [
    {
@@ -15,8 +15,8 @@
    },
    {
     "hour": "09:00",
-    "temp_f": 61,
-    "precip_chance_pct": 1
+    "temp_f": 62,
+    "precip_chance_pct": 2
    },
    {
     "hour": "10:00",
@@ -30,28 +30,28 @@
    },
    {
     "hour": "12:00",
-    "temp_f": 68,
-    "precip_chance_pct": 3
+    "temp_f": 69,
+    "precip_chance_pct": 7
    },
    {
     "hour": "16:00",
-    "temp_f": 69,
-    "precip_chance_pct": 4
+    "temp_f": 72,
+    "precip_chance_pct": 2
    },
    {
     "hour": "17:00",
-    "temp_f": 68,
+    "temp_f": 71,
     "precip_chance_pct": 3
    },
    {
     "hour": "18:00",
-    "temp_f": 67,
-    "precip_chance_pct": 4
+    "temp_f": 69,
+    "precip_chance_pct": 3
    },
    {
     "hour": "19:00",
-    "temp_f": 66,
-    "precip_chance_pct": 5
+    "temp_f": 67,
+    "precip_chance_pct": 3
    }
   ]
  },
@@ -76,7 +76,7 @@
     "opponent_team": "Reno Deputies",
     "opponent_record": "2-1",
     "opponent_projected": 135,
-    "projected": 157.2
+    "projected": 157.1
    },
    {
     "owner": "Melissa",
@@ -85,8 +85,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-3",
-    "opponent_projected": 127.9,
-    "projected": 134.6
+    "opponent_projected": 128,
+    "projected": 134.5
    },
    {
     "owner": "Theo",
@@ -95,7 +95,7 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "1-2",
-    "opponent_projected": 152.1,
+    "opponent_projected": 152,
     "projected": 129.8
    }
   ],
