@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T20:24:35.299Z",
+ "generated_at": "2026-10-03T23:26:55.077Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-03",
@@ -35,12 +35,12 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 62,
+    "temp_f": 63,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 61,
+    "temp_f": 62,
     "precip_chance_pct": 0
    },
    {
@@ -84,8 +84,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "2-1",
-    "opponent_projected": 135.2,
-    "projected": 155
+    "opponent_projected": 135.1,
+    "projected": 155.4
    },
    {
     "owner": "Melissa",
@@ -94,8 +94,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-3",
-    "opponent_projected": 109.7,
-    "projected": 133.9
+    "opponent_projected": 109.5,
+    "projected": 134
    },
    {
     "owner": "Theo",
@@ -104,8 +104,8 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "1-2",
-    "opponent_projected": 151.5,
-    "projected": 130.5
+    "opponent_projected": 151.7,
+    "projected": 130.4
    }
   ],
   "lineup_alarm": [
