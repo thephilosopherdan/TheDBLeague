@@ -1,62 +1,67 @@
 {
- "generated_at": "2026-10-03T03:07:14.771Z",
+ "generated_at": "2026-10-03T10:52:45.956Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-10-02",
-  "high_f": 82,
-  "low_f": 66,
-  "precip_chance_pct": 53,
+  "date": "2026-10-03",
+  "high_f": 67,
+  "low_f": 52,
+  "precip_chance_pct": 13,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 69,
-    "precip_chance_pct": 2
+    "temp_f": 59,
+    "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 72,
-    "precip_chance_pct": 1
+    "temp_f": 61,
+    "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 75,
-    "precip_chance_pct": 1
+    "temp_f": 62,
+    "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 77,
-    "precip_chance_pct": 1
+    "temp_f": 63,
+    "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 79,
-    "precip_chance_pct": 1
+    "temp_f": 63,
+    "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 79,
-    "precip_chance_pct": 2
+    "temp_f": 62,
+    "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 77,
-    "precip_chance_pct": 6
+    "temp_f": 61,
+    "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 75,
-    "precip_chance_pct": 20
+    "temp_f": 58,
+    "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 74,
-    "precip_chance_pct": 53
+    "temp_f": 56,
+    "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
-  "last_night": [],
+  "last_night": [
+   {
+    "league": "NHL",
+    "line": "BOS 4, WPG 3 (F)"
+   }
+  ],
   "today": [
    {
     "league": "NHL",
@@ -76,7 +81,7 @@
     "opponent_team": "Reno Deputies",
     "opponent_record": "2-1",
     "opponent_projected": 135.2,
-    "projected": 154.6
+    "projected": 154.5
    },
    {
     "owner": "Melissa",
@@ -85,7 +90,7 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-3",
-    "opponent_projected": 109.8,
+    "opponent_projected": 110,
     "projected": 133.8
    },
    {
@@ -95,8 +100,8 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "1-2",
-    "opponent_projected": 151.3,
-    "projected": 129.3
+    "opponent_projected": 151.6,
+    "projected": 129.2
    }
   ],
   "lineup_alarm": [
