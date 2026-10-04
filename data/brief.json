@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-04T11:35:15.173Z",
+ "generated_at": "2026-10-04T16:13:39.689Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-04",
   "high_f": 61,
   "low_f": 47,
-  "precip_chance_pct": 43,
-  "summary": "Light rain",
+  "precip_chance_pct": 32,
+  "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
@@ -20,12 +20,12 @@
    },
    {
     "hour": "10:00",
-    "temp_f": 59,
+    "temp_f": 60,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 60,
+    "temp_f": 61,
     "precip_chance_pct": 0
    },
    {
@@ -36,22 +36,22 @@
    {
     "hour": "16:00",
     "temp_f": 59,
-    "precip_chance_pct": 5
+    "precip_chance_pct": 6
    },
    {
     "hour": "17:00",
-    "temp_f": 57,
-    "precip_chance_pct": 16
+    "temp_f": 58,
+    "precip_chance_pct": 15
    },
    {
     "hour": "18:00",
-    "temp_f": 56,
-    "precip_chance_pct": 27
+    "temp_f": 57,
+    "precip_chance_pct": 20
    },
    {
     "hour": "19:00",
-    "temp_f": 56,
-    "precip_chance_pct": 31
+    "temp_f": 57,
+    "precip_chance_pct": 23
    }
   ]
  },
@@ -80,8 +80,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "2-1",
-    "opponent_projected": 135.2,
-    "projected": 155.3
+    "opponent_projected": 136.1,
+    "projected": 156.4
    },
    {
     "owner": "Melissa",
@@ -90,8 +90,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-3",
-    "opponent_projected": 109.7,
-    "projected": 134.6
+    "opponent_projected": 109.6,
+    "projected": 135.7
    },
    {
     "owner": "Theo",
@@ -100,29 +100,15 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "1-2",
-    "opponent_projected": 152,
-    "projected": 130.2
+    "opponent_projected": 152.2,
+    "projected": 129.8
    }
   ],
   "lineup_alarm": [
    {
     "owner": "Dan",
     "league": "DB",
-    "player": "Zay Flowers",
-    "position": "WR",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "DB",
     "player": "Ladd McConkey",
-    "position": "WR",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Zay Flowers",
     "position": "WR",
     "status": "Questionable"
    }
