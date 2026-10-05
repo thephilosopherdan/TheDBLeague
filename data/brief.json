@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-10-05T03:17:56.642Z",
+ "generated_at": "2026-10-05T13:09:55.983Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-10-04",
-  "high_f": 63,
-  "low_f": 47,
-  "precip_chance_pct": 20,
-  "summary": "Drizzle",
+  "date": "2026-10-05",
+  "high_f": 66,
+  "low_f": 48,
+  "precip_chance_pct": 1,
+  "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 52,
+    "temp_f": 57,
     "precip_chance_pct": 0
    },
    {
@@ -20,38 +20,38 @@
    },
    {
     "hour": "10:00",
-    "temp_f": 60,
+    "temp_f": 59,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 62,
+    "temp_f": 61,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 63,
+    "temp_f": 65,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 60,
-    "precip_chance_pct": 8
+    "temp_f": 63,
+    "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
     "temp_f": 59,
-    "precip_chance_pct": 18
+    "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 59,
-    "precip_chance_pct": 20
+    "temp_f": 56,
+    "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 59,
-    "precip_chance_pct": 10
+    "temp_f": 53,
+    "precip_chance_pct": 0
    }
   ]
  },
@@ -60,10 +60,6 @@
    {
     "league": "NFL",
     "line": "NE 29, BUF 26 (F)"
-   },
-   {
-    "league": "NHL",
-    "line": "MIN 4, BOS 1 (F)"
    }
   ],
   "today": [
