@@ -1,66 +1,62 @@
 {
- "generated_at": "2026-10-06T04:06:02.584Z",
+ "generated_at": "2026-10-06T12:30:26.917Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-06",
-  "high_f": 57,
-  "low_f": 42,
+  "high_f": 58,
+  "low_f": 43,
   "precip_chance_pct": 0,
   "summary": "Clear",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 44,
+    "temp_f": 46,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 47,
+    "temp_f": 48,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 49,
+    "temp_f": 50,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 51,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "12:00",
-    "temp_f": 53,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "16:00",
-    "temp_f": 57,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "17:00",
-    "temp_f": 56,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "18:00",
     "temp_f": 52,
     "precip_chance_pct": 0
    },
    {
+    "hour": "12:00",
+    "temp_f": 54,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "16:00",
+    "temp_f": 58,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "17:00",
+    "temp_f": 57,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "18:00",
+    "temp_f": 53,
+    "precip_chance_pct": 0
+   },
+   {
     "hour": "19:00",
-    "temp_f": 49,
+    "temp_f": 50,
     "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
   "last_night": [
-   {
-    "league": "NFL",
-    "line": "NE 29, BUF 26 (F)"
-   },
    {
     "league": "NHL",
     "line": "OTT 4, BOS 1 (F)"
@@ -75,32 +71,32 @@
    {
     "owner": "Dan",
     "team": "South Shore Dirty Dawgs",
-    "record": "2-1",
+    "record": "3-1",
     "opponent_owner": "melissanicholle",
     "opponent_team": "Belgian Tripel Mama",
-    "opponent_record": "1-2",
-    "opponent_projected": 83,
-    "projected": 154.3
+    "opponent_record": "2-2",
+    "opponent_projected": 80.9,
+    "projected": 154.6
    },
    {
     "owner": "Melissa",
     "team": "Belgian Tripel Mama",
-    "record": "1-2",
+    "record": "2-2",
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
-    "opponent_record": "2-1",
-    "opponent_projected": 154.3,
-    "projected": 83
+    "opponent_record": "3-1",
+    "opponent_projected": 154.6,
+    "projected": 80.9
    },
    {
     "owner": "Theo",
     "team": "The Peeps of America",
-    "record": "1-2",
+    "record": "1-3",
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
-    "opponent_record": "2-1",
-    "opponent_projected": 128.8,
-    "projected": 137.1
+    "opponent_record": "2-2",
+    "opponent_projected": 129.4,
+    "projected": 137.3
    }
   ],
   "lineup_alarm": [
