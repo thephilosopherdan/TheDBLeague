@@ -1,56 +1,56 @@
 {
- "generated_at": "2026-10-05T21:44:48.479Z",
+ "generated_at": "2026-10-06T04:06:02.584Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-10-05",
-  "high_f": 69,
-  "low_f": 50,
-  "precip_chance_pct": 1,
-  "summary": "Cloudy",
+  "date": "2026-10-06",
+  "high_f": 57,
+  "low_f": 42,
+  "precip_chance_pct": 0,
+  "summary": "Clear",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 58,
+    "temp_f": 44,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 58,
+    "temp_f": 47,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 61,
+    "temp_f": 49,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 64,
+    "temp_f": 51,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 66,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 66,
+    "temp_f": 57,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 61,
+    "temp_f": 56,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 58,
+    "temp_f": 52,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 55,
+    "temp_f": 49,
     "precip_chance_pct": 0
    }
   ]
@@ -60,48 +60,47 @@
    {
     "league": "NFL",
     "line": "NE 29, BUF 26 (F)"
-   }
-  ],
-  "today": [
+   },
    {
     "league": "NHL",
-    "line": "OTT at BOS, 7:30 PM"
+    "line": "OTT 4, BOS 1 (F)"
    }
-  ]
+  ],
+  "today": []
  },
  "fantasy": {
-  "week": 4,
+  "week": 5,
   "season_type": "regular",
   "db_league": [
    {
     "owner": "Dan",
     "team": "South Shore Dirty Dawgs",
     "record": "2-1",
-    "opponent_owner": "ryguy5188",
-    "opponent_team": "Reno Deputies",
-    "opponent_record": "2-1",
-    "opponent_projected": 136.6,
-    "projected": 147.9
+    "opponent_owner": "melissanicholle",
+    "opponent_team": "Belgian Tripel Mama",
+    "opponent_record": "1-2",
+    "opponent_projected": 83,
+    "projected": 154.3
    },
    {
     "owner": "Melissa",
     "team": "Belgian Tripel Mama",
     "record": "1-2",
-    "opponent_owner": "MattMcColgan",
-    "opponent_team": "Brotherly Love Broskis",
-    "opponent_record": "0-3",
-    "opponent_projected": 109.6,
-    "projected": 136.1
+    "opponent_owner": "philosopherdan",
+    "opponent_team": "South Shore Dirty Dawgs",
+    "opponent_record": "2-1",
+    "opponent_projected": 154.3,
+    "projected": 83
    },
    {
     "owner": "Theo",
     "team": "The Peeps of America",
     "record": "1-2",
-    "opponent_owner": "SquirtleSquad187",
-    "opponent_team": "Warren-G Regulators",
-    "opponent_record": "1-2",
-    "opponent_projected": 152.9,
-    "projected": 129.7
+    "opponent_owner": "tpatuto",
+    "opponent_team": "Vermont Maple Baddies",
+    "opponent_record": "2-1",
+    "opponent_projected": 128.8,
+    "projected": 137.1
    }
   ],
   "lineup_alarm": [
@@ -111,6 +110,20 @@
     "player": "Ladd McConkey",
     "position": "WR",
     "status": "Out"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Patrick Mahomes",
+    "position": "QB",
+    "status": "BYE"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Chuba Hubbard",
+    "position": "RB",
+    "status": "BYE"
    }
   ]
  }
