@@ -1,67 +1,62 @@
 {
- "generated_at": "2026-10-07T09:35:24.063Z",
+ "generated_at": "2026-10-07T18:12:08.757Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-07",
-  "high_f": 61,
+  "high_f": 62,
   "low_f": 37,
-  "precip_chance_pct": 1,
+  "precip_chance_pct": 0,
   "summary": "Clear",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 40,
+    "temp_f": 41,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 45,
+    "temp_f": 47,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 50,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "11:00",
     "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
+    "hour": "11:00",
+    "temp_f": 57,
+    "precip_chance_pct": 0
+   },
+   {
     "hour": "12:00",
-    "temp_f": 56,
+    "temp_f": 59,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 61,
+    "temp_f": 62,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 58,
-    "precip_chance_pct": 1
+    "temp_f": 60,
+    "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 55,
-    "precip_chance_pct": 1
+    "temp_f": 56,
+    "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 52,
-    "precip_chance_pct": 1
+    "temp_f": 53,
+    "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
-  "last_night": [
-   {
-    "league": "NHL",
-    "line": "OTT 4, BOS 1 (F)"
-   }
-  ],
+  "last_night": [],
   "today": []
  },
  "fantasy": {
@@ -75,8 +70,8 @@
     "opponent_owner": "melissanicholle",
     "opponent_team": "Belgian Tripel Mama",
     "opponent_record": "2-2",
-    "opponent_projected": 80.8,
-    "projected": 155.7
+    "opponent_projected": 81.2,
+    "projected": 154.9
    },
    {
     "owner": "Melissa",
@@ -85,8 +80,8 @@
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "3-1",
-    "opponent_projected": 155.7,
-    "projected": 80.8
+    "opponent_projected": 154.9,
+    "projected": 81.2
    },
    {
     "owner": "Theo",
@@ -95,8 +90,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "2-2",
-    "opponent_projected": 122.2,
-    "projected": 137.9
+    "opponent_projected": 122,
+    "projected": 137.2
    }
   ],
   "lineup_alarm": [
