@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-10-07T00:16:18.647Z",
+ "generated_at": "2026-10-07T09:35:24.063Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "high_f": 61,
-  "low_f": 44,
-  "precip_chance_pct": 0,
+  "low_f": 37,
+  "precip_chance_pct": 1,
   "summary": "Clear",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 46,
+    "temp_f": 40,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 48,
+    "temp_f": 45,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 51,
+    "temp_f": 50,
     "precip_chance_pct": 0
    },
    {
@@ -30,28 +30,28 @@
    },
    {
     "hour": "12:00",
-    "temp_f": 55,
+    "temp_f": 56,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 60,
+    "temp_f": 61,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 59,
-    "precip_chance_pct": 0
+    "temp_f": 58,
+    "precip_chance_pct": 1
    },
    {
     "hour": "18:00",
     "temp_f": 55,
-    "precip_chance_pct": 0
+    "precip_chance_pct": 1
    },
    {
     "hour": "19:00",
     "temp_f": 52,
-    "precip_chance_pct": 0
+    "precip_chance_pct": 1
    }
   ]
  },
@@ -76,7 +76,7 @@
     "opponent_team": "Belgian Tripel Mama",
     "opponent_record": "2-2",
     "opponent_projected": 80.8,
-    "projected": 155.6
+    "projected": 155.7
    },
    {
     "owner": "Melissa",
@@ -85,7 +85,7 @@
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "3-1",
-    "opponent_projected": 155.6,
+    "opponent_projected": 155.7,
     "projected": 80.8
    },
    {
@@ -95,8 +95,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "2-2",
-    "opponent_projected": 122.1,
-    "projected": 138.1
+    "opponent_projected": 122.2,
+    "projected": 137.9
    }
   ],
   "lineup_alarm": [
@@ -105,7 +105,7 @@
     "league": "DB",
     "player": "Ladd McConkey",
     "position": "WR",
-    "status": "Out"
+    "status": "Questionable"
    },
    {
     "owner": "Dan",
