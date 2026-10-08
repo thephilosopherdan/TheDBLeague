@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-07T18:12:08.757Z",
+ "generated_at": "2026-10-08T00:37:57.902Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-07",
-  "high_f": 62,
+  "high_f": 63,
   "low_f": 37,
   "precip_chance_pct": 0,
   "summary": "Clear",
@@ -35,29 +35,38 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 62,
+    "temp_f": 63,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 60,
+    "temp_f": 61,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 56,
+    "temp_f": 57,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 53,
+    "temp_f": 55,
     "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
   "last_night": [],
-  "today": []
+  "today": [
+   {
+    "league": "NBA",
+    "line": "BOS at CLE, 7:00 PM"
+   },
+   {
+    "league": "NHL",
+    "line": "UTA at BOS, 7:00 PM"
+   }
+  ]
  },
  "fantasy": {
   "week": 5,
@@ -90,11 +99,18 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "2-2",
-    "opponent_projected": 122,
-    "projected": 137.2
+    "opponent_projected": 121.8,
+    "projected": 137.1
    }
   ],
   "lineup_alarm": [
+   {
+    "owner": "Dan",
+    "league": "DB",
+    "player": "Zay Flowers",
+    "position": "WR",
+    "status": "Questionable"
+   },
    {
     "owner": "Dan",
     "league": "DB",
@@ -108,6 +124,27 @@
     "player": "Patrick Mahomes",
     "position": "QB",
     "status": "BYE"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Zay Flowers",
+    "position": "WR",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Malik Nabers",
+    "position": "WR",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Brock Bowers",
+    "position": "TE",
+    "status": "Questionable"
    },
    {
     "owner": "Dan",
