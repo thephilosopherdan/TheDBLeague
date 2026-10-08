@@ -1,37 +1,37 @@
 {
- "generated_at": "2026-10-08T09:45:59.830Z",
+ "generated_at": "2026-10-08T18:14:12.509Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-08",
-  "high_f": 72,
+  "high_f": 71,
   "low_f": 52,
-  "precip_chance_pct": 5,
+  "precip_chance_pct": 8,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 57,
+    "temp_f": 59,
     "precip_chance_pct": 1
    },
    {
     "hour": "09:00",
-    "temp_f": 61,
-    "precip_chance_pct": 2
+    "temp_f": 62,
+    "precip_chance_pct": 1
    },
    {
     "hour": "10:00",
-    "temp_f": 65,
-    "precip_chance_pct": 3
+    "temp_f": 64,
+    "precip_chance_pct": 2
    },
    {
     "hour": "11:00",
-    "temp_f": 66,
-    "precip_chance_pct": 5
+    "temp_f": 65,
+    "precip_chance_pct": 8
    },
    {
     "hour": "12:00",
-    "temp_f": 68,
-    "precip_chance_pct": 3
+    "temp_f": 66,
+    "precip_chance_pct": 1
    },
    {
     "hour": "16:00",
@@ -79,8 +79,8 @@
     "opponent_owner": "melissanicholle",
     "opponent_team": "Belgian Tripel Mama",
     "opponent_record": "2-2",
-    "opponent_projected": 81.6,
-    "projected": 159.1
+    "opponent_projected": 82.9,
+    "projected": 159.4
    },
    {
     "owner": "Melissa",
@@ -89,8 +89,8 @@
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "3-1",
-    "opponent_projected": 159.1,
-    "projected": 81.6
+    "opponent_projected": 159.4,
+    "projected": 82.9
    },
    {
     "owner": "Theo",
@@ -100,7 +100,7 @@
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "2-2",
     "opponent_projected": 121.9,
-    "projected": 136.9
+    "projected": 137.1
    }
   ],
   "lineup_alarm": [
@@ -115,13 +115,6 @@
     "owner": "Dan",
     "league": "ITC",
     "player": "Zay Flowers",
-    "position": "WR",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Malik Nabers",
     "position": "WR",
     "status": "Questionable"
    },
