@@ -1,72 +1,72 @@
 {
- "generated_at": "2026-10-09T00:53:01.219Z",
+ "generated_at": "2026-10-09T09:50:48.751Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-10-08",
-  "high_f": 71,
-  "low_f": 52,
-  "precip_chance_pct": 8,
-  "summary": "Cloudy",
+  "date": "2026-10-09",
+  "high_f": 66,
+  "low_f": 46,
+  "precip_chance_pct": 0,
+  "summary": "Clear",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 59,
-    "precip_chance_pct": 1
+    "temp_f": 49,
+    "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 62,
-    "precip_chance_pct": 1
+    "temp_f": 55,
+    "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 64,
-    "precip_chance_pct": 2
+    "temp_f": 58,
+    "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 65,
-    "precip_chance_pct": 8
+    "temp_f": 61,
+    "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 66,
-    "precip_chance_pct": 1
+    "temp_f": 63,
+    "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 71,
+    "temp_f": 66,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 69,
+    "temp_f": 64,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 65,
+    "temp_f": 60,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 61,
+    "temp_f": 57,
     "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
-  "last_night": [],
-  "today": [
+  "last_night": [
    {
     "league": "NBA",
-    "line": "BOS at CLE, 7:00 PM"
+    "line": "BOS 124, CLE 113 (F)"
    },
    {
     "league": "NHL",
-    "line": "UTA at BOS, 7:00 PM"
+    "line": "BOS 6, UTA 1 (F)"
    }
-  ]
+  ],
+  "today": []
  },
  "fantasy": {
   "week": 5,
@@ -80,7 +80,7 @@
     "opponent_team": "Belgian Tripel Mama",
     "opponent_record": "2-2",
     "opponent_projected": 122.2,
-    "projected": 159.6
+    "projected": 159.3
    },
    {
     "owner": "Melissa",
@@ -89,7 +89,7 @@
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "3-1",
-    "opponent_projected": 159.6,
+    "opponent_projected": 159.3,
     "projected": 122.2
    },
    {
@@ -100,7 +100,7 @@
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "2-2",
     "opponent_projected": 122.2,
-    "projected": 137.3
+    "projected": 136.9
    }
   ],
   "lineup_alarm": [
