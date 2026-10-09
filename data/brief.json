@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-09T17:47:08.726Z",
+ "generated_at": "2026-10-09T22:03:37.175Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-09",
-  "high_f": 67,
+  "high_f": 68,
   "low_f": 46,
   "precip_chance_pct": 0,
   "summary": "Mostly sunny",
@@ -35,17 +35,17 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 66,
+    "temp_f": 68,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 64,
+    "temp_f": 65,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 60,
+    "temp_f": 61,
     "precip_chance_pct": 0
    },
    {
@@ -84,8 +84,8 @@
     "opponent_owner": "melissanicholle",
     "opponent_team": "Belgian Tripel Mama",
     "opponent_record": "2-2",
-    "opponent_projected": 122.4,
-    "projected": 159.5
+    "opponent_projected": 122.8,
+    "projected": 156.6
    },
    {
     "owner": "Melissa",
@@ -94,8 +94,8 @@
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "3-1",
-    "opponent_projected": 159.5,
-    "projected": 122.4
+    "opponent_projected": 156.6,
+    "projected": 122.8
    },
    {
     "owner": "Theo",
@@ -105,7 +105,7 @@
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "2-2",
     "opponent_projected": 122,
-    "projected": 130.5
+    "projected": 130.8
    }
   ],
   "lineup_alarm": [
@@ -120,13 +120,6 @@
     "owner": "Dan",
     "league": "ITC",
     "player": "Zay Flowers",
-    "position": "WR",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Malik Nabers",
     "position": "WR",
     "status": "Questionable"
    }
