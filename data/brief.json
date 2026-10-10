@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-10T16:41:10.334Z",
+ "generated_at": "2026-10-10T20:56:48.689Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-10",
-  "high_f": 63,
+  "high_f": 62,
   "low_f": 43,
   "precip_chance_pct": 1,
   "summary": "Cloudy",
@@ -30,22 +30,22 @@
    },
    {
     "hour": "12:00",
-    "temp_f": 58,
+    "temp_f": 59,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 63,
+    "temp_f": 61,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 62,
+    "temp_f": 61,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 58,
+    "temp_f": 57,
     "precip_chance_pct": 0
    },
    {
@@ -56,15 +56,20 @@
   ]
  },
  "boston": {
-  "last_night": [],
+  "last_night": [
+   {
+    "league": "NHL",
+    "line": "BOS 5, PHI 1 (F)"
+   }
+  ],
   "today": [
+   {
+    "league": "NFL",
+    "line": "LV at NE, 1:00 PM"
+   },
    {
     "league": "NBA",
     "line": "PHI at BOS, 8:00 PM"
-   },
-   {
-    "league": "NHL",
-    "line": "PHI at BOS, 1:00 PM"
    }
   ]
  },
