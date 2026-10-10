@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T22:03:37.175Z",
+ "generated_at": "2026-10-10T03:36:29.293Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-09",
@@ -45,7 +45,7 @@
    },
    {
     "hour": "18:00",
-    "temp_f": 61,
+    "temp_f": 62,
     "precip_chance_pct": 0
    },
    {
@@ -68,6 +68,10 @@
   ],
   "today": [
    {
+    "league": "NBA",
+    "line": "PHI at BOS, 8:00 PM"
+   },
+   {
     "league": "NHL",
     "line": "PHI at BOS, 1:00 PM"
    }
@@ -84,8 +88,8 @@
     "opponent_owner": "melissanicholle",
     "opponent_team": "Belgian Tripel Mama",
     "opponent_record": "2-2",
-    "opponent_projected": 122.8,
-    "projected": 156.6
+    "opponent_projected": 122.9,
+    "projected": 156.4
    },
    {
     "owner": "Melissa",
@@ -94,8 +98,8 @@
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "3-1",
-    "opponent_projected": 156.6,
-    "projected": 122.8
+    "opponent_projected": 156.4,
+    "projected": 122.9
    },
    {
     "owner": "Theo",
@@ -104,8 +108,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "2-2",
-    "opponent_projected": 122,
-    "projected": 130.8
+    "opponent_projected": 121.9,
+    "projected": 130.3
    }
   ],
   "lineup_alarm": [
