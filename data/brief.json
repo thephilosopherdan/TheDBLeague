@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-11T09:31:56.220Z",
+ "generated_at": "2026-10-11T17:07:06.063Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-11",
-  "high_f": 63,
+  "high_f": 62,
   "low_f": 38,
-  "precip_chance_pct": 94,
-  "summary": "Heavy rain",
+  "precip_chance_pct": 85,
+  "summary": "Rain",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 41,
-    "precip_chance_pct": 1
+    "temp_f": 44,
+    "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
@@ -20,38 +20,38 @@
    },
    {
     "hour": "10:00",
-    "temp_f": 54,
+    "temp_f": 52,
     "precip_chance_pct": 4
    },
    {
     "hour": "11:00",
-    "temp_f": 58,
-    "precip_chance_pct": 5
-   },
-   {
-    "hour": "12:00",
-    "temp_f": 60,
+    "temp_f": 55,
     "precip_chance_pct": 6
    },
    {
+    "hour": "12:00",
+    "temp_f": 59,
+    "precip_chance_pct": 4
+   },
+   {
     "hour": "16:00",
-    "temp_f": 61,
+    "temp_f": 62,
     "precip_chance_pct": 12
    },
    {
     "hour": "17:00",
     "temp_f": 59,
-    "precip_chance_pct": 17
+    "precip_chance_pct": 16
    },
    {
     "hour": "18:00",
     "temp_f": 58,
-    "precip_chance_pct": 24
+    "precip_chance_pct": 17
    },
    {
     "hour": "19:00",
-    "temp_f": 56,
-    "precip_chance_pct": 33
+    "temp_f": 57,
+    "precip_chance_pct": 31
    }
   ]
  },
@@ -84,8 +84,8 @@
     "opponent_owner": "melissanicholle",
     "opponent_team": "Belgian Tripel Mama",
     "opponent_record": "2-2",
-    "opponent_projected": 123.5,
-    "projected": 156.6
+    "opponent_projected": 123.4,
+    "projected": 156.3
    },
    {
     "owner": "Melissa",
@@ -94,8 +94,8 @@
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "3-1",
-    "opponent_projected": 156.6,
-    "projected": 123.5
+    "opponent_projected": 156.3,
+    "projected": 123.4
    },
    {
     "owner": "Theo",
@@ -104,8 +104,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "2-2",
-    "opponent_projected": 145.2,
-    "projected": 130.5
+    "opponent_projected": 146.3,
+    "projected": 141
    }
   ],
   "lineup_alarm": [
