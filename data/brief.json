@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T20:56:48.689Z",
+ "generated_at": "2026-10-11T00:04:36.971Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-10",
@@ -40,7 +40,7 @@
    },
    {
     "hour": "17:00",
-    "temp_f": 61,
+    "temp_f": 60,
     "precip_chance_pct": 0
    },
    {
@@ -50,7 +50,7 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 54,
+    "temp_f": 53,
     "precip_chance_pct": 0
    }
   ]
@@ -85,7 +85,7 @@
     "opponent_team": "Belgian Tripel Mama",
     "opponent_record": "2-2",
     "opponent_projected": 123,
-    "projected": 156.4
+    "projected": 156.7
    },
    {
     "owner": "Melissa",
@@ -94,7 +94,7 @@
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "3-1",
-    "opponent_projected": 156.4,
+    "opponent_projected": 156.7,
     "projected": 123
    },
    {
@@ -104,7 +104,7 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "2-2",
-    "opponent_projected": 122.2,
+    "opponent_projected": 145,
     "projected": 130.7
    }
   ],
