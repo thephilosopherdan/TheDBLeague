@@ -1,57 +1,57 @@
 {
- "generated_at": "2026-10-12T22:19:54.559Z",
+ "generated_at": "2026-10-13T04:46:43.650Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-10-12",
-  "high_f": 67,
-  "low_f": 52,
-  "precip_chance_pct": 95,
-  "summary": "Heavy rain",
+  "date": "2026-10-13",
+  "high_f": 59,
+  "low_f": 53,
+  "precip_chance_pct": 26,
+  "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 52,
-    "precip_chance_pct": 2
+    "temp_f": 53,
+    "precip_chance_pct": 12
    },
    {
     "hour": "09:00",
-    "temp_f": 53,
-    "precip_chance_pct": 1
+    "temp_f": 54,
+    "precip_chance_pct": 9
    },
    {
     "hour": "10:00",
     "temp_f": 54,
-    "precip_chance_pct": 1
+    "precip_chance_pct": 5
    },
    {
     "hour": "11:00",
-    "temp_f": 55,
-    "precip_chance_pct": 1
+    "temp_f": 56,
+    "precip_chance_pct": 9
    },
    {
     "hour": "12:00",
-    "temp_f": 57,
-    "precip_chance_pct": 1
+    "temp_f": 56,
+    "precip_chance_pct": 9
    },
    {
     "hour": "16:00",
-    "temp_f": 67,
-    "precip_chance_pct": 0
+    "temp_f": 58,
+    "precip_chance_pct": 12
    },
    {
     "hour": "17:00",
-    "temp_f": 65,
-    "precip_chance_pct": 0
+    "temp_f": 58,
+    "precip_chance_pct": 14
    },
    {
     "hour": "18:00",
-    "temp_f": 62,
-    "precip_chance_pct": 0
+    "temp_f": 58,
+    "precip_chance_pct": 15
    },
    {
     "hour": "19:00",
-    "temp_f": 60,
-    "precip_chance_pct": 1
+    "temp_f": 58,
+    "precip_chance_pct": 16
    }
   ]
  },
@@ -62,50 +62,83 @@
     "line": "NE 45, LV 17 (F)"
    }
   ],
-  "today": []
+  "today": [
+   {
+    "league": "NHL",
+    "line": "BOS at SJ, 11:00 PM"
+   }
+  ]
  },
  "fantasy": {
-  "week": 5,
+  "week": 6,
   "season_type": "regular",
   "db_league": [
    {
     "owner": "Dan",
     "team": "South Shore Dirty Dawgs",
-    "record": "3-1",
-    "opponent_owner": "melissanicholle",
-    "opponent_team": "Belgian Tripel Mama",
-    "opponent_record": "2-2",
-    "opponent_projected": 124.1,
-    "projected": 158.6
+    "record": "4-1",
+    "opponent_owner": "SquirtleSquad187",
+    "opponent_team": "Warren-G Regulators",
+    "opponent_record": "3-2",
+    "opponent_projected": 116.8,
+    "projected": 119
    },
    {
     "owner": "Melissa",
     "team": "Belgian Tripel Mama",
-    "record": "2-2",
-    "opponent_owner": "philosopherdan",
-    "opponent_team": "South Shore Dirty Dawgs",
-    "opponent_record": "3-1",
-    "opponent_projected": 158.6,
-    "projected": 124.1
+    "record": "2-3",
+    "opponent_owner": "ryguy5188",
+    "opponent_team": "Reno Deputies",
+    "opponent_record": "3-2",
+    "opponent_projected": 104,
+    "projected": 110.2
    },
    {
     "owner": "Theo",
     "team": "The Peeps of America",
-    "record": "1-3",
-    "opponent_owner": "tpatuto",
-    "opponent_team": "Vermont Maple Baddies",
-    "opponent_record": "2-2",
-    "opponent_projected": 146.9,
-    "projected": 141.7
+    "record": "1-4",
+    "opponent_owner": "MattMcColgan",
+    "opponent_team": "Brotherly Love Broskis",
+    "opponent_record": "0-5",
+    "opponent_projected": 115.5,
+    "projected": 124
    }
   ],
   "lineup_alarm": [
    {
     "owner": "Dan",
     "league": "DB",
+    "player": "Jahmyr Gibbs",
+    "position": "RB",
+    "status": "BYE"
+   },
+   {
+    "owner": "Dan",
+    "league": "DB",
     "player": "Jaxon Smith-Njigba",
     "position": "WR",
     "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "DB",
+    "player": "Sam LaPorta",
+    "position": "TE",
+    "status": "BYE"
+   },
+   {
+    "owner": "Dan",
+    "league": "DB",
+    "player": "Minnesota Vikings",
+    "position": "DEF",
+    "status": "BYE"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Will Reichard",
+    "position": "K",
+    "status": "BYE"
    }
   ]
  }
