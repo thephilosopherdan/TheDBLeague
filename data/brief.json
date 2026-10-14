@@ -1,70 +1,71 @@
 {
- "generated_at": "2026-10-14T00:02:39.998Z",
+ "generated_at": "2026-10-14T08:15:22.714Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-10-13",
-  "high_f": 61,
-  "low_f": 54,
-  "precip_chance_pct": 21,
-  "summary": "Fog",
+  "date": "2026-10-14",
+  "high_f": 73,
+  "low_f": 55,
+  "precip_chance_pct": 31,
+  "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 55,
-    "precip_chance_pct": 10
+    "temp_f": 64,
+    "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 54,
-    "precip_chance_pct": 13
+    "temp_f": 67,
+    "precip_chance_pct": 1
    },
    {
     "hour": "10:00",
-    "temp_f": 56,
-    "precip_chance_pct": 4
+    "temp_f": 70,
+    "precip_chance_pct": 1
    },
    {
     "hour": "11:00",
-    "temp_f": 57,
-    "precip_chance_pct": 4
+    "temp_f": 73,
+    "precip_chance_pct": 1
    },
    {
     "hour": "12:00",
-    "temp_f": 58,
+    "temp_f": 72,
     "precip_chance_pct": 2
    },
    {
     "hour": "16:00",
-    "temp_f": 59,
-    "precip_chance_pct": 10
-   },
-   {
-    "hour": "17:00",
-    "temp_f": 60,
-    "precip_chance_pct": 10
-   },
-   {
-    "hour": "18:00",
-    "temp_f": 59,
+    "temp_f": 69,
     "precip_chance_pct": 5
    },
    {
+    "hour": "17:00",
+    "temp_f": 68,
+    "precip_chance_pct": 5
+   },
+   {
+    "hour": "18:00",
+    "temp_f": 64,
+    "precip_chance_pct": 4
+   },
+   {
     "hour": "19:00",
-    "temp_f": 59,
+    "temp_f": 62,
     "precip_chance_pct": 5
    }
   ]
  },
  "boston": {
-  "last_night": [],
+  "last_night": [
+   {
+    "league": "NHL",
+    "line": "BOS 6, SJ 3 (F)"
+   }
+  ],
   "today": [
    {
     "league": "NBA",
     "line": "CHA at BOS, 7:30 PM"
-   },
-   {
-    "league": "NHL",
-    "line": "BOS at SJ, 11:00 PM"
    }
   ]
  },
@@ -80,7 +81,7 @@
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "3-2",
     "opponent_projected": 116.9,
-    "projected": 149.7
+    "projected": 150.2
    },
    {
     "owner": "Melissa",
@@ -89,8 +90,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "3-2",
-    "opponent_projected": 104.7,
-    "projected": 99.9
+    "opponent_projected": 116.1,
+    "projected": 99.8
    },
    {
     "owner": "Theo",
@@ -99,8 +100,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-5",
-    "opponent_projected": 115.7,
-    "projected": 123
+    "opponent_projected": 116.1,
+    "projected": 122.9
    }
   ],
   "lineup_alarm": [
