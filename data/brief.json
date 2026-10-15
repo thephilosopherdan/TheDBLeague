@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-10-14T23:34:19.289Z",
+ "generated_at": "2026-10-15T02:33:57.166Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-14",
   "high_f": 77,
-  "low_f": 60,
+  "low_f": 61,
   "precip_chance_pct": 31,
   "summary": "Fog",
   "afternoon": [
@@ -45,12 +45,12 @@
    },
    {
     "hour": "18:00",
-    "temp_f": 67,
+    "temp_f": 69,
     "precip_chance_pct": 2
    },
    {
     "hour": "19:00",
-    "temp_f": 65,
+    "temp_f": 67,
     "precip_chance_pct": 1
    }
   ]
@@ -58,16 +58,15 @@
  "boston": {
   "last_night": [
    {
+    "league": "NBA",
+    "line": "BOS 114, CHA 93 (F)"
+   },
+   {
     "league": "NHL",
     "line": "BOS 6, SJ 3 (F)"
    }
   ],
-  "today": [
-   {
-    "league": "NBA",
-    "line": "CHA at BOS, 7:30 PM"
-   }
-  ]
+  "today": []
  },
  "fantasy": {
   "week": 6,
@@ -80,8 +79,8 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "3-2",
-    "opponent_projected": 121.9,
-    "projected": 150.9
+    "opponent_projected": 123.5,
+    "projected": 151.3
    },
    {
     "owner": "Melissa",
@@ -90,8 +89,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "3-2",
-    "opponent_projected": 120.8,
-    "projected": 100.1
+    "opponent_projected": 121,
+    "projected": 100.2
    },
    {
     "owner": "Theo",
@@ -100,11 +99,25 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-5",
-    "opponent_projected": 115.3,
-    "projected": 121.8
+    "opponent_projected": 115.6,
+    "projected": 121.9
    }
   ],
   "lineup_alarm": [
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Brock Bowers",
+    "position": "TE",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Ty Johnson",
+    "position": "RB",
+    "status": "Questionable"
+   },
    {
     "owner": "Dan",
     "league": "ITC",
