@@ -1,57 +1,57 @@
 {
- "generated_at": "2026-10-16T02:28:56.426Z",
+ "generated_at": "2026-10-16T07:44:28.104Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-10-15",
-  "high_f": 61,
-  "low_f": 45,
-  "precip_chance_pct": 0,
-  "summary": "Clear",
+  "date": "2026-10-16",
+  "high_f": 66,
+  "low_f": 42,
+  "precip_chance_pct": 72,
+  "summary": "Heavy rain",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 53,
-    "precip_chance_pct": 0
+    "temp_f": 50,
+    "precip_chance_pct": 8
    },
    {
     "hour": "09:00",
     "temp_f": 55,
-    "precip_chance_pct": 0
+    "precip_chance_pct": 20
    },
    {
     "hour": "10:00",
-    "temp_f": 57,
-    "precip_chance_pct": 0
+    "temp_f": 59,
+    "precip_chance_pct": 65
    },
    {
     "hour": "11:00",
-    "temp_f": 59,
-    "precip_chance_pct": 0
+    "temp_f": 63,
+    "precip_chance_pct": 72
    },
    {
     "hour": "12:00",
-    "temp_f": 60,
-    "precip_chance_pct": 0
+    "temp_f": 63,
+    "precip_chance_pct": 67
    },
    {
     "hour": "16:00",
-    "temp_f": 61,
-    "precip_chance_pct": 0
+    "temp_f": 66,
+    "precip_chance_pct": 12
    },
    {
     "hour": "17:00",
-    "temp_f": 60,
-    "precip_chance_pct": 0
+    "temp_f": 66,
+    "precip_chance_pct": 12
    },
    {
     "hour": "18:00",
-    "temp_f": 55,
-    "precip_chance_pct": 0
+    "temp_f": 65,
+    "precip_chance_pct": 8
    },
    {
     "hour": "19:00",
-    "temp_f": 51,
-    "precip_chance_pct": 0
+    "temp_f": 65,
+    "precip_chance_pct": 10
    }
   ]
  },
@@ -85,7 +85,7 @@
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "3-2",
     "opponent_projected": 122.8,
-    "projected": 149.2
+    "projected": 149.3
    },
    {
     "owner": "Melissa",
@@ -94,8 +94,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "3-2",
-    "opponent_projected": 120.7,
-    "projected": 104.7
+    "opponent_projected": 120,
+    "projected": 105.6
    },
    {
     "owner": "Theo",
@@ -105,7 +105,7 @@
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-5",
     "opponent_projected": 106.2,
-    "projected": 139.9
+    "projected": 140.9
    }
   ],
   "lineup_alarm": [
