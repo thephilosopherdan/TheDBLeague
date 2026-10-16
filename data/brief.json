@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-16T18:32:42.637Z",
+ "generated_at": "2026-10-16T23:10:03.116Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-16",
   "high_f": 68,
   "low_f": 43,
   "precip_chance_pct": 67,
-  "summary": "Heavy rain",
+  "summary": "Rain",
   "afternoon": [
    {
     "hour": "08:00",
@@ -35,23 +35,23 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 68,
-    "precip_chance_pct": 14
+    "temp_f": 67,
+    "precip_chance_pct": 24
    },
    {
     "hour": "17:00",
-    "temp_f": 67,
-    "precip_chance_pct": 7
+    "temp_f": 68,
+    "precip_chance_pct": 11
    },
    {
     "hour": "18:00",
-    "temp_f": 65,
-    "precip_chance_pct": 5
+    "temp_f": 66,
+    "precip_chance_pct": 4
    },
    {
     "hour": "19:00",
-    "temp_f": 64,
-    "precip_chance_pct": 7
+    "temp_f": 65,
+    "precip_chance_pct": 4
    }
   ]
  },
@@ -79,8 +79,8 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "3-2",
-    "opponent_projected": 122.9,
-    "projected": 144.7
+    "opponent_projected": 123.3,
+    "projected": 143.8
    },
    {
     "owner": "Melissa",
@@ -89,8 +89,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "3-2",
-    "opponent_projected": 119.6,
-    "projected": 105.4
+    "opponent_projected": 119.9,
+    "projected": 105.2
    },
    {
     "owner": "Theo",
@@ -99,16 +99,16 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-5",
-    "opponent_projected": 106.1,
-    "projected": 141.7
+    "opponent_projected": 117.2,
+    "projected": 142.4
    }
   ],
   "lineup_alarm": [
    {
     "owner": "Dan",
     "league": "DB",
-    "player": "Zay Flowers",
-    "position": "WR",
+    "player": "Tyler Warren",
+    "position": "TE",
     "status": "Questionable"
    },
    {
@@ -121,15 +121,8 @@
    {
     "owner": "Dan",
     "league": "ITC",
-    "player": "Zay Flowers",
-    "position": "WR",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Ty Johnson",
-    "position": "RB",
+    "player": "Tyler Warren",
+    "position": "TE",
     "status": "Questionable"
    },
    {
