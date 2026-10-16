@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-16T13:39:16.132Z",
+ "generated_at": "2026-10-16T18:32:42.637Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-16",
-  "high_f": 67,
+  "high_f": 68,
   "low_f": 43,
-  "precip_chance_pct": 62,
+  "precip_chance_pct": 67,
   "summary": "Heavy rain",
   "afternoon": [
    {
@@ -15,43 +15,43 @@
    },
    {
     "hour": "09:00",
-    "temp_f": 55,
+    "temp_f": 54,
     "precip_chance_pct": 28
    },
    {
     "hour": "10:00",
     "temp_f": 56,
-    "precip_chance_pct": 56
+    "precip_chance_pct": 59
    },
    {
     "hour": "11:00",
-    "temp_f": 59,
-    "precip_chance_pct": 62
+    "temp_f": 58,
+    "precip_chance_pct": 67
    },
    {
     "hour": "12:00",
-    "temp_f": 61,
-    "precip_chance_pct": 35
+    "temp_f": 62,
+    "precip_chance_pct": 45
    },
    {
     "hour": "16:00",
-    "temp_f": 67,
-    "precip_chance_pct": 13
+    "temp_f": 68,
+    "precip_chance_pct": 14
    },
    {
     "hour": "17:00",
     "temp_f": 67,
-    "precip_chance_pct": 5
+    "precip_chance_pct": 7
    },
    {
     "hour": "18:00",
-    "temp_f": 66,
-    "precip_chance_pct": 6
+    "temp_f": 65,
+    "precip_chance_pct": 5
    },
    {
     "hour": "19:00",
-    "temp_f": 66,
-    "precip_chance_pct": 9
+    "temp_f": 64,
+    "precip_chance_pct": 7
    }
   ]
  },
@@ -79,8 +79,8 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "3-2",
-    "opponent_projected": 122.7,
-    "projected": 149.2
+    "opponent_projected": 122.9,
+    "projected": 144.7
    },
    {
     "owner": "Melissa",
@@ -89,8 +89,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "3-2",
-    "opponent_projected": 120,
-    "projected": 105.5
+    "opponent_projected": 119.6,
+    "projected": 105.4
    },
    {
     "owner": "Theo",
@@ -100,7 +100,7 @@
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-5",
     "opponent_projected": 106.1,
-    "projected": 140.8
+    "projected": 141.7
    }
   ],
   "lineup_alarm": [
