@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-16T23:10:03.116Z",
+ "generated_at": "2026-10-17T02:21:10.830Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-16",
   "high_f": 68,
   "low_f": 43,
   "precip_chance_pct": 67,
-  "summary": "Rain",
+  "summary": "Light rain",
   "afternoon": [
    {
     "hour": "08:00",
@@ -45,23 +45,24 @@
    },
    {
     "hour": "18:00",
-    "temp_f": 66,
+    "temp_f": 67,
     "precip_chance_pct": 4
    },
    {
     "hour": "19:00",
-    "temp_f": 65,
+    "temp_f": 67,
     "precip_chance_pct": 4
    }
   ]
  },
  "boston": {
-  "last_night": [],
-  "today": [
+  "last_night": [
    {
     "league": "NBA",
-    "line": "BOS at PHI, 7:00 PM"
-   },
+    "line": "BOS 125, PHI 120 (F)"
+   }
+  ],
+  "today": [
    {
     "league": "NHL",
     "line": "BOS at ANA, 10:00 PM"
@@ -79,7 +80,7 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "3-2",
-    "opponent_projected": 123.3,
+    "opponent_projected": 144.4,
     "projected": 143.8
    },
    {
@@ -90,7 +91,7 @@
     "opponent_team": "Reno Deputies",
     "opponent_record": "3-2",
     "opponent_projected": 119.9,
-    "projected": 105.2
+    "projected": 105.7
    },
    {
     "owner": "Theo",
@@ -99,8 +100,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-5",
-    "opponent_projected": 117.2,
-    "projected": 142.4
+    "opponent_projected": 116.8,
+    "projected": 142.3
    }
   ],
   "lineup_alarm": [
@@ -117,20 +118,6 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Tyler Warren",
-    "position": "TE",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Will Reichard",
-    "position": "K",
-    "status": "BYE"
    }
   ]
  }
