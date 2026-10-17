@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T19:54:24.490Z",
+ "generated_at": "2026-10-17T22:47:34.035Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-17",
@@ -36,12 +36,12 @@
    {
     "hour": "16:00",
     "temp_f": 49,
-    "precip_chance_pct": 2
+    "precip_chance_pct": 1
    },
    {
     "hour": "17:00",
     "temp_f": 47,
-    "precip_chance_pct": 1
+    "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
@@ -84,8 +84,8 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "3-2",
-    "opponent_projected": 145.4,
-    "projected": 143.8
+    "opponent_projected": 144.9,
+    "projected": 144.2
    },
    {
     "owner": "Melissa",
@@ -94,8 +94,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "3-2",
-    "opponent_projected": 126.2,
-    "projected": 105.9
+    "opponent_projected": 125.2,
+    "projected": 105.8
    },
    {
     "owner": "Theo",
@@ -104,8 +104,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-5",
-    "opponent_projected": 120.2,
-    "projected": 142.2
+    "opponent_projected": 120,
+    "projected": 142
    }
   ],
   "lineup_alarm": [
@@ -126,8 +126,8 @@
    {
     "owner": "Dan",
     "league": "ITC",
-    "player": "Tyler Warren",
-    "position": "TE",
+    "player": "A.J. Brown",
+    "position": "WR",
     "status": "Questionable"
    }
   ]
