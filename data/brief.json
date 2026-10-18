@@ -1,56 +1,56 @@
 {
- "generated_at": "2026-10-18T12:53:51.547Z",
+ "generated_at": "2026-10-18T17:41:39.823Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-18",
-  "high_f": 52,
+  "high_f": 54,
   "low_f": 33,
   "precip_chance_pct": 0,
   "summary": "Clear",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 35,
+    "temp_f": 36,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 39,
+    "temp_f": 42,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 43,
+    "temp_f": 49,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 46,
+    "temp_f": 51,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 48,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 52,
+    "temp_f": 54,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 50,
+    "temp_f": 52,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 46,
+    "temp_f": 48,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 45,
+    "temp_f": 46,
     "precip_chance_pct": 0
    }
   ]
@@ -80,8 +80,8 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "3-2",
-    "opponent_projected": 144.8,
-    "projected": 147.2
+    "opponent_projected": 144.6,
+    "projected": 148.9
    },
    {
     "owner": "Melissa",
@@ -90,8 +90,8 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "3-2",
-    "opponent_projected": 129.3,
-    "projected": 105.9
+    "opponent_projected": 129.1,
+    "projected": 134.4
    },
    {
     "owner": "Theo",
@@ -100,29 +100,15 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-5",
-    "opponent_projected": 119.9,
-    "projected": 142.3
+    "opponent_projected": 129.7,
+    "projected": 142
    }
   ],
   "lineup_alarm": [
    {
     "owner": "Dan",
     "league": "DB",
-    "player": "Tyler Warren",
-    "position": "TE",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "DB",
     "player": "Jaylen Waddle",
-    "position": "WR",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "A.J. Brown",
     "position": "WR",
     "status": "Questionable"
    }
