@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T17:41:39.823Z",
+ "generated_at": "2026-10-18T19:54:22.045Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-18",
@@ -40,7 +40,7 @@
    },
    {
     "hour": "17:00",
-    "temp_f": 52,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
@@ -100,7 +100,7 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-5",
-    "opponent_projected": 129.7,
+    "opponent_projected": 130,
     "projected": 142
    }
   ],
