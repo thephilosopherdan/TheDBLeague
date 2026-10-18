@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-18T19:54:22.045Z",
+ "generated_at": "2026-10-18T22:41:36.207Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-18",
-  "high_f": 54,
+  "high_f": 55,
   "low_f": 33,
   "precip_chance_pct": 0,
   "summary": "Clear",
@@ -45,7 +45,7 @@
    },
    {
     "hour": "18:00",
-    "temp_f": 48,
+    "temp_f": 49,
     "precip_chance_pct": 0
    },
    {
@@ -58,16 +58,15 @@
  "boston": {
   "last_night": [
    {
+    "league": "NFL",
+    "line": "NE 26, NYJ 19 (F)"
+   },
+   {
     "league": "NHL",
     "line": "BOS 4, LA 1 (F)"
    }
   ],
-  "today": [
-   {
-    "league": "NFL",
-    "line": "NYJ at NE, 1:00 PM"
-   }
-  ]
+  "today": []
  },
  "fantasy": {
   "week": 6,
@@ -80,8 +79,8 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "3-2",
-    "opponent_projected": 144.6,
-    "projected": 148.9
+    "opponent_projected": 144.9,
+    "projected": 148.3
    },
    {
     "owner": "Melissa",
@@ -91,7 +90,7 @@
     "opponent_team": "Reno Deputies",
     "opponent_record": "3-2",
     "opponent_projected": 129.1,
-    "projected": 134.4
+    "projected": 137.4
    },
    {
     "owner": "Theo",
@@ -101,7 +100,7 @@
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "0-5",
     "opponent_projected": 130,
-    "projected": 142
+    "projected": 141.3
    }
   ],
   "lineup_alarm": [
@@ -111,6 +110,13 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "DB",
+    "player": "Ladd McConkey",
+    "position": "WR",
+    "status": "Out"
    }
   ]
  }
