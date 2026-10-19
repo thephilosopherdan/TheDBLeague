@@ -1,56 +1,56 @@
 {
- "generated_at": "2026-10-19T02:36:17.555Z",
+ "generated_at": "2026-10-19T08:19:13.545Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "high_f": 55,
-  "low_f": 33,
+  "low_f": 38,
   "precip_chance_pct": 0,
-  "summary": "Clear",
+  "summary": "Fog",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 36,
+    "temp_f": 40,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 42,
+    "temp_f": 45,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 49,
+    "temp_f": 50,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 51,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 53,
+    "temp_f": 55,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 54,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "17:00",
     "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
+    "hour": "17:00",
+    "temp_f": 52,
+    "precip_chance_pct": 0
+   },
+   {
     "hour": "18:00",
-    "temp_f": 48,
+    "temp_f": 49,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 45,
+    "temp_f": 48,
     "precip_chance_pct": 0
    }
   ]
