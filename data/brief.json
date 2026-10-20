@@ -1,31 +1,31 @@
 {
- "generated_at": "2026-10-20T02:48:38.263Z",
+ "generated_at": "2026-10-20T08:03:52.830Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-10-19",
-  "high_f": 58,
-  "low_f": 36,
+  "date": "2026-10-20",
+  "high_f": 57,
+  "low_f": 41,
   "precip_chance_pct": 0,
-  "summary": "Fog",
+  "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 38,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "09:00",
     "temp_f": 44,
     "precip_chance_pct": 0
    },
    {
+    "hour": "09:00",
+    "temp_f": 50,
+    "precip_chance_pct": 0
+   },
+   {
     "hour": "10:00",
-    "temp_f": 52,
+    "temp_f": 55,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 56,
+    "temp_f": 57,
     "precip_chance_pct": 0
    },
    {
@@ -35,33 +35,28 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 56,
+    "temp_f": 55,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 54,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 51,
+    "temp_f": 50,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 48,
+    "temp_f": 49,
     "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
-  "last_night": [
-   {
-    "league": "NFL",
-    "line": "NE 26, NYJ 19 (F)"
-   }
-  ],
+  "last_night": [],
   "today": [
    {
     "league": "NBA",
@@ -74,38 +69,38 @@
   ]
  },
  "fantasy": {
-  "week": 6,
+  "week": 7,
   "season_type": "regular",
   "db_league": [
    {
     "owner": "Dan",
     "team": "South Shore Dirty Dawgs",
-    "record": "4-1",
-    "opponent_owner": "SquirtleSquad187",
-    "opponent_team": "Warren-G Regulators",
-    "opponent_record": "3-2",
-    "opponent_projected": 144.7,
-    "projected": 149
+    "record": "4-2",
+    "opponent_owner": "tpatuto",
+    "opponent_team": "Vermont Maple Baddies",
+    "opponent_record": "4-2",
+    "opponent_projected": 126.6,
+    "projected": 122.3
    },
    {
     "owner": "Melissa",
     "team": "Belgian Tripel Mama",
-    "record": "2-3",
-    "opponent_owner": "ryguy5188",
-    "opponent_team": "Reno Deputies",
-    "opponent_record": "3-2",
-    "opponent_projected": 129.2,
-    "projected": 120.9
+    "record": "2-4",
+    "opponent_owner": "SquirtleSquad187",
+    "opponent_team": "Warren-G Regulators",
+    "opponent_record": "4-2",
+    "opponent_projected": 124.8,
+    "projected": 100.9
    },
    {
     "owner": "Theo",
     "team": "The Peeps of America",
-    "record": "1-4",
-    "opponent_owner": "MattMcColgan",
-    "opponent_team": "Brotherly Love Broskis",
-    "opponent_record": "0-5",
-    "opponent_projected": 129.9,
-    "projected": 141.9
+    "record": "2-4",
+    "opponent_owner": "jmccolgan",
+    "opponent_team": "Windy City Wankers",
+    "opponent_record": "2-4",
+    "opponent_projected": 95.6,
+    "projected": 134.1
    }
   ],
   "lineup_alarm": [
@@ -125,10 +120,31 @@
    },
    {
     "owner": "Dan",
+    "league": "DB",
+    "player": "Justin Herbert",
+    "position": "QB",
+    "status": "BYE"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "James Cook",
+    "position": "RB",
+    "status": "BYE"
+   },
+   {
+    "owner": "Dan",
     "league": "ITC",
     "player": "A.J. Brown",
     "position": "WR",
     "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Cam Little",
+    "position": "K",
+    "status": "BYE"
    }
   ]
  }
