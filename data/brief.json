@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-20T13:59:42.904Z",
+ "generated_at": "2026-10-20T18:50:48.830Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-20",
-  "high_f": 57,
+  "high_f": 59,
   "low_f": 43,
   "precip_chance_pct": 0,
   "summary": "Cloudy",
@@ -15,7 +15,7 @@
    },
    {
     "hour": "09:00",
-    "temp_f": 51,
+    "temp_f": 50,
     "precip_chance_pct": 0
    },
    {
@@ -25,32 +25,32 @@
    },
    {
     "hour": "11:00",
-    "temp_f": 56,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "12:00",
     "temp_f": 57,
     "precip_chance_pct": 0
    },
    {
+    "hour": "12:00",
+    "temp_f": 59,
+    "precip_chance_pct": 0
+   },
+   {
     "hour": "16:00",
-    "temp_f": 56,
+    "temp_f": 58,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 54,
+    "temp_f": 56,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 51,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 50,
+    "temp_f": 52,
     "precip_chance_pct": 0
    }
   ]
@@ -79,8 +79,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "4-2",
-    "opponent_projected": 127,
-    "projected": 122.4
+    "opponent_projected": 112.2,
+    "projected": 123.4
    },
    {
     "owner": "Melissa",
@@ -89,7 +89,7 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "4-2",
-    "opponent_projected": 125,
+    "opponent_projected": 123.8,
     "projected": 100.9
    },
    {
@@ -99,8 +99,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-4",
-    "opponent_projected": 95.7,
-    "projected": 134.2
+    "opponent_projected": 95.8,
+    "projected": 134.4
    }
   ],
   "lineup_alarm": [
