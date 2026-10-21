@@ -1,21 +1,21 @@
 {
- "generated_at": "2026-10-21T08:09:16.390Z",
+ "generated_at": "2026-10-21T14:15:44.163Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-21",
-  "high_f": 54,
-  "low_f": 48,
+  "high_f": 53,
+  "low_f": 49,
   "precip_chance_pct": 1,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 49,
+    "temp_f": 52,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 52,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
@@ -25,12 +25,12 @@
    },
    {
     "hour": "11:00",
-    "temp_f": 54,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 53,
+    "temp_f": 52,
     "precip_chance_pct": 0
    },
    {
@@ -40,7 +40,7 @@
    },
    {
     "hour": "17:00",
-    "temp_f": 50,
+    "temp_f": 51,
     "precip_chance_pct": 0
    },
    {
@@ -51,7 +51,7 @@
    {
     "hour": "19:00",
     "temp_f": 49,
-    "precip_chance_pct": 1
+    "precip_chance_pct": 0
    }
   ]
  },
@@ -80,7 +80,7 @@
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "4-2",
     "opponent_projected": 112.7,
-    "projected": 162.5
+    "projected": 163.4
    },
    {
     "owner": "Melissa",
@@ -89,7 +89,7 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "4-2",
-    "opponent_projected": 124.2,
+    "opponent_projected": 124.1,
     "projected": 99.9
    },
    {
