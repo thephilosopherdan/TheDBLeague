@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T23:33:13.235Z",
+ "generated_at": "2026-10-21T02:42:37.999Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-20",
@@ -45,7 +45,7 @@
    },
    {
     "hour": "18:00",
-    "temp_f": 53,
+    "temp_f": 54,
     "precip_chance_pct": 0
    },
    {
@@ -80,8 +80,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "4-2",
-    "opponent_projected": 112.4,
-    "projected": 122.5
+    "opponent_projected": 112.6,
+    "projected": 162.5
    },
    {
     "owner": "Melissa",
@@ -90,8 +90,8 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "4-2",
-    "opponent_projected": 124.1,
-    "projected": 99.8
+    "opponent_projected": 124.2,
+    "projected": 100
    },
    {
     "owner": "Theo",
@@ -111,20 +111,6 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "DB",
-    "player": "Ladd McConkey",
-    "position": "WR",
-    "status": "Out"
-   },
-   {
-    "owner": "Dan",
-    "league": "DB",
-    "player": "Justin Herbert",
-    "position": "QB",
-    "status": "BYE"
    },
    {
     "owner": "Dan",
