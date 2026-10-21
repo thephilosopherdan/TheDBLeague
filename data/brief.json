@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T19:03:02.140Z",
+ "generated_at": "2026-10-21T23:50:23.791Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-21",
@@ -45,7 +45,7 @@
    },
    {
     "hour": "18:00",
-    "temp_f": 50,
+    "temp_f": 51,
     "precip_chance_pct": 0
    },
    {
@@ -66,7 +66,12 @@
     "line": "DAL 3, BOS 2 (F)"
    }
   ],
-  "today": []
+  "today": [
+   {
+    "league": "NHL",
+    "line": "NSH at BOS, 7:00 PM"
+   }
+  ]
  },
  "fantasy": {
   "week": 7,
@@ -79,8 +84,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "4-2",
-    "opponent_projected": 112.6,
-    "projected": 151
+    "opponent_projected": 112.5,
+    "projected": 163.3
    },
    {
     "owner": "Melissa",
@@ -89,8 +94,8 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "4-2",
-    "opponent_projected": 123.6,
-    "projected": 100
+    "opponent_projected": 123.8,
+    "projected": 99.8
    },
    {
     "owner": "Theo",
@@ -99,23 +104,30 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-4",
-    "opponent_projected": 94.6,
-    "projected": 135.2
+    "opponent_projected": 98.7,
+    "projected": 134.6
    }
   ],
   "lineup_alarm": [
    {
     "owner": "Dan",
+    "league": "DB",
+    "player": "Jaylen Waddle",
+    "position": "WR",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
     "league": "ITC",
-    "player": "James Cook",
+    "player": "James Cook III",
     "position": "RB",
     "status": "BYE"
    },
    {
     "owner": "Dan",
     "league": "ITC",
-    "player": "A.J. Brown",
-    "position": "WR",
+    "player": "Brock Bowers",
+    "position": "TE",
     "status": "Questionable"
    },
    {
