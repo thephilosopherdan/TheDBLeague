@@ -1,31 +1,31 @@
 {
- "generated_at": "2026-10-22T02:40:45.735Z",
+ "generated_at": "2026-10-22T08:09:51.856Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-10-21",
-  "high_f": 54,
-  "low_f": 49,
-  "precip_chance_pct": 1,
+  "date": "2026-10-22",
+  "high_f": 57,
+  "low_f": 47,
+  "precip_chance_pct": 2,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 52,
-    "precip_chance_pct": 0
+    "temp_f": 49,
+    "precip_chance_pct": 1
    },
    {
     "hour": "09:00",
+    "temp_f": 52,
+    "precip_chance_pct": 1
+   },
+   {
+    "hour": "10:00",
     "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
-    "hour": "10:00",
-    "temp_f": 54,
-    "precip_chance_pct": 0
-   },
-   {
     "hour": "11:00",
-    "temp_f": 54,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
@@ -35,12 +35,12 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 52,
+    "temp_f": 57,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 51,
+    "temp_f": 55,
     "precip_chance_pct": 0
    },
    {
@@ -50,17 +50,13 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 51,
+    "temp_f": 49,
     "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
   "last_night": [
-   {
-    "league": "NBA",
-    "line": "DET 121, BOS 113 (F)"
-   },
    {
     "league": "NHL",
     "line": "DAL 3, BOS 2 (F)"
@@ -89,7 +85,7 @@
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "4-2",
     "opponent_projected": 112.5,
-    "projected": 163.3
+    "projected": 163.5
    },
    {
     "owner": "Melissa",
@@ -99,7 +95,7 @@
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "4-2",
     "opponent_projected": 123.8,
-    "projected": 99.8
+    "projected": 100
    },
    {
     "owner": "Theo",
