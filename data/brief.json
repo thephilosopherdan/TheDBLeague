@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T14:15:19.348Z",
+ "generated_at": "2026-10-22T18:58:47.634Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-22",
@@ -15,12 +15,12 @@
    },
    {
     "hour": "09:00",
-    "temp_f": 52,
+    "temp_f": 51,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 52,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
@@ -30,7 +30,7 @@
    },
    {
     "hour": "12:00",
-    "temp_f": 55,
+    "temp_f": 56,
     "precip_chance_pct": 0
    },
    {
@@ -40,17 +40,17 @@
    },
    {
     "hour": "17:00",
-    "temp_f": 55,
+    "temp_f": 56,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 52,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 50,
+    "temp_f": 51,
     "precip_chance_pct": 0
    }
   ]
@@ -79,8 +79,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "4-2",
-    "opponent_projected": 112.4,
-    "projected": 163.4
+    "opponent_projected": 112.5,
+    "projected": 163.3
    },
    {
     "owner": "Melissa",
@@ -99,8 +99,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-4",
-    "opponent_projected": 98.7,
-    "projected": 134.6
+    "opponent_projected": 98.9,
+    "projected": 134.5
    }
   ],
   "lineup_alarm": [
