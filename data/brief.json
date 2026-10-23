@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-22T23:47:31.653Z",
+ "generated_at": "2026-10-23T02:44:50.357Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-22",
   "high_f": 61,
   "low_f": 49,
   "precip_chance_pct": 1,
-  "summary": "Cloudy",
+  "summary": "Fog",
   "afternoon": [
    {
     "hour": "08:00",
@@ -50,13 +50,18 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 51,
+    "temp_f": 52,
     "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
-  "last_night": [],
+  "last_night": [
+   {
+    "league": "NHL",
+    "line": "BOS 6, NSH 0 (F)"
+   }
+  ],
   "today": [
    {
     "league": "NFL",
@@ -65,10 +70,6 @@
    {
     "league": "NBA",
     "line": "NY at BOS, 7:00 PM"
-   },
-   {
-    "league": "NHL",
-    "line": "NSH at BOS, 7:00 PM"
    }
   ]
  },
@@ -93,7 +94,7 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "4-2",
-    "opponent_projected": 124.1,
+    "opponent_projected": 148.8,
     "projected": 99.9
    },
    {
