@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-10-24T17:43:56.217Z",
+ "generated_at": "2026-10-24T20:01:14.677Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-24",
-  "high_f": 58,
+  "high_f": 57,
   "low_f": 32,
   "precip_chance_pct": 0,
   "summary": "Fog",
@@ -40,7 +40,7 @@
    },
    {
     "hour": "17:00",
-    "temp_f": 56,
+    "temp_f": 55,
     "precip_chance_pct": 0
    },
    {
@@ -80,8 +80,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "4-2",
-    "opponent_projected": 133.7,
-    "projected": 165.5
+    "opponent_projected": 133.8,
+    "projected": 173.4
    },
    {
     "owner": "Melissa",
@@ -90,8 +90,8 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "4-2",
-    "opponent_projected": 150.2,
-    "projected": 102.1
+    "opponent_projected": 150.3,
+    "projected": 101.9
    },
    {
     "owner": "Theo",
@@ -100,7 +100,7 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-4",
-    "opponent_projected": 117,
+    "opponent_projected": 119.5,
     "projected": 134.6
    }
   ],
