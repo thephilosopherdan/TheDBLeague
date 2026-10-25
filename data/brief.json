@@ -1,56 +1,56 @@
 {
- "generated_at": "2026-10-25T13:28:14.569Z",
+ "generated_at": "2026-10-25T18:00:25.500Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-25",
-  "high_f": 61,
+  "high_f": 63,
   "low_f": 31,
   "precip_chance_pct": 0,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 32,
+    "temp_f": 33,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 37,
+    "temp_f": 40,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 44,
+    "temp_f": 48,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 49,
+    "temp_f": 54,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 53,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "16:00",
-    "temp_f": 60,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "17:00",
     "temp_f": 58,
     "precip_chance_pct": 0
    },
    {
+    "hour": "16:00",
+    "temp_f": 63,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "17:00",
+    "temp_f": 59,
+    "precip_chance_pct": 0
+   },
+   {
     "hour": "18:00",
-    "temp_f": 51,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 48,
+    "temp_f": 50,
     "precip_chance_pct": 0
    }
   ]
@@ -75,8 +75,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "4-2",
-    "opponent_projected": 135.7,
-    "projected": 165.1
+    "opponent_projected": 147.3,
+    "projected": 167.4
    },
    {
     "owner": "Melissa",
@@ -86,7 +86,7 @@
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "4-2",
     "opponent_projected": 138.2,
-    "projected": 102
+    "projected": 126.5
    },
    {
     "owner": "Theo",
@@ -95,11 +95,18 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-4",
-    "opponent_projected": 116.3,
-    "projected": 134.4
+    "opponent_projected": 120,
+    "projected": 136.7
    }
   ],
   "lineup_alarm": [
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Christian McCaffrey",
+    "position": "RB",
+    "status": "Questionable"
+   },
    {
     "owner": "Dan",
     "league": "ITC",
