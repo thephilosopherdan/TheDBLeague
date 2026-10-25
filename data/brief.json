@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-25T07:57:40.827Z",
+ "generated_at": "2026-10-25T13:28:14.569Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-25",
-  "high_f": 63,
-  "low_f": 30,
+  "high_f": 61,
+  "low_f": 31,
   "precip_chance_pct": 0,
-  "summary": "Fog",
+  "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 31,
+    "temp_f": 32,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 39,
+    "temp_f": 37,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 45,
+    "temp_f": 44,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 50,
+    "temp_f": 49,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 55,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 62,
+    "temp_f": 60,
     "precip_chance_pct": 0
    },
    {
@@ -45,7 +45,7 @@
    },
    {
     "hour": "18:00",
-    "temp_f": 52,
+    "temp_f": 51,
     "precip_chance_pct": 0
    },
    {
@@ -57,10 +57,6 @@
  },
  "boston": {
   "last_night": [
-   {
-    "league": "NBA",
-    "line": "BOS 107, NY 103 (F)"
-   },
    {
     "league": "NHL",
     "line": "BOS 6, SJ 4 (F)"
@@ -79,8 +75,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "4-2",
-    "opponent_projected": 135.6,
-    "projected": 164.9
+    "opponent_projected": 135.7,
+    "projected": 165.1
    },
    {
     "owner": "Melissa",
@@ -89,8 +85,8 @@
     "opponent_owner": "SquirtleSquad187",
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "4-2",
-    "opponent_projected": 150.9,
-    "projected": 102.1
+    "opponent_projected": 138.2,
+    "projected": 102
    },
    {
     "owner": "Theo",
@@ -99,8 +95,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-4",
-    "opponent_projected": 116.4,
-    "projected": 134.6
+    "opponent_projected": 116.3,
+    "projected": 134.4
    }
   ],
   "lineup_alarm": [
