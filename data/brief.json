@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-26T08:19:31.646Z",
+ "generated_at": "2026-10-26T15:40:10.252Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-26",
-  "high_f": 68,
-  "low_f": 36,
-  "precip_chance_pct": 4,
-  "summary": "Clear",
+  "high_f": 67,
+  "low_f": 37,
+  "precip_chance_pct": 3,
+  "summary": "Fog",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 38,
+    "temp_f": 39,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 44,
+    "temp_f": 45,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 51,
+    "temp_f": 50,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 56,
+    "temp_f": 54,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 61,
+    "temp_f": 59,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 68,
+    "temp_f": 67,
     "precip_chance_pct": 1
    },
    {
@@ -46,22 +46,17 @@
    {
     "hour": "18:00",
     "temp_f": 59,
-    "precip_chance_pct": 2
+    "precip_chance_pct": 1
    },
    {
     "hour": "19:00",
-    "temp_f": 56,
+    "temp_f": 57,
     "precip_chance_pct": 2
    }
   ]
  },
  "boston": {
-  "last_night": [
-   {
-    "league": "NHL",
-    "line": "BOS 6, SJ 4 (F)"
-   }
-  ],
+  "last_night": [],
   "today": [
    {
     "league": "NBA",
