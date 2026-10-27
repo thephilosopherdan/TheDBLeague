@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-26T22:07:54.775Z",
+ "generated_at": "2026-10-27T03:05:47.812Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-26",
   "high_f": 69,
   "low_f": 37,
-  "precip_chance_pct": 3,
+  "precip_chance_pct": 2,
   "summary": "Fog",
   "afternoon": [
    {
@@ -40,27 +40,36 @@
    },
    {
     "hour": "17:00",
-    "temp_f": 65,
+    "temp_f": 67,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 60,
+    "temp_f": 62,
     "precip_chance_pct": 1
    },
    {
     "hour": "19:00",
-    "temp_f": 58,
+    "temp_f": 57,
     "precip_chance_pct": 1
    }
   ]
  },
  "boston": {
-  "last_night": [],
+  "last_night": [
+   {
+    "league": "NBA",
+    "line": "BOS 134, CHI 99 (F)"
+   }
+  ],
   "today": [
    {
     "league": "NBA",
-    "line": "CHI at BOS, 7:30 PM"
+    "line": "BKN at BOS, 7:30 PM"
+   },
+   {
+    "league": "NHL",
+    "line": "BOS at CAR, 8:00 PM"
    }
   ]
  },
@@ -86,7 +95,7 @@
     "opponent_team": "Warren-G Regulators",
     "opponent_record": "4-2",
     "opponent_projected": 138.5,
-    "projected": 126.6
+    "projected": 126.5
    },
    {
     "owner": "Theo",
