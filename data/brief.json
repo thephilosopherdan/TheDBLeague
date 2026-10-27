@@ -1,21 +1,21 @@
 {
- "generated_at": "2026-10-27T03:05:47.812Z",
+ "generated_at": "2026-10-27T11:20:00.970Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-10-26",
-  "high_f": 69,
-  "low_f": 37,
+  "date": "2026-10-27",
+  "high_f": 55,
+  "low_f": 38,
   "precip_chance_pct": 2,
-  "summary": "Fog",
+  "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 39,
+    "temp_f": 46,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 45,
+    "temp_f": 50,
     "precip_chance_pct": 0
    },
    {
@@ -25,33 +25,33 @@
    },
    {
     "hour": "11:00",
-    "temp_f": 56,
+    "temp_f": 52,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 61,
+    "temp_f": 52,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 69,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 67,
+    "temp_f": 51,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 62,
-    "precip_chance_pct": 1
+    "temp_f": 47,
+    "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 57,
-    "precip_chance_pct": 1
+    "temp_f": 44,
+    "precip_chance_pct": 0
    }
   ]
  },
@@ -74,38 +74,38 @@
   ]
  },
  "fantasy": {
-  "week": 7,
+  "week": 8,
   "season_type": "regular",
   "db_league": [
    {
     "owner": "Dan",
     "team": "South Shore Dirty Dawgs",
-    "record": "4-2",
-    "opponent_owner": "tpatuto",
-    "opponent_team": "Vermont Maple Baddies",
-    "opponent_record": "4-2",
-    "opponent_projected": 147.3,
-    "projected": 168.1
+    "record": "5-2",
+    "opponent_owner": "Tutes1173",
+    "opponent_team": "North End Cannolis ",
+    "opponent_record": "6-1",
+    "opponent_projected": 116.2,
+    "projected": 154.8
    },
    {
     "owner": "Melissa",
     "team": "Belgian Tripel Mama",
-    "record": "2-4",
-    "opponent_owner": "SquirtleSquad187",
-    "opponent_team": "Warren-G Regulators",
-    "opponent_record": "4-2",
-    "opponent_projected": 138.5,
-    "projected": 126.5
+    "record": "2-5",
+    "opponent_owner": "thekingteo",
+    "opponent_team": "The Peeps of America",
+    "opponent_record": "3-4",
+    "opponent_projected": 132.5,
+    "projected": 129.2
    },
    {
     "owner": "Theo",
     "team": "The Peeps of America",
-    "record": "2-4",
-    "opponent_owner": "jmccolgan",
-    "opponent_team": "Windy City Wankers",
-    "opponent_record": "2-4",
-    "opponent_projected": 120.2,
-    "projected": 137
+    "record": "3-4",
+    "opponent_owner": "melissanicholle",
+    "opponent_team": "Belgian Tripel Mama",
+    "opponent_record": "2-5",
+    "opponent_projected": 129.2,
+    "projected": 132.5
    }
   ],
   "lineup_alarm": [
@@ -115,6 +115,20 @@
     "player": "Jaylen Waddle",
     "position": "WR",
     "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "DB",
+    "player": "Isaiah Likely",
+    "position": "TE",
+    "status": "BYE"
+   },
+   {
+    "owner": "Dan",
+    "league": "DB",
+    "player": "J.J. McCarthy",
+    "position": "QB",
+    "status": "BYE"
    },
    {
     "owner": "Dan",
@@ -129,6 +143,20 @@
     "player": "Tyler Warren",
     "position": "TE",
     "status": "Out"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Malik Nabers",
+    "position": "WR",
+    "status": "BYE"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Brock Purdy",
+    "position": "QB",
+    "status": "BYE"
    }
   ]
  }
