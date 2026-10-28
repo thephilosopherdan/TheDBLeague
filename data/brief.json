@@ -1,41 +1,41 @@
 {
- "generated_at": "2026-10-28T03:18:33.058Z",
+ "generated_at": "2026-10-28T11:54:16.923Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-10-27",
-  "high_f": 55,
-  "low_f": 36,
-  "precip_chance_pct": 2,
+  "date": "2026-10-28",
+  "high_f": 53,
+  "low_f": 32,
+  "precip_chance_pct": 0,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 48,
+    "temp_f": 35,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 50,
+    "temp_f": 41,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 51,
+    "temp_f": 44,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 52,
+    "temp_f": 48,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 53,
+    "temp_f": 49,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 54,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
@@ -45,12 +45,12 @@
    },
    {
     "hour": "18:00",
-    "temp_f": 48,
+    "temp_f": 49,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 43,
+    "temp_f": 45,
     "precip_chance_pct": 0
    }
   ]
@@ -79,8 +79,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "6-1",
-    "opponent_projected": 147.1,
-    "projected": 154.8
+    "opponent_projected": 147.4,
+    "projected": 154.5
    },
    {
     "owner": "Melissa",
@@ -90,7 +90,7 @@
     "opponent_team": "The Peeps of America",
     "opponent_record": "3-4",
     "opponent_projected": 132.3,
-    "projected": 127.6
+    "projected": 127.5
    },
    {
     "owner": "Theo",
@@ -99,7 +99,7 @@
     "opponent_owner": "melissanicholle",
     "opponent_team": "Belgian Tripel Mama",
     "opponent_record": "2-5",
-    "opponent_projected": 127.6,
+    "opponent_projected": 127.5,
     "projected": 132.3
    }
   ],
@@ -137,7 +137,7 @@
     "league": "ITC",
     "player": "Tyler Warren",
     "position": "TE",
-    "status": "Out"
+    "status": "Questionable"
    },
    {
     "owner": "Dan",
