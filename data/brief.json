@@ -1,26 +1,26 @@
 {
- "generated_at": "2026-10-30T09:20:46.676Z",
+ "generated_at": "2026-10-30T17:31:22.379Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-30",
-  "high_f": 70,
+  "high_f": 69,
   "low_f": 47,
-  "precip_chance_pct": 0,
+  "precip_chance_pct": 2,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 55,
-    "precip_chance_pct": 0
+    "temp_f": 56,
+    "precip_chance_pct": 2
    },
    {
     "hour": "09:00",
     "temp_f": 59,
-    "precip_chance_pct": 0
+    "precip_chance_pct": 2
    },
    {
     "hour": "10:00",
-    "temp_f": 65,
+    "temp_f": 63,
     "precip_chance_pct": 0
    },
    {
@@ -35,12 +35,12 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 66,
+    "temp_f": 65,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 62,
+    "temp_f": 61,
     "precip_chance_pct": 0
    },
    {
@@ -66,6 +66,10 @@
    {
     "league": "NBA",
     "line": "CHI at BOS, 7:30 PM"
+   },
+   {
+    "league": "NHL",
+    "line": "CHI at BOS, 1:00 PM"
    }
   ]
  },
@@ -80,8 +84,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "6-1",
-    "opponent_projected": 147.8,
-    "projected": 154.8
+    "opponent_projected": 137.9,
+    "projected": 156.9
    },
    {
     "owner": "Melissa",
@@ -90,8 +94,8 @@
     "opponent_owner": "thekingteo",
     "opponent_team": "The Peeps of America",
     "opponent_record": "3-4",
-    "opponent_projected": 132.3,
-    "projected": 128
+    "opponent_projected": 132.2,
+    "projected": 132.9
    },
    {
     "owner": "Theo",
@@ -100,32 +104,11 @@
     "opponent_owner": "melissanicholle",
     "opponent_team": "Belgian Tripel Mama",
     "opponent_record": "2-5",
-    "opponent_projected": 128,
-    "projected": 132.3
+    "opponent_projected": 132.9,
+    "projected": 132.2
    }
   ],
   "lineup_alarm": [
-   {
-    "owner": "Dan",
-    "league": "DB",
-    "player": "Jaylen Waddle",
-    "position": "WR",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "DB",
-    "player": "Isaiah Likely",
-    "position": "TE",
-    "status": "BYE"
-   },
-   {
-    "owner": "Dan",
-    "league": "DB",
-    "player": "J.J. McCarthy",
-    "position": "QB",
-    "status": "BYE"
-   },
    {
     "owner": "Dan",
     "league": "ITC",
@@ -138,13 +121,6 @@
     "league": "ITC",
     "player": "TreVeyon Henderson",
     "position": "RB",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Tyler Warren",
-    "position": "TE",
     "status": "Questionable"
    }
   ]
