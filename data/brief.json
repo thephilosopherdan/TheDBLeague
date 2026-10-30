@@ -1,36 +1,36 @@
 {
- "generated_at": "2026-10-30T00:31:00.501Z",
+ "generated_at": "2026-10-30T09:20:46.676Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-10-29",
-  "high_f": 67,
-  "low_f": 39,
+  "date": "2026-10-30",
+  "high_f": 70,
+  "low_f": 47,
   "precip_chance_pct": 0,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 41,
+    "temp_f": 55,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 48,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "10:00",
-    "temp_f": 54,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "11:00",
     "temp_f": 59,
     "precip_chance_pct": 0
    },
    {
+    "hour": "10:00",
+    "temp_f": 65,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "11:00",
+    "temp_f": 67,
+    "precip_chance_pct": 0
+   },
+   {
     "hour": "12:00",
-    "temp_f": 63,
+    "temp_f": 69,
     "precip_chance_pct": 0
    },
    {
@@ -40,31 +40,32 @@
    },
    {
     "hour": "17:00",
-    "temp_f": 64,
+    "temp_f": 62,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 59,
+    "temp_f": 58,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 57,
+    "temp_f": 55,
     "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
-  "last_night": [],
+  "last_night": [
+   {
+    "league": "NHL",
+    "line": "STL 4, BOS 1 (F)"
+   }
+  ],
   "today": [
    {
     "league": "NBA",
     "line": "CHI at BOS, 7:30 PM"
-   },
-   {
-    "league": "NHL",
-    "line": "BOS at STL, 8:00 PM"
    }
   ]
  },
@@ -79,8 +80,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "6-1",
-    "opponent_projected": 147.7,
-    "projected": 154.7
+    "opponent_projected": 147.8,
+    "projected": 154.8
    },
    {
     "owner": "Melissa",
@@ -89,8 +90,8 @@
     "opponent_owner": "thekingteo",
     "opponent_team": "The Peeps of America",
     "opponent_record": "3-4",
-    "opponent_projected": 132.4,
-    "projected": 127.6
+    "opponent_projected": 132.3,
+    "projected": 128
    },
    {
     "owner": "Theo",
@@ -99,8 +100,8 @@
     "opponent_owner": "melissanicholle",
     "opponent_team": "Belgian Tripel Mama",
     "opponent_record": "2-5",
-    "opponent_projected": 127.6,
-    "projected": 132.4
+    "opponent_projected": 128,
+    "projected": 132.3
    }
   ],
   "lineup_alarm": [
