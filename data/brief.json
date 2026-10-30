@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T19:59:26.492Z",
+ "generated_at": "2026-10-30T00:31:00.501Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-10-29",
@@ -35,22 +35,22 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 65,
+    "temp_f": 66,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 62,
+    "temp_f": 64,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 58,
+    "temp_f": 59,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 56,
+    "temp_f": 57,
     "precip_chance_pct": 0
    }
   ]
@@ -58,6 +58,10 @@
  "boston": {
   "last_night": [],
   "today": [
+   {
+    "league": "NBA",
+    "line": "CHI at BOS, 7:30 PM"
+   },
    {
     "league": "NHL",
     "line": "BOS at STL, 8:00 PM"
@@ -103,13 +107,6 @@
    {
     "owner": "Dan",
     "league": "DB",
-    "player": "Jahmyr Gibbs",
-    "position": "RB",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "DB",
     "player": "Jaylen Waddle",
     "position": "WR",
     "status": "Questionable"
@@ -133,13 +130,6 @@
     "league": "ITC",
     "player": "A.J. Brown",
     "position": "WR",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Brock Bowers",
-    "position": "TE",
     "status": "Questionable"
    },
    {
