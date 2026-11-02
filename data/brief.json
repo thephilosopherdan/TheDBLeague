@@ -1,75 +1,75 @@
 {
- "generated_at": "2026-11-02T00:04:19.748Z",
+ "generated_at": "2026-11-02T10:22:06.292Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-11-01",
-  "high_f": 58,
-  "low_f": 31,
-  "precip_chance_pct": 0,
-  "summary": "Fog",
+  "date": "2026-11-02",
+  "high_f": 68,
+  "low_f": 38,
+  "precip_chance_pct": 3,
+  "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 37,
+    "temp_f": 46,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 44,
-    "precip_chance_pct": 0
+    "temp_f": 53,
+    "precip_chance_pct": 1
    },
    {
     "hour": "10:00",
-    "temp_f": 48,
-    "precip_chance_pct": 0
+    "temp_f": 59,
+    "precip_chance_pct": 1
    },
    {
     "hour": "11:00",
-    "temp_f": 52,
-    "precip_chance_pct": 0
+    "temp_f": 63,
+    "precip_chance_pct": 1
    },
    {
     "hour": "12:00",
-    "temp_f": 54,
-    "precip_chance_pct": 0
+    "temp_f": 66,
+    "precip_chance_pct": 1
    },
    {
     "hour": "16:00",
-    "temp_f": 55,
-    "precip_chance_pct": 0
+    "temp_f": 62,
+    "precip_chance_pct": 1
    },
    {
     "hour": "17:00",
-    "temp_f": 50,
-    "precip_chance_pct": 0
+    "temp_f": 58,
+    "precip_chance_pct": 2
    },
    {
     "hour": "18:00",
-    "temp_f": 47,
-    "precip_chance_pct": 0
+    "temp_f": 57,
+    "precip_chance_pct": 2
    },
    {
     "hour": "19:00",
-    "temp_f": 46,
-    "precip_chance_pct": 0
+    "temp_f": 56,
+    "precip_chance_pct": 3
    }
   ]
  },
  "boston": {
   "last_night": [
    {
-    "league": "NBA",
-    "line": "BOS 108, ORL 97 (F)"
+    "league": "NFL",
+    "line": "NE 24, MIA 19 (F)"
    },
    {
-    "league": "NHL",
-    "line": "BOS 5, CHI 4 (F)"
+    "league": "NBA",
+    "line": "BOS 108, ORL 97 (F)"
    }
   ],
   "today": [
    {
-    "league": "NFL",
-    "line": "NE at MIA, 4:25 PM"
+    "league": "NBA",
+    "line": "BOS at HOU, 8:30 PM"
    },
    {
     "league": "NHL",
