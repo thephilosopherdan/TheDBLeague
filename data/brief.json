@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-01T19:17:33.991Z",
+ "generated_at": "2026-11-02T00:04:19.748Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-01",
-  "high_f": 56,
+  "high_f": 58,
   "low_f": 31,
   "precip_chance_pct": 0,
   "summary": "Fog",
@@ -35,28 +35,32 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 53,
+    "temp_f": 55,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 48,
+    "temp_f": 50,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 46,
+    "temp_f": 47,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 45,
+    "temp_f": 46,
     "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
   "last_night": [
+   {
+    "league": "NBA",
+    "line": "BOS 108, ORL 97 (F)"
+   },
    {
     "league": "NHL",
     "line": "BOS 5, CHI 4 (F)"
@@ -68,8 +72,8 @@
     "line": "NE at MIA, 4:25 PM"
    },
    {
-    "league": "NBA",
-    "line": "BOS at ORL, 3:30 PM"
+    "league": "NHL",
+    "line": "VGK at BOS, 7:00 PM"
    }
   ]
  },
@@ -84,8 +88,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "6-1",
-    "opponent_projected": 144.1,
-    "projected": 157.2
+    "opponent_projected": 143.8,
+    "projected": 157.4
    },
    {
     "owner": "Melissa",
@@ -94,8 +98,8 @@
     "opponent_owner": "thekingteo",
     "opponent_team": "The Peeps of America",
     "opponent_record": "3-4",
-    "opponent_projected": 146.5,
-    "projected": 137.2
+    "opponent_projected": 146.7,
+    "projected": 138.7
    },
    {
     "owner": "Theo",
@@ -104,10 +108,18 @@
     "opponent_owner": "melissanicholle",
     "opponent_team": "Belgian Tripel Mama",
     "opponent_record": "2-5",
-    "opponent_projected": 137.2,
-    "projected": 146.5
+    "opponent_projected": 138.7,
+    "projected": 146.7
    }
   ],
-  "lineup_alarm": []
+  "lineup_alarm": [
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "James Cook III",
+    "position": "RB",
+    "status": "Questionable"
+   }
+  ]
  }
 }
