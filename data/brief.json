@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T21:11:19.253Z",
+ "generated_at": "2026-11-03T04:45:00.914Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-02",
@@ -35,22 +35,22 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 63,
+    "temp_f": 66,
     "precip_chance_pct": 1
    },
    {
     "hour": "17:00",
-    "temp_f": 60,
+    "temp_f": 62,
     "precip_chance_pct": 1
    },
    {
     "hour": "18:00",
-    "temp_f": 57,
+    "temp_f": 60,
     "precip_chance_pct": 1
    },
    {
     "hour": "19:00",
-    "temp_f": 55,
+    "temp_f": 60,
     "precip_chance_pct": 1
    }
   ]
@@ -63,19 +63,14 @@
    },
    {
     "league": "NBA",
-    "line": "BOS 108, ORL 97 (F)"
-   }
-  ],
-  "today": [
-   {
-    "league": "NBA",
-    "line": "BOS at HOU, 8:30 PM"
+    "line": "HOU 109, BOS 93 (F)"
    },
    {
     "league": "NHL",
-    "line": "VGK at BOS, 7:00 PM"
+    "line": "BOS 3, VGK 2 (F)"
    }
-  ]
+  ],
+  "today": []
  },
  "fantasy": {
   "week": 8,
