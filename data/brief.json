@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-03T13:20:57.874Z",
+ "generated_at": "2026-11-03T20:42:54.138Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-03",
   "high_f": 73,
-  "low_f": 49,
-  "precip_chance_pct": 7,
+  "low_f": 50,
+  "precip_chance_pct": 4,
   "summary": "Cloudy",
   "afternoon": [
    {
@@ -15,43 +15,43 @@
    },
    {
     "hour": "09:00",
-    "temp_f": 60,
-    "precip_chance_pct": 2
+    "temp_f": 61,
+    "precip_chance_pct": 1
    },
    {
     "hour": "10:00",
     "temp_f": 65,
-    "precip_chance_pct": 2
+    "precip_chance_pct": 1
    },
    {
     "hour": "11:00",
-    "temp_f": 68,
-    "precip_chance_pct": 2
+    "temp_f": 69,
+    "precip_chance_pct": 1
    },
    {
     "hour": "12:00",
-    "temp_f": 71,
-    "precip_chance_pct": 2
+    "temp_f": 72,
+    "precip_chance_pct": 1
    },
    {
     "hour": "16:00",
     "temp_f": 67,
-    "precip_chance_pct": 3
+    "precip_chance_pct": 2
    },
    {
     "hour": "17:00",
     "temp_f": 65,
-    "precip_chance_pct": 4
+    "precip_chance_pct": 3
    },
    {
     "hour": "18:00",
     "temp_f": 63,
-    "precip_chance_pct": 5
+    "precip_chance_pct": 3
    },
    {
     "hour": "19:00",
-    "temp_f": 61,
-    "precip_chance_pct": 7
+    "temp_f": 62,
+    "precip_chance_pct": 4
    }
   ]
  },
@@ -79,8 +79,8 @@
     "opponent_owner": "thekingteo",
     "opponent_team": "The Peeps of America",
     "opponent_record": "4-4",
-    "opponent_projected": 123.7,
-    "projected": 161.9
+    "opponent_projected": 129.3,
+    "projected": 158.8
    },
    {
     "owner": "Melissa",
@@ -89,8 +89,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "5-3",
-    "opponent_projected": 137.2,
-    "projected": 126.9
+    "opponent_projected": 139,
+    "projected": 127.6
    },
    {
     "owner": "Theo",
@@ -99,8 +99,8 @@
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "5-3",
-    "opponent_projected": 161.9,
-    "projected": 123.7
+    "opponent_projected": 158.8,
+    "projected": 129.3
    }
   ],
   "lineup_alarm": [
