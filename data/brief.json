@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-05T10:06:34.360Z",
+ "generated_at": "2026-11-05T19:17:13.340Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-05",
-  "high_f": 71,
+  "high_f": 73,
   "low_f": 61,
-  "precip_chance_pct": 8,
+  "precip_chance_pct": 7,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 66,
-    "precip_chance_pct": 1
+    "temp_f": 65,
+    "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
@@ -20,38 +20,38 @@
    },
    {
     "hour": "10:00",
-    "temp_f": 69,
-    "precip_chance_pct": 2
+    "temp_f": 71,
+    "precip_chance_pct": 1
    },
    {
     "hour": "11:00",
-    "temp_f": 69,
-    "precip_chance_pct": 2
+    "temp_f": 71,
+    "precip_chance_pct": 1
    },
    {
     "hour": "12:00",
-    "temp_f": 70,
-    "precip_chance_pct": 3
+    "temp_f": 73,
+    "precip_chance_pct": 2
    },
    {
     "hour": "16:00",
     "temp_f": 68,
-    "precip_chance_pct": 7
+    "precip_chance_pct": 3
    },
    {
     "hour": "17:00",
     "temp_f": 66,
-    "precip_chance_pct": 5
+    "precip_chance_pct": 7
    },
    {
     "hour": "18:00",
-    "temp_f": 65,
-    "precip_chance_pct": 4
+    "temp_f": 66,
+    "precip_chance_pct": 5
    },
    {
     "hour": "19:00",
-    "temp_f": 64,
-    "precip_chance_pct": 4
+    "temp_f": 65,
+    "precip_chance_pct": 3
    }
   ]
  },
@@ -80,7 +80,7 @@
     "opponent_owner": "thekingteo",
     "opponent_team": "The Peeps of America",
     "opponent_record": "4-4",
-    "opponent_projected": 128.9,
+    "opponent_projected": 128.7,
     "projected": 162.8
    },
    {
@@ -90,7 +90,7 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "5-3",
-    "opponent_projected": 138.2,
+    "opponent_projected": 138,
     "projected": 126.8
    },
    {
@@ -101,7 +101,7 @@
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "5-3",
     "opponent_projected": 162.8,
-    "projected": 128.9
+    "projected": 128.7
    }
   ],
   "lineup_alarm": []
