@@ -1,66 +1,62 @@
 {
- "generated_at": "2026-11-06T10:11:54.650Z",
+ "generated_at": "2026-11-06T18:43:31.434Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-06",
   "high_f": 68,
-  "low_f": 63,
+  "low_f": 62,
   "precip_chance_pct": 100,
   "summary": "Heavy rain",
   "afternoon": [
    {
     "hour": "08:00",
     "temp_f": 67,
-    "precip_chance_pct": 37
+    "precip_chance_pct": 29
    },
    {
     "hour": "09:00",
-    "temp_f": 67,
-    "precip_chance_pct": 34
+    "temp_f": 66,
+    "precip_chance_pct": 26
    },
    {
     "hour": "10:00",
-    "temp_f": 67,
-    "precip_chance_pct": 39
+    "temp_f": 66,
+    "precip_chance_pct": 29
    },
    {
     "hour": "11:00",
-    "temp_f": 68,
-    "precip_chance_pct": 55
+    "temp_f": 67,
+    "precip_chance_pct": 62
    },
    {
     "hour": "12:00",
-    "temp_f": 67,
-    "precip_chance_pct": 84
+    "temp_f": 66,
+    "precip_chance_pct": 100
    },
    {
     "hour": "16:00",
-    "temp_f": 63,
+    "temp_f": 65,
     "precip_chance_pct": 99
    },
    {
     "hour": "17:00",
     "temp_f": 65,
-    "precip_chance_pct": 100
+    "precip_chance_pct": 89
    },
    {
     "hour": "18:00",
-    "temp_f": 65,
-    "precip_chance_pct": 83
+    "temp_f": 64,
+    "precip_chance_pct": 89
    },
    {
     "hour": "19:00",
-    "temp_f": 65,
-    "precip_chance_pct": 75
+    "temp_f": 63,
+    "precip_chance_pct": 90
    }
   ]
  },
  "boston": {
   "last_night": [
-   {
-    "league": "NBA",
-    "line": "BOS 109, MIL 102 (F)"
-   },
    {
     "league": "NHL",
     "line": "BOS 6, PIT 2 (F)"
@@ -84,8 +80,8 @@
     "opponent_owner": "thekingteo",
     "opponent_team": "The Peeps of America",
     "opponent_record": "4-4",
-    "opponent_projected": 112.2,
-    "projected": 162.3
+    "opponent_projected": 115.4,
+    "projected": 162.2
    },
    {
     "owner": "Melissa",
@@ -94,8 +90,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "5-3",
-    "opponent_projected": 137.4,
-    "projected": 131.9
+    "opponent_projected": 138.3,
+    "projected": 131.4
    },
    {
     "owner": "Theo",
@@ -104,8 +100,8 @@
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "5-3",
-    "opponent_projected": 162.3,
-    "projected": 112.2
+    "opponent_projected": 162.2,
+    "projected": 115.4
    }
   ],
   "lineup_alarm": [
