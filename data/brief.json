@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-06T18:43:31.434Z",
+ "generated_at": "2026-11-07T00:31:56.206Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-06",
   "high_f": 68,
-  "low_f": 62,
+  "low_f": 63,
   "precip_chance_pct": 100,
-  "summary": "Heavy rain",
+  "summary": "Rain",
   "afternoon": [
    {
     "hour": "08:00",
@@ -35,23 +35,23 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 65,
-    "precip_chance_pct": 99
+    "temp_f": 64,
+    "precip_chance_pct": 83
    },
    {
     "hour": "17:00",
-    "temp_f": 65,
-    "precip_chance_pct": 89
+    "temp_f": 64,
+    "precip_chance_pct": 82
    },
    {
     "hour": "18:00",
-    "temp_f": 64,
-    "precip_chance_pct": 89
+    "temp_f": 65,
+    "precip_chance_pct": 97
    },
    {
     "hour": "19:00",
-    "temp_f": 63,
-    "precip_chance_pct": 90
+    "temp_f": 64,
+    "precip_chance_pct": 87
    }
   ]
  },
@@ -80,8 +80,8 @@
     "opponent_owner": "thekingteo",
     "opponent_team": "The Peeps of America",
     "opponent_record": "4-4",
-    "opponent_projected": 115.4,
-    "projected": 162.2
+    "opponent_projected": 114.2,
+    "projected": 162
    },
    {
     "owner": "Melissa",
@@ -90,8 +90,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "5-3",
-    "opponent_projected": 138.3,
-    "projected": 131.4
+    "opponent_projected": 151.3,
+    "projected": 132.2
    },
    {
     "owner": "Theo",
@@ -100,25 +100,10 @@
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "5-3",
-    "opponent_projected": 162.2,
-    "projected": 115.4
+    "opponent_projected": 162,
+    "projected": 114.2
    }
   ],
-  "lineup_alarm": [
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Christian McCaffrey",
-    "position": "RB",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Malik Nabers",
-    "position": "WR",
-    "status": "Questionable"
-   }
-  ]
+  "lineup_alarm": []
  }
 }
