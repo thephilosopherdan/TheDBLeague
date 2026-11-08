@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T21:16:15.309Z",
+ "generated_at": "2026-11-08T03:39:22.864Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-07",
@@ -35,22 +35,22 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 55,
+    "temp_f": 56,
     "precip_chance_pct": 9
    },
    {
     "hour": "17:00",
-    "temp_f": 55,
+    "temp_f": 56,
     "precip_chance_pct": 9
    },
    {
     "hour": "18:00",
-    "temp_f": 55,
-    "precip_chance_pct": 9
+    "temp_f": 56,
+    "precip_chance_pct": 5
    },
    {
     "hour": "19:00",
-    "temp_f": 55,
+    "temp_f": 56,
     "precip_chance_pct": 12
    }
   ]
@@ -63,6 +63,14 @@
    }
   ],
   "today": [
+   {
+    "league": "NFL",
+    "line": "GB at NE, 4:25 PM"
+   },
+   {
+    "league": "NBA",
+    "line": "BOS at MIL, 8:00 PM"
+   },
    {
     "league": "NHL",
     "line": "FLA at BOS, 1:00 PM"
@@ -80,8 +88,8 @@
     "opponent_owner": "thekingteo",
     "opponent_team": "The Peeps of America",
     "opponent_record": "4-4",
-    "opponent_projected": 114,
-    "projected": 162
+    "opponent_projected": 113.9,
+    "projected": 160.8
    },
    {
     "owner": "Melissa",
@@ -90,8 +98,8 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "5-3",
-    "opponent_projected": 150.9,
-    "projected": 131.9
+    "opponent_projected": 151.3,
+    "projected": 132.2
    },
    {
     "owner": "Theo",
@@ -100,8 +108,8 @@
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "5-3",
-    "opponent_projected": 162,
-    "projected": 114
+    "opponent_projected": 160.8,
+    "projected": 113.9
    }
   ],
   "lineup_alarm": []
