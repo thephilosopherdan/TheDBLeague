@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T19:15:17.284Z",
+ "generated_at": "2026-11-09T00:23:22.922Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-08",
@@ -35,28 +35,33 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 51,
+    "temp_f": 54,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 49,
+    "temp_f": 52,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 48,
+    "temp_f": 50,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 47,
+    "temp_f": 48,
     "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
-  "last_night": [],
+  "last_night": [
+   {
+    "league": "NHL",
+    "line": "BOS 4, FLA 1 (F)"
+   }
+  ],
   "today": [
    {
     "league": "NFL",
@@ -65,10 +70,6 @@
    {
     "league": "NBA",
     "line": "BOS at MIL, 8:00 PM"
-   },
-   {
-    "league": "NHL",
-    "line": "FLA at BOS, 1:00 PM"
    }
   ]
  },
@@ -83,8 +84,8 @@
     "opponent_owner": "thekingteo",
     "opponent_team": "The Peeps of America",
     "opponent_record": "4-4",
-    "opponent_projected": 139.5,
-    "projected": 161
+    "opponent_projected": 139.7,
+    "projected": 160.9
    },
    {
     "owner": "Melissa",
@@ -93,7 +94,7 @@
     "opponent_owner": "tpatuto",
     "opponent_team": "Vermont Maple Baddies",
     "opponent_record": "5-3",
-    "opponent_projected": 152.8,
+    "opponent_projected": 152.6,
     "projected": 131.7
    },
    {
@@ -103,10 +104,25 @@
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "5-3",
-    "opponent_projected": 161,
-    "projected": 139.5
+    "opponent_projected": 160.9,
+    "projected": 139.7
    }
   ],
-  "lineup_alarm": []
+  "lineup_alarm": [
+   {
+    "owner": "Dan",
+    "league": "DB",
+    "player": "Ladd McConkey",
+    "position": "WR",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "DB",
+    "player": "J.J. McCarthy",
+    "position": "QB",
+    "status": "Questionable"
+   }
+  ]
  }
 }
