@@ -1,47 +1,47 @@
 {
- "generated_at": "2026-11-09T10:42:04.776Z",
+ "generated_at": "2026-11-09T21:47:31.018Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-09",
-  "high_f": 55,
-  "low_f": 44,
-  "precip_chance_pct": 19,
+  "high_f": 56,
+  "low_f": 43,
+  "precip_chance_pct": 6,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 47,
-    "precip_chance_pct": 2
+    "temp_f": 49,
+    "precip_chance_pct": 1
    },
    {
     "hour": "09:00",
     "temp_f": 50,
-    "precip_chance_pct": 6
+    "precip_chance_pct": 1
    },
    {
     "hour": "10:00",
-    "temp_f": 51,
-    "precip_chance_pct": 6
+    "temp_f": 50,
+    "precip_chance_pct": 3
    },
    {
     "hour": "11:00",
-    "temp_f": 52,
-    "precip_chance_pct": 8
+    "temp_f": 53,
+    "precip_chance_pct": 2
    },
    {
     "hour": "12:00",
-    "temp_f": 51,
-    "precip_chance_pct": 19
+    "temp_f": 55,
+    "precip_chance_pct": 5
    },
    {
     "hour": "16:00",
     "temp_f": 51,
-    "precip_chance_pct": 4
+    "precip_chance_pct": 6
    },
    {
     "hour": "17:00",
     "temp_f": 49,
-    "precip_chance_pct": 2
+    "precip_chance_pct": 1
    },
    {
     "hour": "18:00",
@@ -83,8 +83,8 @@
     "opponent_owner": "thekingteo",
     "opponent_team": "The Peeps of America",
     "opponent_record": "4-4",
-    "opponent_projected": 140,
-    "projected": 160.9
+    "opponent_projected": 129.4,
+    "projected": 161
    },
    {
     "owner": "Melissa",
@@ -103,8 +103,8 @@
     "opponent_owner": "philosopherdan",
     "opponent_team": "South Shore Dirty Dawgs",
     "opponent_record": "5-3",
-    "opponent_projected": 160.9,
-    "projected": 140
+    "opponent_projected": 161,
+    "projected": 129.4
    }
   ],
   "lineup_alarm": [
