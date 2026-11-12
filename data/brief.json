@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-12T14:21:55.961Z",
+ "generated_at": "2026-11-12T21:39:52.306Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-12",
-  "high_f": 54,
+  "high_f": 55,
   "low_f": 39,
-  "precip_chance_pct": 78,
-  "summary": "Light rain",
+  "precip_chance_pct": 89,
+  "summary": "Rain",
   "afternoon": [
    {
     "hour": "08:00",
@@ -15,13 +15,13 @@
    },
    {
     "hour": "09:00",
-    "temp_f": 49,
+    "temp_f": 51,
     "precip_chance_pct": 2
    },
    {
     "hour": "10:00",
-    "temp_f": 52,
-    "precip_chance_pct": 3
+    "temp_f": 54,
+    "precip_chance_pct": 4
    },
    {
     "hour": "11:00",
@@ -30,28 +30,28 @@
    },
    {
     "hour": "12:00",
-    "temp_f": 53,
-    "precip_chance_pct": 4
+    "temp_f": 55,
+    "precip_chance_pct": 2
    },
    {
     "hour": "16:00",
     "temp_f": 50,
-    "precip_chance_pct": 8
+    "precip_chance_pct": 7
    },
    {
     "hour": "17:00",
     "temp_f": 49,
-    "precip_chance_pct": 15
+    "precip_chance_pct": 16
    },
    {
     "hour": "18:00",
     "temp_f": 49,
-    "precip_chance_pct": 28
+    "precip_chance_pct": 22
    },
    {
     "hour": "19:00",
     "temp_f": 49,
-    "precip_chance_pct": 42
+    "precip_chance_pct": 36
    }
   ]
  },
@@ -80,8 +80,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-7",
-    "opponent_projected": 114.6,
-    "projected": 160.9
+    "opponent_projected": 112.7,
+    "projected": 159.9
    },
    {
     "owner": "Melissa",
@@ -90,8 +90,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "4-5",
-    "opponent_projected": 99.4,
-    "projected": 109.4
+    "opponent_projected": 100,
+    "projected": 109.6
    },
    {
     "owner": "Theo",
@@ -100,8 +100,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "8-1",
-    "opponent_projected": 151,
-    "projected": 124.5
+    "opponent_projected": 150.9,
+    "projected": 123.9
    }
   ],
   "lineup_alarm": [
