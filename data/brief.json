@@ -1,57 +1,57 @@
 {
- "generated_at": "2026-11-11T21:40:29.671Z",
+ "generated_at": "2026-11-12T05:05:55.018Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-11-11",
-  "high_f": 57,
+  "date": "2026-11-12",
+  "high_f": 53,
   "low_f": 41,
-  "precip_chance_pct": 2,
-  "summary": "Cloudy",
+  "precip_chance_pct": 80,
+  "summary": "Drizzle",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 45,
-    "precip_chance_pct": 0
+    "temp_f": 44,
+    "precip_chance_pct": 4
    },
    {
     "hour": "09:00",
-    "temp_f": 51,
-    "precip_chance_pct": 0
+    "temp_f": 50,
+    "precip_chance_pct": 5
    },
    {
     "hour": "10:00",
-    "temp_f": 53,
-    "precip_chance_pct": 0
+    "temp_f": 52,
+    "precip_chance_pct": 6
    },
    {
     "hour": "11:00",
-    "temp_f": 54,
-    "precip_chance_pct": 0
+    "temp_f": 53,
+    "precip_chance_pct": 8
    },
    {
     "hour": "12:00",
-    "temp_f": 56,
-    "precip_chance_pct": 0
+    "temp_f": 52,
+    "precip_chance_pct": 8
    },
    {
     "hour": "16:00",
-    "temp_f": 52,
-    "precip_chance_pct": 0
+    "temp_f": 50,
+    "precip_chance_pct": 14
    },
    {
     "hour": "17:00",
     "temp_f": 49,
-    "precip_chance_pct": 0
+    "precip_chance_pct": 33
    },
    {
     "hour": "18:00",
     "temp_f": 48,
-    "precip_chance_pct": 0
+    "precip_chance_pct": 47
    },
    {
     "hour": "19:00",
-    "temp_f": 47,
-    "precip_chance_pct": 0
+    "temp_f": 48,
+    "precip_chance_pct": 59
    }
   ]
  },
@@ -59,13 +59,13 @@
   "last_night": [
    {
     "league": "NBA",
-    "line": "BOS 123, PHI 101 (F)"
+    "line": "BOS 98, TOR 93 (F)"
    }
   ],
   "today": [
    {
-    "league": "NBA",
-    "line": "BOS at TOR, 7:00 PM"
+    "league": "NHL",
+    "line": "MTL at BOS, 7:00 PM"
    }
   ]
  },
@@ -80,8 +80,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-7",
-    "opponent_projected": 115.7,
-    "projected": 160.3
+    "opponent_projected": 115.4,
+    "projected": 161.1
    },
    {
     "owner": "Melissa",
@@ -90,8 +90,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "4-5",
-    "opponent_projected": 99.6,
-    "projected": 110.4
+    "opponent_projected": 99.7,
+    "projected": 110.3
    },
    {
     "owner": "Theo",
@@ -100,8 +100,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "8-1",
-    "opponent_projected": 150.4,
-    "projected": 122
+    "opponent_projected": 150.6,
+    "projected": 124.4
    }
   ],
   "lineup_alarm": [
@@ -109,6 +109,13 @@
     "owner": "Dan",
     "league": "DB",
     "player": "Ladd McConkey",
+    "position": "WR",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "A.J. Brown",
     "position": "WR",
     "status": "Questionable"
    }
