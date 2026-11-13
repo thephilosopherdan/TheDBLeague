@@ -1,12 +1,62 @@
 {
- "generated_at": "2026-11-13T04:22:23.840Z",
+ "generated_at": "2026-11-13T13:41:47.306Z",
  "location": "Hanover, MA",
+ "weather": {
+  "date": "2026-11-13",
+  "high_f": 45,
+  "low_f": 34,
+  "precip_chance_pct": 94,
+  "summary": "Light rain",
+  "afternoon": [
+   {
+    "hour": "08:00",
+    "temp_f": 40,
+    "precip_chance_pct": 74
+   },
+   {
+    "hour": "09:00",
+    "temp_f": 39,
+    "precip_chance_pct": 54
+   },
+   {
+    "hour": "10:00",
+    "temp_f": 40,
+    "precip_chance_pct": 51
+   },
+   {
+    "hour": "11:00",
+    "temp_f": 41,
+    "precip_chance_pct": 52
+   },
+   {
+    "hour": "12:00",
+    "temp_f": 40,
+    "precip_chance_pct": 41
+   },
+   {
+    "hour": "16:00",
+    "temp_f": 40,
+    "precip_chance_pct": 3
+   },
+   {
+    "hour": "17:00",
+    "temp_f": 40,
+    "precip_chance_pct": 2
+   },
+   {
+    "hour": "18:00",
+    "temp_f": 39,
+    "precip_chance_pct": 2
+   },
+   {
+    "hour": "19:00",
+    "temp_f": 37,
+    "precip_chance_pct": 2
+   }
+  ]
+ },
  "boston": {
   "last_night": [
-   {
-    "league": "NBA",
-    "line": "BOS 98, TOR 93 (F)"
-   },
    {
     "league": "NHL",
     "line": "MTL 5, BOS 2 (F)"
@@ -45,7 +95,7 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "8-1",
-    "opponent_projected": 150.3,
+    "opponent_projected": 150.2,
     "projected": 124
    }
   ],
@@ -60,14 +110,14 @@
    {
     "owner": "Dan",
     "league": "ITC",
-    "player": "Garrett Wilson",
+    "player": "A.J. Brown",
     "position": "WR",
     "status": "Questionable"
    },
    {
     "owner": "Dan",
     "league": "ITC",
-    "player": "A.J. Brown",
+    "player": "Garrett Wilson",
     "position": "WR",
     "status": "Questionable"
    }
