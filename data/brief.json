@@ -1,63 +1,13 @@
 {
- "generated_at": "2026-11-14T12:46:00.559Z",
+ "generated_at": "2026-11-14T19:37:47.971Z",
  "location": "Hanover, MA",
- "weather": {
-  "date": "2026-11-14",
-  "high_f": 42,
-  "low_f": 32,
-  "precip_chance_pct": 3,
-  "summary": "Cloudy",
-  "afternoon": [
-   {
-    "hour": "08:00",
-    "temp_f": 36,
-    "precip_chance_pct": 1
-   },
-   {
-    "hour": "09:00",
-    "temp_f": 38,
-    "precip_chance_pct": 1
-   },
-   {
-    "hour": "10:00",
-    "temp_f": 40,
-    "precip_chance_pct": 1
-   },
-   {
-    "hour": "11:00",
-    "temp_f": 40,
-    "precip_chance_pct": 1
-   },
-   {
-    "hour": "12:00",
-    "temp_f": 41,
-    "precip_chance_pct": 1
-   },
-   {
-    "hour": "16:00",
-    "temp_f": 41,
-    "precip_chance_pct": 2
-   },
-   {
-    "hour": "17:00",
-    "temp_f": 38,
-    "precip_chance_pct": 3
-   },
-   {
-    "hour": "18:00",
-    "temp_f": 37,
-    "precip_chance_pct": 3
-   },
-   {
-    "hour": "19:00",
-    "temp_f": 37,
-    "precip_chance_pct": 3
-   }
-  ]
- },
  "boston": {
   "last_night": [],
   "today": [
+   {
+    "league": "NFL",
+    "line": "NE at DET, 9:30 AM"
+   },
    {
     "league": "NHL",
     "line": "MIN at BOS, 7:00 PM"
@@ -75,7 +25,7 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-7",
-    "opponent_projected": 111.7,
+    "opponent_projected": 112.6,
     "projected": 159.2
    },
    {
@@ -85,8 +35,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "4-5",
-    "opponent_projected": 132,
-    "projected": 132.4
+    "opponent_projected": 131.9,
+    "projected": 134.3
    },
    {
     "owner": "Theo",
@@ -95,7 +45,7 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "8-1",
-    "opponent_projected": 148,
+    "opponent_projected": 139.1,
     "projected": 124.2
    }
   ],
