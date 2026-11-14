@@ -1,67 +1,62 @@
 {
- "generated_at": "2026-11-14T04:18:02.974Z",
+ "generated_at": "2026-11-14T12:46:00.559Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-11-13",
-  "high_f": 45,
-  "low_f": 35,
-  "precip_chance_pct": 94,
-  "summary": "Light rain",
+  "date": "2026-11-14",
+  "high_f": 42,
+  "low_f": 32,
+  "precip_chance_pct": 3,
+  "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 41,
-    "precip_chance_pct": 74
+    "temp_f": 36,
+    "precip_chance_pct": 1
    },
    {
     "hour": "09:00",
-    "temp_f": 39,
-    "precip_chance_pct": 37
+    "temp_f": 38,
+    "precip_chance_pct": 1
    },
    {
     "hour": "10:00",
     "temp_f": 40,
-    "precip_chance_pct": 31
+    "precip_chance_pct": 1
    },
    {
     "hour": "11:00",
-    "temp_f": 41,
-    "precip_chance_pct": 23
+    "temp_f": 40,
+    "precip_chance_pct": 1
    },
    {
     "hour": "12:00",
-    "temp_f": 40,
-    "precip_chance_pct": 18
+    "temp_f": 41,
+    "precip_chance_pct": 1
    },
    {
     "hour": "16:00",
     "temp_f": 41,
-    "precip_chance_pct": 4
+    "precip_chance_pct": 2
    },
    {
     "hour": "17:00",
-    "temp_f": 39,
+    "temp_f": 38,
     "precip_chance_pct": 3
    },
    {
     "hour": "18:00",
-    "temp_f": 39,
-    "precip_chance_pct": 1
+    "temp_f": 37,
+    "precip_chance_pct": 3
    },
    {
     "hour": "19:00",
-    "temp_f": 39,
-    "precip_chance_pct": 1
+    "temp_f": 37,
+    "precip_chance_pct": 3
    }
   ]
  },
  "boston": {
-  "last_night": [
-   {
-    "league": "NHL",
-    "line": "MTL 5, BOS 2 (F)"
-   }
-  ],
+  "last_night": [],
   "today": [
    {
     "league": "NHL",
@@ -80,7 +75,7 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-7",
-    "opponent_projected": 111.6,
+    "opponent_projected": 111.7,
     "projected": 159.2
    },
    {
@@ -90,7 +85,7 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "4-5",
-    "opponent_projected": 131.9,
+    "opponent_projected": 132,
     "projected": 132.4
    },
    {
