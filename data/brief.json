@@ -1,62 +1,67 @@
 {
- "generated_at": "2026-11-15T00:34:07.066Z",
+ "generated_at": "2026-11-15T10:13:19.921Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-11-14",
-  "high_f": 44,
+  "date": "2026-11-15",
+  "high_f": 46,
   "low_f": 32,
   "precip_chance_pct": 3,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 36,
+    "temp_f": 37,
     "precip_chance_pct": 1
    },
    {
     "hour": "09:00",
-    "temp_f": 39,
+    "temp_f": 40,
     "precip_chance_pct": 1
    },
    {
     "hour": "10:00",
-    "temp_f": 41,
+    "temp_f": 43,
     "precip_chance_pct": 1
    },
    {
     "hour": "11:00",
-    "temp_f": 43,
+    "temp_f": 44,
     "precip_chance_pct": 1
    },
    {
     "hour": "12:00",
-    "temp_f": 43,
+    "temp_f": 45,
     "precip_chance_pct": 1
    },
    {
     "hour": "16:00",
-    "temp_f": 42,
+    "temp_f": 43,
     "precip_chance_pct": 2
    },
    {
     "hour": "17:00",
     "temp_f": 41,
-    "precip_chance_pct": 2
+    "precip_chance_pct": 1
    },
    {
     "hour": "18:00",
-    "temp_f": 42,
-    "precip_chance_pct": 3
+    "temp_f": 40,
+    "precip_chance_pct": 1
    },
    {
     "hour": "19:00",
-    "temp_f": 39,
-    "precip_chance_pct": 3
+    "temp_f": 38,
+    "precip_chance_pct": 1
    }
   ]
  },
  "boston": {
-  "last_night": [],
+  "last_night": [
+   {
+    "league": "NHL",
+    "line": "MIN 6, BOS 2 (F)"
+   }
+  ],
   "today": [
    {
     "league": "NFL",
@@ -65,10 +70,6 @@
    {
     "league": "NBA",
     "line": "DAL at BOS, 6:00 PM"
-   },
-   {
-    "league": "NHL",
-    "line": "MIN at BOS, 7:00 PM"
    }
   ]
  },
@@ -83,8 +84,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-7",
-    "opponent_projected": 112.6,
-    "projected": 159.6
+    "opponent_projected": 120.6,
+    "projected": 159.5
    },
    {
     "owner": "Melissa",
@@ -94,7 +95,7 @@
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "4-5",
     "opponent_projected": 132.1,
-    "projected": 134.4
+    "projected": 134.5
    },
    {
     "owner": "Theo",
@@ -103,8 +104,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "8-1",
-    "opponent_projected": 138.2,
-    "projected": 124.2
+    "opponent_projected": 138,
+    "projected": 123.9
    }
   ],
   "lineup_alarm": [
