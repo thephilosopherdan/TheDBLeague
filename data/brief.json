@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T00:33:51.223Z",
+ "generated_at": "2026-11-16T10:25:48.271Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-11-15",
-  "high_f": 49,
+  "date": "2026-11-16",
+  "high_f": 50,
   "low_f": 32,
   "precip_chance_pct": 1,
   "summary": "Cloudy",
@@ -11,32 +11,32 @@
    {
     "hour": "08:00",
     "temp_f": 37,
-    "precip_chance_pct": 1
+    "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
     "temp_f": 41,
-    "precip_chance_pct": 1
+    "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
     "temp_f": 44,
-    "precip_chance_pct": 1
+    "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 46,
-    "precip_chance_pct": 1
+    "temp_f": 47,
+    "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 48,
-    "precip_chance_pct": 1
+    "temp_f": 49,
+    "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 46,
-    "precip_chance_pct": 1
+    "temp_f": 47,
+    "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
@@ -45,13 +45,13 @@
    },
    {
     "hour": "18:00",
-    "temp_f": 42,
-    "precip_chance_pct": 1
+    "temp_f": 41,
+    "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
     "temp_f": 40,
-    "precip_chance_pct": 1
+    "precip_chance_pct": 0
    }
   ]
  },
@@ -62,6 +62,10 @@
     "line": "DET 35, NE 10 (F)"
    },
    {
+    "league": "NBA",
+    "line": "BOS 131, DAL 94 (F)"
+   },
+   {
     "league": "NHL",
     "line": "MIN 6, BOS 2 (F)"
    }
@@ -69,7 +73,7 @@
   "today": [
    {
     "league": "NBA",
-    "line": "DAL at BOS, 6:00 PM"
+    "line": "ORL at BOS, 7:00 PM"
    }
   ]
  },
@@ -104,8 +108,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "8-1",
-    "opponent_projected": 137.5,
-    "projected": 124.3
+    "opponent_projected": 137.6,
+    "projected": 124.2
    }
   ],
   "lineup_alarm": [
