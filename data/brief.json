@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-17T05:53:16.706Z",
+ "generated_at": "2026-11-17T15:16:29.951Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-17",
-  "high_f": 54,
-  "low_f": 32,
+  "high_f": 52,
+  "low_f": 31,
   "precip_chance_pct": 0,
-  "summary": "Clear",
+  "summary": "Fog",
   "afternoon": [
    {
     "hour": "08:00",
@@ -15,42 +15,42 @@
    },
    {
     "hour": "09:00",
-    "temp_f": 43,
+    "temp_f": 41,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 46,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "11:00",
-    "temp_f": 49,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "12:00",
-    "temp_f": 51,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "16:00",
-    "temp_f": 49,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "17:00",
-    "temp_f": 46,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "18:00",
     "temp_f": 44,
     "precip_chance_pct": 0
    },
    {
-    "hour": "19:00",
+    "hour": "11:00",
+    "temp_f": 47,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "12:00",
+    "temp_f": 49,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "16:00",
+    "temp_f": 48,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "17:00",
+    "temp_f": 44,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "18:00",
     "temp_f": 43,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "19:00",
+    "temp_f": 42,
     "precip_chance_pct": 0
    }
   ]
@@ -80,8 +80,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "1-9",
-    "opponent_projected": 130.2,
-    "projected": 83.3
+    "opponent_projected": 129.1,
+    "projected": 83.4
    },
    {
     "owner": "Melissa",
@@ -90,8 +90,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-8",
-    "opponent_projected": 98.5,
-    "projected": 131.6
+    "opponent_projected": 98.1,
+    "projected": 130.5
    },
    {
     "owner": "Theo",
@@ -100,7 +100,7 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "5-5",
-    "opponent_projected": 101.6,
+    "opponent_projected": 102.1,
     "projected": 68.8
    }
   ],
