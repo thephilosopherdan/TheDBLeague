@@ -1,17 +1,79 @@
 {
- "generated_at": "2026-11-18T00:17:18.768Z",
+ "generated_at": "2026-11-18T10:55:16.433Z",
  "location": "Hanover, MA",
+ "weather": {
+  "date": "2026-11-18",
+  "high_f": 63,
+  "low_f": 37,
+  "precip_chance_pct": 0,
+  "summary": "Partly cloudy",
+  "afternoon": [
+   {
+    "hour": "08:00",
+    "temp_f": 44,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "09:00",
+    "temp_f": 51,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "10:00",
+    "temp_f": 56,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "11:00",
+    "temp_f": 59,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "12:00",
+    "temp_f": 61,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "16:00",
+    "temp_f": 57,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "17:00",
+    "temp_f": 52,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "18:00",
+    "temp_f": 50,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "19:00",
+    "temp_f": 48,
+    "precip_chance_pct": 0
+   }
+  ]
+ },
  "boston": {
   "last_night": [
    {
     "league": "NBA",
     "line": "ORL 115, BOS 105 (F)"
+   },
+   {
+    "league": "NHL",
+    "line": "LA 3, BOS 0 (F)"
    }
   ],
   "today": [
    {
+    "league": "NBA",
+    "line": "BOS at DEN, 9:30 PM"
+   },
+   {
     "league": "NHL",
-    "line": "LA at BOS, 7:00 PM"
+    "line": "BOS at DET, 7:30 PM"
    }
   ]
  },
@@ -26,8 +88,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "1-9",
-    "opponent_projected": 129.8,
-    "projected": 83.8
+    "opponent_projected": 129.9,
+    "projected": 84.9
    },
    {
     "owner": "Melissa",
@@ -37,7 +99,7 @@
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-8",
     "opponent_projected": 91.3,
-    "projected": 131
+    "projected": 131.1
    },
    {
     "owner": "Theo",
@@ -46,8 +108,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "5-5",
-    "opponent_projected": 102.1,
-    "projected": 69.4
+    "opponent_projected": 123.7,
+    "projected": 68.8
    }
   ],
   "lineup_alarm": [
@@ -98,7 +160,7 @@
     "league": "ITC",
     "player": "Brock Bowers",
     "position": "TE",
-    "status": "Out"
+    "status": "Questionable"
    },
    {
     "owner": "Dan",
