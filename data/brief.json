@@ -1,31 +1,31 @@
 {
- "generated_at": "2026-11-18T10:55:16.433Z",
+ "generated_at": "2026-11-18T19:47:22.690Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-18",
-  "high_f": 63,
-  "low_f": 37,
+  "high_f": 62,
+  "low_f": 39,
   "precip_chance_pct": 0,
   "summary": "Partly cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 44,
+    "temp_f": 45,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 51,
+    "temp_f": 53,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 56,
+    "temp_f": 58,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 59,
+    "temp_f": 60,
     "precip_chance_pct": 0
    },
    {
@@ -35,7 +35,7 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 57,
+    "temp_f": 56,
     "precip_chance_pct": 0
    },
    {
@@ -45,22 +45,18 @@
    },
    {
     "hour": "18:00",
-    "temp_f": 50,
+    "temp_f": 49,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 48,
+    "temp_f": 47,
     "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
   "last_night": [
-   {
-    "league": "NBA",
-    "line": "ORL 115, BOS 105 (F)"
-   },
    {
     "league": "NHL",
     "line": "LA 3, BOS 0 (F)"
@@ -88,8 +84,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "1-9",
-    "opponent_projected": 129.9,
-    "projected": 84.9
+    "opponent_projected": 129.8,
+    "projected": 101.1
    },
    {
     "owner": "Melissa",
@@ -98,8 +94,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-8",
-    "opponent_projected": 91.3,
-    "projected": 131.1
+    "opponent_projected": 91,
+    "projected": 130.5
    },
    {
     "owner": "Theo",
@@ -108,18 +104,11 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "5-5",
-    "opponent_projected": 123.7,
-    "projected": 68.8
+    "opponent_projected": 123.5,
+    "projected": 68.7
    }
   ],
   "lineup_alarm": [
-   {
-    "owner": "Dan",
-    "league": "DB",
-    "player": "Drake Maye",
-    "position": "QB",
-    "status": "Out"
-   },
    {
     "owner": "Dan",
     "league": "DB",
