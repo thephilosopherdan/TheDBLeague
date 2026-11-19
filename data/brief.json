@@ -1,36 +1,36 @@
 {
- "generated_at": "2026-11-19T10:58:02.845Z",
+ "generated_at": "2026-11-19T19:47:56.079Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-19",
   "high_f": 62,
-  "low_f": 35,
+  "low_f": 34,
   "precip_chance_pct": 0,
-  "summary": "Mostly sunny",
+  "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 40,
+    "temp_f": 39,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 49,
+    "temp_f": 51,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 54,
+    "temp_f": 56,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 57,
+    "temp_f": 60,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 60,
+    "temp_f": 62,
     "precip_chance_pct": 0
    },
    {
@@ -40,7 +40,7 @@
    },
    {
     "hour": "17:00",
-    "temp_f": 49,
+    "temp_f": 50,
     "precip_chance_pct": 0
    },
    {
@@ -50,7 +50,7 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 45,
+    "temp_f": 43,
     "precip_chance_pct": 0
    }
   ]
@@ -79,8 +79,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "1-9",
-    "opponent_projected": 128.9,
-    "projected": 101.2
+    "opponent_projected": 128.6,
+    "projected": 101.3
    },
    {
     "owner": "Melissa",
@@ -99,8 +99,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "5-5",
-    "opponent_projected": 124.8,
-    "projected": 68.9
+    "opponent_projected": 124.5,
+    "projected": 68.8
    }
   ],
   "lineup_alarm": [
