@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-19T19:47:56.079Z",
+ "generated_at": "2026-11-20T01:57:47.548Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-19",
-  "high_f": 62,
+  "high_f": 63,
   "low_f": 34,
   "precip_chance_pct": 0,
-  "summary": "Cloudy",
+  "summary": "Clear",
   "afternoon": [
    {
     "hour": "08:00",
@@ -35,12 +35,12 @@
    },
    {
     "hour": "16:00",
-    "temp_f": 55,
+    "temp_f": 57,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 50,
+    "temp_f": 49,
     "precip_chance_pct": 0
    },
    {
@@ -50,7 +50,7 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 43,
+    "temp_f": 44,
     "precip_chance_pct": 0
    }
   ]
@@ -79,8 +79,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "1-9",
-    "opponent_projected": 128.6,
-    "projected": 101.3
+    "opponent_projected": 129.1,
+    "projected": 101.2
    },
    {
     "owner": "Melissa",
@@ -89,8 +89,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-8",
-    "opponent_projected": 90.9,
-    "projected": 131.1
+    "opponent_projected": 113.6,
+    "projected": 138.2
    },
    {
     "owner": "Theo",
@@ -99,7 +99,7 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "5-5",
-    "opponent_projected": 124.5,
+    "opponent_projected": 124.9,
     "projected": 68.8
    }
   ],
@@ -128,30 +128,9 @@
    {
     "owner": "Dan",
     "league": "ITC",
-    "player": "Drake Maye",
-    "position": "QB",
-    "status": "Out"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "A.J. Brown",
-    "position": "WR",
-    "status": "Out"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
     "player": "Brock Bowers",
     "position": "TE",
     "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Los Angeles Rams",
-    "position": "DEF",
-    "status": "BYE"
    }
   ]
  }
