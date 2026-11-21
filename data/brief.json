@@ -1,56 +1,56 @@
 {
- "generated_at": "2026-11-21T01:53:35.655Z",
+ "generated_at": "2026-11-21T10:29:26.728Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-11-20",
-  "high_f": 67,
-  "low_f": 34,
+  "date": "2026-11-21",
+  "high_f": 62,
+  "low_f": 31,
   "precip_chance_pct": 0,
-  "summary": "Cloudy",
+  "summary": "Fog",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 41,
+    "temp_f": 35,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 54,
+    "temp_f": 46,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 60,
+    "temp_f": 51,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 65,
+    "temp_f": 56,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 66,
+    "temp_f": 59,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 62,
+    "temp_f": 54,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 58,
+    "temp_f": 48,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 55,
+    "temp_f": 46,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 53,
+    "temp_f": 43,
     "precip_chance_pct": 0
    }
   ]
@@ -58,6 +58,10 @@
  "boston": {
   "last_night": [],
   "today": [
+   {
+    "league": "NBA",
+    "line": "BOS at SAC, 10:00 PM"
+   },
    {
     "league": "NHL",
     "line": "WSH at BOS, 7:00 PM"
@@ -75,8 +79,8 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "1-9",
-    "opponent_projected": 119.3,
-    "projected": 129.6
+    "opponent_projected": 119.5,
+    "projected": 129.7
    },
    {
     "owner": "Melissa",
@@ -85,8 +89,8 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-8",
-    "opponent_projected": 116.1,
-    "projected": 145.7
+    "opponent_projected": 116.2,
+    "projected": 145.8
    },
    {
     "owner": "Theo",
@@ -96,7 +100,7 @@
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "5-5",
     "opponent_projected": 124.4,
-    "projected": 68.7
+    "projected": 68.6
    }
   ],
   "lineup_alarm": [
