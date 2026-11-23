@@ -1,15 +1,65 @@
 {
- "generated_at": "2026-11-23T11:33:55.368Z",
+ "generated_at": "2026-11-23T23:08:20.143Z",
  "location": "Hanover, MA",
+ "weather": {
+  "date": "2026-11-23",
+  "high_f": 66,
+  "low_f": 47,
+  "precip_chance_pct": 100,
+  "summary": "Heavy rain",
+  "afternoon": [
+   {
+    "hour": "08:00",
+    "temp_f": 56,
+    "precip_chance_pct": 2
+   },
+   {
+    "hour": "09:00",
+    "temp_f": 57,
+    "precip_chance_pct": 1
+   },
+   {
+    "hour": "10:00",
+    "temp_f": 59,
+    "precip_chance_pct": 1
+   },
+   {
+    "hour": "11:00",
+    "temp_f": 62,
+    "precip_chance_pct": 1
+   },
+   {
+    "hour": "12:00",
+    "temp_f": 65,
+    "precip_chance_pct": 1
+   },
+   {
+    "hour": "16:00",
+    "temp_f": 63,
+    "precip_chance_pct": 2
+   },
+   {
+    "hour": "17:00",
+    "temp_f": 58,
+    "precip_chance_pct": 2
+   },
+   {
+    "hour": "18:00",
+    "temp_f": 56,
+    "precip_chance_pct": 1
+   },
+   {
+    "hour": "19:00",
+    "temp_f": 54,
+    "precip_chance_pct": 1
+   }
+  ]
+ },
  "boston": {
   "last_night": [
    {
     "league": "NBA",
     "line": "GS 88, BOS 87 (F)"
-   },
-   {
-    "league": "NHL",
-    "line": "BOS 7, WSH 5 (F)"
    }
   ],
   "today": []
@@ -25,7 +75,7 @@
     "opponent_owner": "MattMcColgan",
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "1-9",
-    "opponent_projected": 122,
+    "opponent_projected": 121.9,
     "projected": 129.7
    },
    {
@@ -45,8 +95,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "5-5",
-    "opponent_projected": 122.5,
-    "projected": 101.6
+    "opponent_projected": 122.6,
+    "projected": 90.4
    }
   ],
   "lineup_alarm": [
@@ -55,6 +105,13 @@
     "league": "DB",
     "player": "Justin Herbert",
     "position": "QB",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Cam Little",
+    "position": "K",
     "status": "Questionable"
    }
   ]
