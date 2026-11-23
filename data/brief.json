@@ -1,6 +1,60 @@
 {
- "generated_at": "2026-11-22T18:53:07.502Z",
+ "generated_at": "2026-11-23T01:16:41.938Z",
  "location": "Hanover, MA",
+ "weather": {
+  "date": "2026-11-22",
+  "high_f": 64,
+  "low_f": 40,
+  "precip_chance_pct": 100,
+  "summary": "Rain",
+  "afternoon": [
+   {
+    "hour": "08:00",
+    "temp_f": 44,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "09:00",
+    "temp_f": 47,
+    "precip_chance_pct": 1
+   },
+   {
+    "hour": "10:00",
+    "temp_f": 53,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "11:00",
+    "temp_f": 59,
+    "precip_chance_pct": 2
+   },
+   {
+    "hour": "12:00",
+    "temp_f": 63,
+    "precip_chance_pct": 1
+   },
+   {
+    "hour": "16:00",
+    "temp_f": 60,
+    "precip_chance_pct": 5
+   },
+   {
+    "hour": "17:00",
+    "temp_f": 57,
+    "precip_chance_pct": 7
+   },
+   {
+    "hour": "18:00",
+    "temp_f": 55,
+    "precip_chance_pct": 26
+   },
+   {
+    "hour": "19:00",
+    "temp_f": 55,
+    "precip_chance_pct": 53
+   }
+  ]
+ },
  "boston": {
   "last_night": [
    {
@@ -31,7 +85,7 @@
     "opponent_team": "Brotherly Love Broskis",
     "opponent_record": "1-9",
     "opponent_projected": 122,
-    "projected": 129.9
+    "projected": 129.8
    },
    {
     "owner": "Melissa",
@@ -40,7 +94,7 @@
     "opponent_owner": "jmccolgan",
     "opponent_team": "Windy City Wankers",
     "opponent_record": "2-8",
-    "opponent_projected": 118,
+    "opponent_projected": 117.9,
     "projected": 140.8
    },
    {
@@ -50,23 +104,16 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "5-5",
-    "opponent_projected": 122.6,
-    "projected": 67.9
+    "opponent_projected": 122.5,
+    "projected": 101.8
    }
   ],
   "lineup_alarm": [
    {
     "owner": "Dan",
     "league": "DB",
-    "player": "Ladd McConkey",
-    "position": "WR",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Brock Bowers",
-    "position": "TE",
+    "player": "Justin Herbert",
+    "position": "QB",
     "status": "Questionable"
    }
   ]
