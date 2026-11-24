@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T07:45:42.781Z",
+ "generated_at": "2026-11-24T19:51:46.104Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-24",
@@ -10,58 +10,53 @@
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 39,
+    "temp_f": 41,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 40,
+    "temp_f": 43,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 40,
+    "temp_f": 46,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 42,
+    "temp_f": 46,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 42,
+    "temp_f": 46,
     "precip_chance_pct": 0
    },
    {
     "hour": "16:00",
-    "temp_f": 38,
+    "temp_f": 39,
     "precip_chance_pct": 0
    },
    {
     "hour": "17:00",
-    "temp_f": 36,
+    "temp_f": 37,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 34,
+    "temp_f": 35,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 33,
+    "temp_f": 35,
     "precip_chance_pct": 0
    }
   ]
  },
  "boston": {
-  "last_night": [
-   {
-    "league": "NBA",
-    "line": "GS 88, BOS 87 (F)"
-   }
-  ],
+  "last_night": [],
   "today": [
    {
     "league": "NBA",
@@ -80,8 +75,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "6-5",
-    "opponent_projected": 117.7,
-    "projected": 155.5
+    "opponent_projected": 116.4,
+    "projected": 156.7
    },
    {
     "owner": "Melissa",
@@ -90,8 +85,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "10-1",
-    "opponent_projected": 136.4,
-    "projected": 128
+    "opponent_projected": 135.7,
+    "projected": 127.6
    },
    {
     "owner": "Theo",
@@ -100,24 +95,24 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "6-5",
-    "opponent_projected": 135.9,
-    "projected": 102.3
+    "opponent_projected": 142.1,
+    "projected": 102.1
    }
   ],
   "lineup_alarm": [
    {
     "owner": "Dan",
     "league": "DB",
-    "player": "Justin Herbert",
-    "position": "QB",
+    "player": "Sam LaPorta",
+    "position": "TE",
     "status": "Questionable"
    },
    {
     "owner": "Dan",
-    "league": "DB",
-    "player": "Sam LaPorta",
+    "league": "ITC",
+    "player": "Brock Bowers",
     "position": "TE",
-    "status": "Questionable"
+    "status": "Out"
    },
    {
     "owner": "Dan",
