@@ -1,56 +1,56 @@
 {
- "generated_at": "2026-11-25T03:53:23.700Z",
+ "generated_at": "2026-11-25T16:33:52.062Z",
  "location": "Hanover, MA",
  "weather": {
-  "date": "2026-11-24",
-  "high_f": 46,
-  "low_f": 32,
-  "precip_chance_pct": 1,
+  "date": "2026-11-25",
+  "high_f": 43,
+  "low_f": 29,
+  "precip_chance_pct": 0,
   "summary": "Cloudy",
   "afternoon": [
    {
     "hour": "08:00",
-    "temp_f": 41,
+    "temp_f": 33,
     "precip_chance_pct": 0
    },
    {
     "hour": "09:00",
-    "temp_f": 43,
+    "temp_f": 37,
     "precip_chance_pct": 0
    },
    {
     "hour": "10:00",
-    "temp_f": 46,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "11:00",
-    "temp_f": 46,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "12:00",
-    "temp_f": 46,
-    "precip_chance_pct": 0
-   },
-   {
-    "hour": "16:00",
     "temp_f": 41,
     "precip_chance_pct": 0
    },
    {
+    "hour": "11:00",
+    "temp_f": 42,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "12:00",
+    "temp_f": 43,
+    "precip_chance_pct": 0
+   },
+   {
+    "hour": "16:00",
+    "temp_f": 40,
+    "precip_chance_pct": 0
+   },
+   {
     "hour": "17:00",
-    "temp_f": 39,
+    "temp_f": 37,
     "precip_chance_pct": 0
    },
    {
     "hour": "18:00",
-    "temp_f": 37,
+    "temp_f": 36,
     "precip_chance_pct": 0
    },
    {
     "hour": "19:00",
-    "temp_f": 37,
+    "temp_f": 35,
     "precip_chance_pct": 0
    }
   ]
@@ -80,8 +80,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "6-5",
-    "opponent_projected": 129.8,
-    "projected": 156.4
+    "opponent_projected": 131,
+    "projected": 156.1
    },
    {
     "owner": "Melissa",
@@ -90,8 +90,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "10-1",
-    "opponent_projected": 131.3,
-    "projected": 125.9
+    "opponent_projected": 130.9,
+    "projected": 125.2
    },
    {
     "owner": "Theo",
@@ -100,30 +100,16 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "6-5",
-    "opponent_projected": 144.3,
-    "projected": 98.9
+    "opponent_projected": 145.3,
+    "projected": 61.1
    }
   ],
   "lineup_alarm": [
    {
     "owner": "Dan",
-    "league": "DB",
-    "player": "Sam LaPorta",
-    "position": "TE",
-    "status": "Questionable"
-   },
-   {
-    "owner": "Dan",
     "league": "ITC",
     "player": "Brock Bowers",
     "position": "TE",
-    "status": "Out"
-   },
-   {
-    "owner": "Dan",
-    "league": "ITC",
-    "player": "Cam Little",
-    "position": "K",
     "status": "Questionable"
    }
   ]
