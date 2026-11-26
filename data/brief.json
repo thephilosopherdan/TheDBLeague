@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T16:33:52.062Z",
+ "generated_at": "2026-11-26T01:22:37.071Z",
  "location": "Hanover, MA",
  "weather": {
   "date": "2026-11-25",
-  "high_f": 43,
+  "high_f": 44,
   "low_f": 29,
   "precip_chance_pct": 0,
   "summary": "Cloudy",
@@ -20,17 +20,17 @@
    },
    {
     "hour": "10:00",
-    "temp_f": 41,
+    "temp_f": 40,
     "precip_chance_pct": 0
    },
    {
     "hour": "11:00",
-    "temp_f": 42,
+    "temp_f": 43,
     "precip_chance_pct": 0
    },
    {
     "hour": "12:00",
-    "temp_f": 43,
+    "temp_f": 44,
     "precip_chance_pct": 0
    },
    {
@@ -40,7 +40,7 @@
    },
    {
     "hour": "17:00",
-    "temp_f": 37,
+    "temp_f": 38,
     "precip_chance_pct": 0
    },
    {
@@ -50,7 +50,7 @@
    },
    {
     "hour": "19:00",
-    "temp_f": 35,
+    "temp_f": 38,
     "precip_chance_pct": 0
    }
   ]
@@ -80,8 +80,8 @@
     "opponent_owner": "velezjv",
     "opponent_team": "Papa Bear Down Chi-Town",
     "opponent_record": "6-5",
-    "opponent_projected": 131,
-    "projected": 156.1
+    "opponent_projected": 129.2,
+    "projected": 154.5
    },
    {
     "owner": "Melissa",
@@ -90,8 +90,8 @@
     "opponent_owner": "Tutes1173",
     "opponent_team": "North End Cannolis ",
     "opponent_record": "10-1",
-    "opponent_projected": 130.9,
-    "projected": 125.2
+    "opponent_projected": 144.1,
+    "projected": 125
    },
    {
     "owner": "Theo",
@@ -100,11 +100,39 @@
     "opponent_owner": "ryguy5188",
     "opponent_team": "Reno Deputies",
     "opponent_record": "6-5",
-    "opponent_projected": 145.3,
-    "projected": 61.1
+    "opponent_projected": 149.9,
+    "projected": 129
    }
   ],
   "lineup_alarm": [
+   {
+    "owner": "Dan",
+    "league": "DB",
+    "player": "Jaxon Smith-Njigba",
+    "position": "WR",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "DB",
+    "player": "Stefon Diggs",
+    "position": "WR",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "DB",
+    "player": "Isaiah Likely",
+    "position": "TE",
+    "status": "Questionable"
+   },
+   {
+    "owner": "Dan",
+    "league": "ITC",
+    "player": "Brock Purdy",
+    "position": "QB",
+    "status": "Questionable"
+   },
    {
     "owner": "Dan",
     "league": "ITC",
